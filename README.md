@@ -8,7 +8,7 @@
 - A report of the Network Topology is present in `report.pdf`, and the destinations used are present (and can be modified) in `sites.txt`. `sites_og.txt` and `sites_og_2.txt` can be specified as flags for more websites.
 
 ### Running the code
-- It is recommended to use a conda environment and install the required python packages. The code was tested on both MacOS and Linux
+- It is recommended to use a conda environment and install the required python packages. The code was tested on both MacOS and Linux. \
 To run the code, use:
 ```./run.sh <data-folder-list>```
 For example:
