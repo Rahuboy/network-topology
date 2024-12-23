@@ -1,0 +1,66 @@
+[
+    {
+        "AS Number": 13335,
+        "Organization": "CLOUDFLARENET, US"
+    },
+    {
+        "AS Number": 0,
+        "Organization": "Host"
+    },
+    {
+        "AS Number": 109,
+        "Organization": "CISCOSYSTEMS, US"
+    },
+    {
+        "AS Number": 64049,
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG"
+    },
+    {
+        "AS Number": 55836,
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN"
+    },
+    {
+        "AS Number": 54113,
+        "Organization": "FASTLY, US"
+    },
+    {
+        "AS Number": 32934,
+        "Organization": "FACEBOOK, US"
+    },
+    {
+        "AS Number": 2914,
+        "Organization": "NTT-LTD-2914, US"
+    },
+    {
+        "AS Number": 20940,
+        "Organization": "AKAMAI-ASN1, NL"
+    },
+    {
+        "AS Number": 14907,
+        "Organization": "WIKIMEDIA, US"
+    },
+    {
+        "AS Number": 16509,
+        "Organization": "AMAZON-02, US"
+    },
+    {
+        "AS Number": 16625,
+        "Organization": "AKAMAI-AS, US"
+    },
+    {
+        "AS Number": 3356,
+        "Organization": "LEVEL3, US"
+    },
+    {
+        "AS Number": 59193,
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN"
+    },
+    {
+        "AS Number": 4713,
+        "Organization": "OCN NTT Communications Corporation, JP"
+    },
+    {
+        "AS Number": 15169,
+        "Organization": "GOOGLE, US"
+    }
+]

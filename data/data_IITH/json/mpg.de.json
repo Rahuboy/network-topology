@@ -1,0 +1,86 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 10.341666666666667
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 132.69166666666666
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.6",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 58.78466666666665
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.31",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 0.9236666666666906
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.32",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": -4.847000000000008
+    },
+    {
+        "AS Number": "20965",
+        "IP": "62.40.125.214",
+        "Range": "62.40.96.0/19",
+        "Organization": "GEANT The GEANT IP Service, NL",
+        "Latency": -1.6803333333333512
+    },
+    {
+        "AS Number": "20965",
+        "IP": "62.40.98.182",
+        "Range": "62.40.96.0/19",
+        "Organization": "GEANT The GEANT IP Service, NL",
+        "Latency": -5.96666666666664
+    },
+    {
+        "AS Number": "20965",
+        "IP": "62.40.124.218",
+        "Range": "62.40.96.0/19",
+        "Organization": "GEANT The GEANT IP Service, NL",
+        "Latency": -0.14033333333333076
+    },
+    {
+        "AS Number": "680",
+        "IP": "188.1.238.182",
+        "Range": "188.1.0.0/16",
+        "Organization": "DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE",
+        "Latency": 3.1613333333333458
+    },
+    {
+        "AS Number": "207592",
+        "IP": "195.12.38.73",
+        "Range": "195.12.38.0/24",
+        "Organization": "GOENET, DE",
+        "Latency": 1.1459999999999866
+    },
+    {
+        "AS Number": "207592",
+        "IP": "134.76.147.181",
+        "Range": "134.76.0.0/16",
+        "Organization": "GOENET, DE",
+        "Latency": -2.1180000000000234
+    },
+    {
+        "AS Number": "207592",
+        "IP": "134.76.31.198",
+        "Range": "134.76.0.0/16",
+        "Organization": "GOENET, DE",
+        "Latency": 0.207666666666654
+    }
+]

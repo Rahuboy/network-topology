@@ -1,0 +1,30 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 17.713333333333335
+    },
+    {
+        "AS Number": "9498",
+        "IP": "182.71.238.101",
+        "Range": "182.71.238.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -2.2630000000000017
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.21.22",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": 28.493333333333332
+    },
+    {
+        "AS Number": "8075",
+        "IP": "20.207.73.82",
+        "Range": "20.192.0.0/10",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": 1.4456666666666678
+    }
+]

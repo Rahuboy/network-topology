@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.1",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 12.587
+    },
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 0.7506666666666693
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 14.061666666666666
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.9",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 124.27866666666667
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.153.21",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": -1.3930000000000007
+    },
+    {
+        "AS Number": "680",
+        "IP": "188.1.238.182",
+        "Range": "188.1.0.0/16",
+        "Organization": "DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE",
+        "Latency": 7.435000000000031
+    },
+    {
+        "AS Number": "207592",
+        "IP": "195.12.38.73",
+        "Range": "195.12.38.0/24",
+        "Organization": "GOENET, DE",
+        "Latency": 11.69999999999996
+    },
+    {
+        "AS Number": "207592",
+        "IP": "134.76.147.181",
+        "Range": "134.76.0.0/16",
+        "Organization": "GOENET, DE",
+        "Latency": -0.07400000000001228
+    },
+    {
+        "AS Number": "207592",
+        "IP": "134.76.31.198",
+        "Range": "134.76.0.0/16",
+        "Organization": "GOENET, DE",
+        "Latency": -1.8453333333333148
+    }
+]

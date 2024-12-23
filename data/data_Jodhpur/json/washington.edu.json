@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 8.095666666666666
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 9.775000000000002
+    },
+    {
+        "AS Number": "4755",
+        "IP": "14.143.159.181",
+        "Range": "14.143.158.0/23",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": -2.0500000000000007
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 18.690666666666665
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.153.49",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 121.93966666666665
+    },
+    {
+        "AS Number": "101",
+        "IP": "209.124.188.132",
+        "Range": "209.124.184.0/21",
+        "Organization": "WASH-NSF-AS, US",
+        "Latency": 144.5036666666667
+    },
+    {
+        "AS Number": "101",
+        "IP": "209.124.188.133",
+        "Range": "209.124.184.0/21",
+        "Organization": "WASH-NSF-AS, US",
+        "Latency": -0.695666666666682
+    },
+    {
+        "AS Number": "73",
+        "IP": "128.95.155.195",
+        "Range": "128.95.0.0/16",
+        "Organization": "WASHINGTON-AS, US",
+        "Latency": -2.5803333333333285
+    },
+    {
+        "AS Number": "73",
+        "IP": "128.95.155.198",
+        "Range": "128.95.0.0/16",
+        "Organization": "WASHINGTON-AS, US",
+        "Latency": -2.351000000000056
+    }
+]

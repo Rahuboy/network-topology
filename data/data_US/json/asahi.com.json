@@ -1,0 +1,30 @@
+[
+    {
+        "AS Number": "3356",
+        "IP": "4.14.218.21",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 275.866
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.30.178.54",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 9.583000000000027
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.203.156.159",
+        "Range": "23.203.156.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -4.360000000000014
+    },
+    {
+        "AS Number": "16625",
+        "IP": "104.106.248.223",
+        "Range": "104.106.240.0/20",
+        "Organization": "AKAMAI-AS, US",
+        "Latency": 4.453333333333319
+    }
+]

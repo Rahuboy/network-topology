@@ -1,0 +1,23 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 6.885666666666666
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 12.710666666666668
+    },
+    {
+        "AS Number": "16509",
+        "IP": "18.66.63.110",
+        "Range": "18.66.60.0/22",
+        "Organization": "AMAZON-02, US",
+        "Latency": -3.913000000000002
+    }
+]

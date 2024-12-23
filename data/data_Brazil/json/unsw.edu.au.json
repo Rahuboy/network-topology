@@ -1,0 +1,93 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 494.6155
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -126.3295
+    },
+    {
+        "AS Number": "61317",
+        "IP": "191.101.62.200",
+        "Range": "191.101.62.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": 18.387
+    },
+    {
+        "AS Number": "6762",
+        "IP": "185.100.112.48",
+        "Range": "185.100.112.0/22",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -13.834666666666692
+    },
+    {
+        "AS Number": "6762",
+        "IP": "195.22.221.231",
+        "Range": "195.22.192.0/19",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 163.99033333333335
+    },
+    {
+        "AS Number": "6762",
+        "IP": "89.221.35.193",
+        "Range": "89.221.32.0/20",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -19.173333333333403
+    },
+    {
+        "AS Number": "63956",
+        "IP": "45.112.244.182",
+        "Range": "45.112.244.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 170.25333333333333
+    },
+    {
+        "AS Number": "63956",
+        "IP": "45.112.244.197",
+        "Range": "45.112.244.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -4.8250000000000455
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.116.157",
+        "Range": "103.52.116.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 8.290333333333592
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.116.150",
+        "Range": "103.52.116.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -11.562666666666928
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.68",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -10.176999999999907
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.69",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -10.489666666666608
+    },
+    {
+        "AS Number": "9667",
+        "IP": "202.58.60.194",
+        "Range": "202.58.56.0/21",
+        "Organization": "HOSTWORKS-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -3.148333333333312
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "3269",
+        "IP": "88.48.0.0",
+        "Range": "88.48.0.0/15",
+        "Organization": "ASN-IBSNAZ, IT",
+        "Latency": 199.18533333333335
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.38.62",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -1.9096666666666806
+    },
+    {
+        "AS Number": "1299",
+        "IP": "213.248.87.21",
+        "Range": "213.248.64.0/18",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 1.1936666666666724
+    },
+    {
+        "AS Number": "3549",
+        "IP": "113.29.115.254",
+        "Range": "113.29.112.0/20",
+        "Organization": "LVLT-3549, US",
+        "Latency": 298.344
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.33.236",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": -3.240666666666641
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.39.177",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": -12.093333333333305
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.39.178",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": 5.5003333333332876
+    }
+]

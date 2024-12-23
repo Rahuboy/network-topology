@@ -1,0 +1,4 @@
+traceroute to hulu.com (23.220.203.59), 50 hops max, 60 byte packets
+* 203.208.149.221 (203.208.149.221)
+203.208.171.234 (203.208.171.234)
+a23-220-203-59.deploy.static.akamaitechnologies.com (23.220.203.59)

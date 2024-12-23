@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 5.905333333333334
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 14.593666666666664
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.150.41",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": -1.4343333333333312
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.174",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 28.485666666666667
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.56",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 125.2646666666667
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.79",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 4.226333333333315
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.216.4",
+        "Range": "155.232.0.0/16",
+        "Organization": "TENET-1, ZA",
+        "Latency": 14.51866666666669
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.1.86",
+        "Range": "155.232.0.0/17",
+        "Organization": "TENET-1, ZA",
+        "Latency": 169.65099999999998
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.1.153",
+        "Range": "155.232.0.0/17",
+        "Organization": "TENET-1, ZA",
+        "Latency": -12.682000000000016
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.1.97",
+        "Range": "155.232.0.0/17",
+        "Organization": "TENET-1, ZA",
+        "Latency": -1.178666666666686
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.128.89",
+        "Range": "155.232.0.0/16",
+        "Organization": "TENET-1, ZA",
+        "Latency": 3.3303333333333285
+    }
+]

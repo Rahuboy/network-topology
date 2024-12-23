@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 4.6946666666666665
+    },
+    {
+        "AS Number": "55836",
+        "IP": "115.247.100.29",
+        "Range": "115.240.0.0/13",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 2.2826666666666675
+    },
+    {
+        "AS Number": "2914",
+        "IP": "128.241.7.158",
+        "Range": "128.241.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 205.49866666666668
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.8",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -0.7846666666666806
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.6.177",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 62.247666666666646
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.73",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 100.60066666666665
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.199.54",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -40.23166666666663
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.203.145.31",
+        "Range": "23.203.144.0/20",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -29.966333333333296
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.219.78.206",
+        "Range": "23.219.78.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 54.371333333333325
+    }
+]

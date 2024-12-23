@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 302.0023333333333
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.71.234",
+        "Range": "157.240.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": -15.243999999999915
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.103.122",
+        "Range": "157.240.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": -16.361666666666792
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.104.163",
+        "Range": "157.240.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": 5.211333333333414
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.38.129",
+        "Range": "157.240.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": -1.5603333333333467
+    },
+    {
+        "AS Number": "32934",
+        "IP": "31.13.71.36",
+        "Range": "31.13.71.0/24",
+        "Organization": "FACEBOOK, US",
+        "Latency": -3.9669999999999845
+    }
+]

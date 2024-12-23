@@ -1,0 +1,93 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 307.1136666666667
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.45.9",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 67.71366666666665
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.112.68",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -74.70433333333335
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.112.245",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 38.31999999999999
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.133.239",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 9.706999999999937
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.122.139",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 6.541500000000099
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.138.47",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 7.507499999999993
+    },
+    {
+        "AS Number": "1299",
+        "IP": "213.248.79.190",
+        "Range": "213.248.64.0/18",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -4.875666666666689
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.36.177",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 9.339666666666687
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.36.126",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 30.41466666666662
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.92.1",
+        "Range": "192.33.92.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -36.17133333333328
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.92.169",
+        "Range": "192.33.92.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 4.949000000000012
+    },
+    {
+        "AS Number": "559",
+        "IP": "129.132.19.216",
+        "Range": "129.132.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 4.967333333333329
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 9.995000000000001
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 32.474999999999994
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.16",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 138.4045
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.154.31",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": -2.514166666666682
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.15.69",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": 1.8056666666666956
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.61.33",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -10.331000000000017
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.61.17",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -16.438333333333333
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.56.129",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 8.391333333333307
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.61.158",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -3.9979999999999905
+    },
+    {
+        "AS Number": "174",
+        "IP": "149.14.80.210",
+        "Range": "149.14.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": -11.432666666666648
+    },
+    {
+        "AS Number": "36944",
+        "IP": "196.32.210.57",
+        "Range": "196.32.208.0/21",
+        "Organization": "UBUNTU-UNICAST-AS, MW",
+        "Latency": 13.715999999999951
+    },
+    {
+        "AS Number": "36914",
+        "IP": "197.136.176.58",
+        "Range": "197.136.0.0/14",
+        "Organization": "KENET-AS, KE",
+        "Latency": 131.6653333333334
+    },
+    {
+        "AS Number": "36914",
+        "IP": "197.136.172.81",
+        "Range": "197.136.0.0/14",
+        "Organization": "KENET-AS, KE",
+        "Latency": 2.7736666666666565
+    },
+    {
+        "AS Number": "36914",
+        "IP": "41.204.161.206",
+        "Range": "41.204.161.0/24",
+        "Organization": "KENET-AS, KE",
+        "Latency": -5.971333333333348
+    }
+]

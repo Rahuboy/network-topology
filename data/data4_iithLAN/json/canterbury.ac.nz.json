@@ -1,0 +1,142 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 18.626
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 90.05366666666666
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.2",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 92.304
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.13",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 173.30166666666665
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.116",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 5.937666666666644
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.3",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -0.04166666666657193
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.139",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 9.194333333333248
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.2.17",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -61.690999999999974
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.2.18",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -5.274333333333345
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.245",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 2.6070000000000277
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.242",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -1.835333333333324
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.171",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 0.8109999999999786
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.157",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -1.6059999999999945
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.2.51",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 1.5369999999999777
+    },
+    {
+        "AS Number": "101",
+        "IP": "207.231.240.33",
+        "Range": "207.231.240.0/20",
+        "Organization": "WASH-NSF-AS, US",
+        "Latency": -3.3789999999999623
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.37.209",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": 348.1306666666666
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.37.210",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": -1.6240000000000236
+    },
+    {
+        "AS Number": "9432",
+        "IP": "202.36.179.65",
+        "Range": "202.36.178.0/23",
+        "Organization": "CANTERBURY-AS University of Canterbury, NZ",
+        "Latency": -114.37533333333329
+    },
+    {
+        "AS Number": "9432",
+        "IP": "132.181.3.236",
+        "Range": "132.181.0.0/16",
+        "Organization": "CANTERBURY-AS University of Canterbury, NZ",
+        "Latency": -34.890333333333274
+    },
+    {
+        "AS Number": "9432",
+        "IP": "132.181.106.9",
+        "Range": "132.181.0.0/16",
+        "Organization": "CANTERBURY-AS University of Canterbury, NZ",
+        "Latency": -54.10766666666672
+    }
+]

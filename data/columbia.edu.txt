@@ -1,0 +1,7 @@
+traceroute to columbia.edu (128.59.105.24), 50 hops max, 60 byte packets
+* * be2113.ccr42.dca01.atlas.cogentco.com (154.54.24.221)
+be2807.ccr42.jfk02.atlas.cogentco.com (154.54.40.109)
+be2897.rcr24.jfk01.atlas.cogentco.com (154.54.84.214)
+38.122.8.210 (38.122.8.210)
+cc-conc-1-x-cc-core-1.net.columbia.edu (128.59.255.21)
+* * www.neurotheory.columbia.edu (128.59.105.24)

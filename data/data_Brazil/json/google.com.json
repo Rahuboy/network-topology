@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 402.33899999999994
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": 19.838500000000067
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.152.21",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -13.484166666666681
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.145.158",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -39.786
+    },
+    {
+        "AS Number": "15169",
+        "IP": "172.253.50.119",
+        "Range": "172.253.0.0/16",
+        "Organization": "GOOGLE, US",
+        "Latency": -16.108666666666693
+    },
+    {
+        "AS Number": "15169",
+        "IP": "74.125.243.8",
+        "Range": "74.125.0.0/16",
+        "Organization": "GOOGLE, US",
+        "Latency": 9.09033333333332
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.250.227.231",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": 19.68700000000007
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.251.245.156",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": 4.352333333333263
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.250.39.225",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": -6.485333333333301
+    },
+    {
+        "AS Number": "15169",
+        "IP": "216.239.42.153",
+        "Range": "216.239.32.0/19",
+        "Organization": "GOOGLE, US",
+        "Latency": 9.93433333333337
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.251.129.78",
+        "Range": "142.251.129.0/24",
+        "Organization": "GOOGLE, US",
+        "Latency": -23.0266666666667
+    }
+]

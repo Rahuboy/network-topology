@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "3269",
+        "IP": "88.48.0.0",
+        "Range": "88.48.0.0/15",
+        "Organization": "ASN-IBSNAZ, IT",
+        "Latency": 214.34333333333333
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.38.62",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 20.089666666666687
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.132.115",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -21.594333333333367
+    },
+    {
+        "AS Number": "1299",
+        "IP": "80.239.196.67",
+        "Range": "80.239.192.0/19",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 0.6166666666666742
+    },
+    {
+        "AS Number": "54113",
+        "IP": "151.101.194.133",
+        "Range": "151.101.192.0/22",
+        "Organization": "FASTLY, US",
+        "Latency": 2.6226666666666745
+    }
+]

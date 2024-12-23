@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 301.2366666666666
+    },
+    {
+        "AS Number": "6453",
+        "IP": "66.110.96.21",
+        "Range": "66.110.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -6.255666666666627
+    },
+    {
+        "AS Number": "6453",
+        "IP": "66.110.96.59",
+        "Range": "66.110.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 44.550333333333356
+    },
+    {
+        "AS Number": "6453",
+        "IP": "63.243.128.167",
+        "Range": "63.243.128.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -4.784333333333336
+    },
+    {
+        "AS Number": "200350",
+        "IP": "130.193.63.246",
+        "Range": "130.193.32.0/19",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": 136.71499999999997
+    },
+    {
+        "AS Number": "200350",
+        "IP": "178.154.243.30",
+        "Range": "178.154.243.0/24",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": 74.17400000000009
+    }
+]

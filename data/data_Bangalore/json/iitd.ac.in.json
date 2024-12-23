@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 10.817
+    },
+    {
+        "AS Number": "4755",
+        "IP": "115.112.8.118",
+        "Range": "115.112.8.0/24",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 8.32
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.148.178",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 45.81533333333333
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": -9.532666666666657
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": 2.8216666666666583
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": -6.206999999999994
+    }
+]

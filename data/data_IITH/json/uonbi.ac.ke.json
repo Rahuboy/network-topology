@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 5.027
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 25.684
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.6",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 144.2646666666666
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.20",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": -0.8413333333332957
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.13",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 81.40700000000001
+    },
+    {
+        "AS Number": "36944",
+        "IP": "196.32.209.233",
+        "Range": "196.32.208.0/21",
+        "Organization": "UBUNTU-UNICAST-AS, MW",
+        "Latency": -2.65033333333335
+    },
+    {
+        "AS Number": "36944",
+        "IP": "196.32.210.88",
+        "Range": "196.32.208.0/21",
+        "Organization": "UBUNTU-UNICAST-AS, MW",
+        "Latency": -2.416999999999973
+    },
+    {
+        "AS Number": "36944",
+        "IP": "196.32.210.57",
+        "Range": "196.32.208.0/21",
+        "Organization": "UBUNTU-UNICAST-AS, MW",
+        "Latency": -0.9290000000000305
+    },
+    {
+        "AS Number": "36914",
+        "IP": "197.136.176.58",
+        "Range": "197.136.0.0/14",
+        "Organization": "KENET-AS, KE",
+        "Latency": 141.86133333333336
+    },
+    {
+        "AS Number": "36914",
+        "IP": "197.136.172.81",
+        "Range": "197.136.0.0/14",
+        "Organization": "KENET-AS, KE",
+        "Latency": -3.133000000000038
+    },
+    {
+        "AS Number": "36914",
+        "IP": "41.204.161.206",
+        "Range": "41.204.161.0/24",
+        "Organization": "KENET-AS, KE",
+        "Latency": 4.506000000000029
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 29.513
+    },
+    {
+        "AS Number": "9498",
+        "IP": "59.144.94.157",
+        "Range": "59.144.94.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -9.090333333333334
+    },
+    {
+        "AS Number": "9498",
+        "IP": "116.119.119.211",
+        "Range": "116.119.64.0/18",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 45.44766666666666
+    },
+    {
+        "AS Number": "7473",
+        "IP": "203.208.148.89",
+        "Range": "203.208.128.0/17",
+        "Organization": "SINGTEL-AS-AP Singapore Telecommunications Ltd, SG",
+        "Latency": -1.5309999999999917
+    },
+    {
+        "AS Number": "7473",
+        "IP": "203.208.153.94",
+        "Range": "203.208.128.0/17",
+        "Organization": "SINGTEL-AS-AP Singapore Telecommunications Ltd, SG",
+        "Latency": -3.9893333333333416
+    },
+    {
+        "AS Number": "7473",
+        "IP": "203.208.158.206",
+        "Range": "203.208.128.0/17",
+        "Organization": "SINGTEL-AS-AP Singapore Telecommunications Ltd, SG",
+        "Latency": 12.136666666666663
+    },
+    {
+        "AS Number": "7473",
+        "IP": "203.208.171.234",
+        "Range": "203.208.128.0/17",
+        "Organization": "SINGTEL-AS-AP Singapore Telecommunications Ltd, SG",
+        "Latency": 9.217333333333343
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.220.203.9",
+        "Range": "23.220.203.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -22.427666666666674
+    }
+]

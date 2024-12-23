@@ -1,0 +1,114 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 460.714
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -39.858000000000004
+    },
+    {
+        "AS Number": "61317",
+        "IP": "191.101.62.200",
+        "Range": "191.101.62.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -24.935000000000002
+    },
+    {
+        "AS Number": "6762",
+        "IP": "185.100.112.48",
+        "Range": "185.100.112.0/22",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -13.739999999999952
+    },
+    {
+        "AS Number": "6762",
+        "IP": "195.22.199.65",
+        "Range": "195.22.192.0/19",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 98.50099999999998
+    },
+    {
+        "AS Number": "3356",
+        "IP": "213.19.204.142",
+        "Range": "213.19.128.0/17",
+        "Organization": "LEVEL3, US",
+        "Latency": 108.90433333333328
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.37.34",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -14.074333333333243
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.37.190",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 8.799999999999955
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.37.58",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -21.982999999999947
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.36.170",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 20.560999999999922
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.37.65",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -2.890666666666675
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.38.109",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 30.62566666666669
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.36.126",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -26.98300000000006
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.92.1",
+        "Range": "192.33.92.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -5.875666666666575
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.92.169",
+        "Range": "192.33.92.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 27.438999999999965
+    },
+    {
+        "AS Number": "559",
+        "IP": "129.132.19.216",
+        "Range": "129.132.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -24.094999999999914
+    }
+]

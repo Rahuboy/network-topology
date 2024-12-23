@@ -1,0 +1,23 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 11.492333333333335
+    },
+    {
+        "AS Number": "4755",
+        "IP": "219.65.111.170",
+        "Range": "219.65.111.0/24",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 15.532666666666668
+    },
+    {
+        "AS Number": "16625",
+        "IP": "23.45.160.134",
+        "Range": "23.45.160.0/22",
+        "Organization": "AKAMAI-AS, US",
+        "Latency": -9.192333333333334
+    }
+]

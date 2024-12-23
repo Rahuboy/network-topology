@@ -1,0 +1,16 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 204.05133333333333
+    },
+    {
+        "AS Number": "16509",
+        "IP": "15.197.181.170",
+        "Range": "15.197.176.0/20",
+        "Organization": "AMAZON-02, US",
+        "Latency": -14.548666666666662
+    }
+]

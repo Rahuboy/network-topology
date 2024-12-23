@@ -1,0 +1,58 @@
+[
+    {
+        "AS Number": "3356",
+        "IP": "4.14.218.29",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 274.112
+    },
+    {
+        "AS Number": "3257",
+        "IP": "199.229.230.97",
+        "Range": "199.229.224.0/21",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 20.721000000000004
+    },
+    {
+        "AS Number": "3257",
+        "IP": "213.200.119.214",
+        "Range": "213.200.64.0/18",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 62.58633333333324
+    },
+    {
+        "AS Number": "3257",
+        "IP": "77.67.123.206",
+        "Range": "77.67.0.0/17",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 14.956000000000074
+    },
+    {
+        "AS Number": "2200",
+        "IP": "193.51.177.107",
+        "Range": "193.48.0.0/14",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": -10.931333333333328
+    },
+    {
+        "AS Number": "2200",
+        "IP": "193.51.184.177",
+        "Range": "193.48.0.0/14",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": -0.3186666666666724
+    },
+    {
+        "AS Number": "775",
+        "IP": "192.93.122.19",
+        "Range": "192.93.122.0/24",
+        "Organization": "FR-INRIA-ROCQ Institut National de Recherche en Informatique, EU",
+        "Latency": -1.2630000000000337
+    },
+    {
+        "AS Number": "2200",
+        "IP": "128.93.162.83",
+        "Range": "128.93.0.0/16",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": 9.842666666666673
+    }
+]

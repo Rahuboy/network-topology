@@ -1,0 +1,128 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 5.509
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 28.08866666666667
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.6",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 139.06966666666665
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.20",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 2.8820000000000334
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.13",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 79.81266666666664
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.116",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 67.3136666666667
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.9",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 1.990666666666641
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.139",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -0.6176666666667074
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.2.17",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 2.0550000000000637
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.2.18",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -2.072999999999979
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.245",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -0.7543333333334203
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.242",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 0.27400000000005775
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.171",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 0.1326666666666938
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.157",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 0.7383333333332871
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.2.55",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -0.132000000000005
+    },
+    {
+        "AS Number": "101",
+        "IP": "207.231.240.33",
+        "Range": "207.231.240.0/20",
+        "Organization": "WASH-NSF-AS, US",
+        "Latency": -1.228999999999985
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.39.177",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": 148.93833333333328
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.39.178",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": -18.78099999999995
+    }
+]

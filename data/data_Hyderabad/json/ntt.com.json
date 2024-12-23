@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 26.87166666666667
+    },
+    {
+        "AS Number": "9498",
+        "IP": "182.71.238.93",
+        "Range": "182.71.238.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -2.6590000000000025
+    },
+    {
+        "AS Number": "9498",
+        "IP": "116.119.68.224",
+        "Range": "116.119.64.0/18",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 41.45883333333333
+    },
+    {
+        "AS Number": "2914",
+        "IP": "116.51.31.53",
+        "Range": "116.51.16.0/20",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 0.33883333333334065
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.5.57",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 228.62766666666664
+    },
+    {
+        "AS Number": "2914",
+        "IP": "120.88.53.18",
+        "Range": "120.88.48.0/21",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -27.653999999999996
+    },
+    {
+        "AS Number": "4713",
+        "IP": "60.37.54.166",
+        "Range": "60.32.0.0/12",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -16.614666666666665
+    },
+    {
+        "AS Number": "4713",
+        "IP": "211.0.210.114",
+        "Range": "211.0.0.0/16",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -19.314333333333337
+    },
+    {
+        "AS Number": "4713",
+        "IP": "61.113.104.254",
+        "Range": "61.112.0.0/15",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -13.310666666666663
+    },
+    {
+        "AS Number": "4713",
+        "IP": "61.113.104.9",
+        "Range": "61.112.0.0/15",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": 5.065166666666698
+    }
+]

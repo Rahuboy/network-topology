@@ -1,0 +1,30 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 4.792666666666666
+    },
+    {
+        "AS Number": "55836",
+        "IP": "115.247.100.29",
+        "Range": "115.240.0.0/13",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 17.186333333333334
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.74.166",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 118.10933333333334
+    },
+    {
+        "AS Number": "174",
+        "IP": "149.14.135.122",
+        "Range": "149.14.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": 36.50866666666664
+    }
+]

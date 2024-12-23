@@ -1,0 +1,128 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 63.63066666666666
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 0.8603333333333367
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.6",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 107.61666666666666
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.20",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 6.705666666666701
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.13",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 79.29566666666662
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.116",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 21.64566666666667
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.9",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 1.6726666666666574
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.135",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -1.028666666666652
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.100",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -0.18366666666668152
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.2.33",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 0.912333333333379
+    },
+    {
+        "AS Number": "11537",
+        "IP": "64.57.28.62",
+        "Range": "64.57.16.0/20",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 3.195666666666682
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.255.90",
+        "Range": "200.143.192.0/18",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 107.02766666666662
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.252.234",
+        "Range": "200.143.192.0/18",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 6.270333333333269
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.253.22",
+        "Range": "200.143.192.0/18",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 16.001666666666722
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.53",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": -14.881000000000029
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.65",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 5.923999999999978
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.200.254",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": 195.7390000000001
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.84.216",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": 0.40733333333332666
+    }
+]

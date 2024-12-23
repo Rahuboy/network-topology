@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 7.966000000000001
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 7.9129999999999985
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.150.41",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 1.2576666666666672
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.64",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 35.611666666666665
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.15",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 35.94733333333333
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.15",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 1.075666666666649
+    },
+    {
+        "AS Number": "14907",
+        "IP": "103.102.166.224",
+        "Range": "103.102.166.0/24",
+        "Organization": "WIKIMEDIA, US",
+        "Latency": 1.9963333333333537
+    }
+]

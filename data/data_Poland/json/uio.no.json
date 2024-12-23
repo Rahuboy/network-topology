@@ -1,0 +1,114 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 214.126
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.38.62",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 84.42299999999997
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.120.68",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -76.63033333333331
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.136.195",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -11.580333333333328
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.11.42",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 7.036666666666662
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.97.74",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 1.2843333333333078
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.97.14",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 9.54533333333336
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.98.121",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 1.238333333333344
+    },
+    {
+        "AS Number": "224",
+        "IP": "128.39.254.204",
+        "Range": "128.39.0.0/16",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": -0.9403333333333421
+    },
+    {
+        "AS Number": "224",
+        "IP": "128.39.255.64",
+        "Range": "128.39.0.0/16",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": 18.072333333333347
+    },
+    {
+        "AS Number": "224",
+        "IP": "128.39.254.82",
+        "Range": "128.39.0.0/16",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": -5.698333333333352
+    },
+    {
+        "AS Number": "224",
+        "IP": "128.39.65.18",
+        "Range": "128.39.0.0/16",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": -14.205000000000013
+    },
+    {
+        "AS Number": "224",
+        "IP": "129.240.100.69",
+        "Range": "129.240.0.0/15",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": 1.902666666666704
+    },
+    {
+        "AS Number": "224",
+        "IP": "129.240.100.66",
+        "Range": "129.240.0.0/15",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": -4.708000000000055
+    },
+    {
+        "AS Number": "224",
+        "IP": "129.240.25.162",
+        "Range": "129.240.0.0/15",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": 6.430333333333351
+    },
+    {
+        "AS Number": "224",
+        "IP": "129.240.118.130",
+        "Range": "129.240.0.0/15",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": -6.3066666666666436
+    }
+]

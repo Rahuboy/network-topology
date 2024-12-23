@@ -1,0 +1,10 @@
+traceroute to cmu.edu (128.2.42.10), 50 hops max, 60 byte packets
+abts-ap-static-1.16.230.223.airtelbroadband.in (223.230.16.1)
+59.144.94.165 (59.144.94.165)
+116.119.55.207 (116.119.55.207)
+* * port-channel8.core2.oma1.he.net (184.104.199.42)
+216.56.50.86 (216.56.50.86)
+100.121.0.33 (100.121.0.33)
+CORE255-POD-I-DCNS-8500.GW.CMU.NET (128.2.255.181)
+* * POD-D-DCNS-CORE255.GW.CMU.NET (128.2.255.210)
+CMU-VIP.ANDREW.CMU.EDU (128.2.42.10)

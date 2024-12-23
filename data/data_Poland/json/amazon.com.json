@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 199.43066666666667
+    },
+    {
+        "AS Number": "3257",
+        "IP": "212.221.1.133",
+        "Range": "212.221.0.0/17",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 333.95966666666664
+    },
+    {
+        "AS Number": "3257",
+        "IP": "89.149.186.217",
+        "Range": "89.149.128.0/18",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": -219.37333333333328
+    },
+    {
+        "AS Number": "3257",
+        "IP": "209.120.155.138",
+        "Range": "209.120.128.0/17",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": -22.72999999999996
+    },
+    {
+        "AS Number": "16509",
+        "IP": "52.94.236.248",
+        "Range": "52.94.224.0/20",
+        "Organization": "AMAZON-02, US",
+        "Latency": 11.305666666666639
+    }
+]

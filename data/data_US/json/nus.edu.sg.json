@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "1299",
+        "IP": "62.115.45.9",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 271.4283333333333
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.112.68",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -5.312666666666587
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.141.244",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 15.489999999999952
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.123.123",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -3.786333333333289
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.55.139",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 6.9599999999999795
+    },
+    {
+        "AS Number": "19551",
+        "IP": "45.60.35.225",
+        "Range": "45.60.35.0/24",
+        "Organization": "INCAPSULA, US",
+        "Latency": -12.457666666666682
+    }
+]

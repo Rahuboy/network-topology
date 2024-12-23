@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 460.78000000000003
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -35.325500000000034
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.152.21",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -17.947166666666703
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.68.37.222",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 80.46900000000005
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.200.114",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -0.9826666666666029
+    },
+    {
+        "AS Number": "20080",
+        "IP": "170.39.8.30",
+        "Range": "170.39.8.0/23",
+        "Organization": "AMPATH, US",
+        "Latency": -1.776666666666813
+    },
+    {
+        "AS Number": "20080",
+        "IP": "190.103.185.187",
+        "Range": "190.103.184.0/22",
+        "Organization": "AMPATH, US",
+        "Latency": 159.33166666666665
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.1.68",
+        "Range": "155.232.0.0/17",
+        "Organization": "TENET-1, ZA",
+        "Latency": 2.6946666666667625
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.1.97",
+        "Range": "155.232.0.0/17",
+        "Organization": "TENET-1, ZA",
+        "Latency": 25.18633333333321
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.128.89",
+        "Range": "155.232.0.0/16",
+        "Organization": "TENET-1, ZA",
+        "Latency": -31.722666666666555
+    }
+]

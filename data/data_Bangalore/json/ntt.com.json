@@ -1,0 +1,114 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.1",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 15.551
+    },
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 0.6733333333333338
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.36.9",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 6.83966666666667
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.36.41",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 30.425499999999996
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.108.163",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -2.988500000000002
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.5.61",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 9.138000000000005
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.67",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 60.441333333333326
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.7.33",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 10.309666666666686
+    },
+    {
+        "AS Number": "2914",
+        "IP": "61.200.80.14",
+        "Range": "61.200.80.0/20",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -0.8896666666666704
+    },
+    {
+        "AS Number": "4713",
+        "IP": "153.149.219.145",
+        "Range": "153.128.0.0/10",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -0.005000000000023874
+    },
+    {
+        "AS Number": "4713",
+        "IP": "125.170.97.73",
+        "Range": "125.170.0.0/16",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -3.2179999999999893
+    },
+    {
+        "AS Number": "4713",
+        "IP": "125.170.97.130",
+        "Range": "125.170.0.0/16",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -0.6099999999999994
+    },
+    {
+        "AS Number": "4713",
+        "IP": "60.37.54.166",
+        "Range": "60.32.0.0/12",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -1.7693333333333214
+    },
+    {
+        "AS Number": "4713",
+        "IP": "211.0.210.114",
+        "Range": "211.0.0.0/16",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": 5.10466666666666
+    },
+    {
+        "AS Number": "4713",
+        "IP": "61.113.104.254",
+        "Range": "61.112.0.0/15",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": 4.357333333333315
+    },
+    {
+        "AS Number": "4713",
+        "IP": "61.113.104.9",
+        "Range": "61.112.0.0/15",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -4.264999999999986
+    }
+]

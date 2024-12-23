@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 279.27866666666665
+    },
+    {
+        "AS Number": "14061",
+        "IP": "162.243.191.243",
+        "Range": "162.243.191.0/24",
+        "Organization": "DIGITALOCEAN-ASN, US",
+        "Latency": 2.940333333333342
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.251.78.59",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": -7.085666666666725
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.251.60.233",
+        "Range": "142.251.60.0/24",
+        "Organization": "GOOGLE, US",
+        "Latency": -8.831666666666592
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.250.81.238",
+        "Range": "142.250.81.0/24",
+        "Organization": "GOOGLE, US",
+        "Latency": 14.326000000000022
+    }
+]

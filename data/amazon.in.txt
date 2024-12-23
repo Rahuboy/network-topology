@@ -1,0 +1,6 @@
+traceroute to amazon.in (52.95.120.67), 50 hops max, 60 byte packets
+abts-ap-static-1.16.230.223.airtelbroadband.in (223.230.16.1)
+nsg-static-101.238.71.182.airtel.in (182.71.238.101)
+116.119.35.52 (116.119.35.52)
+150.222.192.164 (150.222.192.164)
+52.95.120.67 (52.95.120.67)

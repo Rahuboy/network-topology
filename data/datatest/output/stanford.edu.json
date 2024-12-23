@@ -1,0 +1,116 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN"
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN"
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.2",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN"
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.13",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN"
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.116",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US"
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.123",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US"
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.211",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US"
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.206",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US"
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.2.29",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US"
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.250",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US"
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.169",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US"
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.186",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US"
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.34",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US"
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.193",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US"
+    },
+    {
+        "AS Number": "2153",
+        "IP": "137.164.26.126",
+        "Range": "137.164.26.0/23",
+        "Organization": "CSUNET-NE, US"
+    },
+    {
+        "AS Number": "2153",
+        "IP": "137.164.25.95",
+        "Range": "137.164.25.0/24",
+        "Organization": "CSUNET-NE, US"
+    },
+    {
+        "AS Number": "2153",
+        "IP": "137.164.26.241",
+        "Range": "137.164.26.0/23",
+        "Organization": "CSUNET-NE, US"
+    },
+    {
+        "AS Number": "32",
+        "IP": "171.66.255.132",
+        "Range": "171.64.0.0/14",
+        "Organization": "STANFORD, US"
+    },
+    {
+        "AS Number": "32",
+        "IP": "171.67.215.200",
+        "Range": "171.64.0.0/14",
+        "Organization": "STANFORD, US"
+    }
+]

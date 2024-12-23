@@ -1,0 +1,4 @@
+traceroute to mit.edu (118.214.38.14), 50 hops max, 60 byte packets
+abts-ap-static-1.16.230.223.airtelbroadband.in (223.230.16.1)
+202.56.234.81 (202.56.234.81)
+a118-214-38-14.deploy.static.akamaitechnologies.com (118.214.38.14)

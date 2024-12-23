@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 22.532666666666668
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.36.9",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 2.2466666666666626
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.108.163",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 41.07666666666668
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.67",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 55.95933333333333
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.176",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 105.81233333333333
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.7.68",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 36.49799999999996
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.218",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 4.623333333333392
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.4",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 5.984999999999957
+    },
+    {
+        "AS Number": "2914",
+        "IP": "168.143.228.101",
+        "Range": "168.143.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 127.65066666666667
+    },
+    {
+        "AS Number": "19037",
+        "IP": "170.51.254.175",
+        "Range": "170.51.254.0/24",
+        "Organization": "AMX Argentina S.A., AR",
+        "Latency": 8.334000000000003
+    }
+]

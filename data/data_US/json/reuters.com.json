@@ -1,0 +1,30 @@
+[
+    {
+        "AS Number": "3356",
+        "IP": "4.14.218.21",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 274.236
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.69.202.110",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 55.45233333333334
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.53.161.38",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": -15.697000000000003
+    },
+    {
+        "AS Number": "4583",
+        "IP": "167.68.44.27",
+        "Range": "167.68.0.0/16",
+        "Organization": "THOMSON-REUTERS, US",
+        "Latency": 230.1086666666667
+    }
+]

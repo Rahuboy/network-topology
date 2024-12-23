@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "3356",
+        "IP": "4.14.218.21",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 274.43
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.30.178.54",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 11.186333333333323
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.203.156.36",
+        "Range": "23.203.156.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -9.71333333333331
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.32.63.169",
+        "Range": "23.32.62.0/23",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 2.168333333333294
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.203.152.41",
+        "Range": "23.203.152.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 14.288333333333355
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.203.152.231",
+        "Range": "23.203.152.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -6.098333333333358
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.222.12.51",
+        "Range": "23.222.12.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 5.560000000000059
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.50",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 33.417
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.71.200.2",
+        "Range": "172.71.200.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": -1.7230000000000025
+    },
+    {
+        "AS Number": "209242",
+        "IP": "141.193.213.20",
+        "Range": "141.193.213.0/24",
+        "Organization": "CLOUDFLARESPECTRUM Cloudflare, Inc., US",
+        "Latency": 6.426666666666666
+    }
+]

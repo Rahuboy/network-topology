@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 3.6193333333333335
+    },
+    {
+        "AS Number": "15169",
+        "IP": "72.14.195.128",
+        "Range": "72.14.192.0/18",
+        "Organization": "GOOGLE, US",
+        "Latency": 31.955666666666662
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.251.227.213",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": -3.5566666666666578
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.250.228.81",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": -0.7486666666666721
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.250.67.46",
+        "Range": "142.250.67.0/24",
+        "Organization": "GOOGLE, US",
+        "Latency": -2.658666666666665
+    }
+]

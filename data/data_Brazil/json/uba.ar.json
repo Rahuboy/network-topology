@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 463.1093333333333
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -37.25983333333329
+    },
+    {
+        "AS Number": "61317",
+        "IP": "191.101.62.200",
+        "Range": "191.101.62.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -32.13616666666667
+    },
+    {
+        "AS Number": "6762",
+        "IP": "185.100.112.48",
+        "Range": "185.100.112.0/22",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -29.156000000000006
+    },
+    {
+        "AS Number": "6762",
+        "IP": "185.70.203.89",
+        "Range": "185.70.200.0/22",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 17.05833333333328
+    },
+    {
+        "AS Number": "6762",
+        "IP": "195.22.220.47",
+        "Range": "195.22.192.0/19",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 27.368000000000052
+    },
+    {
+        "AS Number": "19037",
+        "IP": "170.51.254.175",
+        "Range": "170.51.254.0/24",
+        "Organization": "AMX Argentina S.A., AR",
+        "Latency": -2.657666666666671
+    }
+]

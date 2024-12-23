@@ -1,0 +1,58 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 35.34433333333333
+    },
+    {
+        "AS Number": "9498",
+        "IP": "59.144.94.157",
+        "Range": "59.144.94.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -13.051333333333332
+    },
+    {
+        "AS Number": "9498",
+        "IP": "116.119.81.149",
+        "Range": "116.119.64.0/18",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 38.60866666666667
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.68.70.113",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": -0.5541666666666742
+    },
+    {
+        "AS Number": "3549",
+        "IP": "113.29.115.254",
+        "Range": "113.29.112.0/20",
+        "Organization": "LVLT-3549, US",
+        "Latency": 90.83616666666666
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.33.236",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": 24.999000000000024
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.39.177",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": 0.841666666666697
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.39.178",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": 1.7323333333332869
+    }
+]

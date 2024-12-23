@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.50",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 27.765
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.250.166.160",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": 32.251333333333335
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.251.76.33",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": 5.500999999999991
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.251.77.99",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": -39.78866666666666
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.250.199.142",
+        "Range": "142.250.199.0/24",
+        "Organization": "GOOGLE, US",
+        "Latency": -0.3200000000000003
+    }
+]

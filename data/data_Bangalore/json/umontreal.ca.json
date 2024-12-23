@@ -1,0 +1,100 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.1",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 12.303
+    },
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 1.575666666666665
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 24.253999999999998
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.16",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 193.23933333333335
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.70",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": -5.418000000000006
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.175.5",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 14.110666666666646
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.130.129",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 14.63833333333335
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.131.1",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 7.019666666666666
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.131.158",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": -3.049666666666667
+    },
+    {
+        "AS Number": "6453",
+        "IP": "64.86.226.57",
+        "Range": "64.86.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 2.1469999999999914
+    },
+    {
+        "AS Number": "6453",
+        "IP": "216.6.115.89",
+        "Range": "216.6.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -30.103999999999985
+    },
+    {
+        "AS Number": "6453",
+        "IP": "206.82.135.34",
+        "Range": "206.82.128.0/20",
+        "Organization": "AS6453, US",
+        "Latency": -15.429000000000002
+    },
+    {
+        "AS Number": "376",
+        "IP": "192.77.63.26",
+        "Range": "192.77.63.0/24",
+        "Organization": "RISQ-AS, CA",
+        "Latency": 16.91300000000001
+    },
+    {
+        "AS Number": "376",
+        "IP": "206.167.128.74",
+        "Range": "206.167.128.0/17",
+        "Organization": "RISQ-AS, CA",
+        "Latency": -8.031000000000006
+    }
+]

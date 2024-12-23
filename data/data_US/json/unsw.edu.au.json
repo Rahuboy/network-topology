@@ -1,0 +1,128 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 304.079
+    },
+    {
+        "AS Number": "2914",
+        "IP": "157.238.179.153",
+        "Range": "157.238.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -17.53133333333335
+    },
+    {
+        "AS Number": "174",
+        "IP": "66.28.4.181",
+        "Range": "66.28.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": 4.5306666666666615
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.40.106",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -13.664666666666676
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.7.158",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 22.17733333333331
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.28.70",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 13.337666666666735
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.0.54",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 9.986333333333334
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.5.217",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 13.383999999999958
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.44.86",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 34.66766666666672
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.42.102",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -27.24200000000002
+    },
+    {
+        "AS Number": "174",
+        "IP": "38.142.35.186",
+        "Range": "38.0.0.0/8",
+        "Organization": "COGENT-174, US",
+        "Latency": -12.398666666666657
+    },
+    {
+        "AS Number": "63956",
+        "IP": "45.112.244.198",
+        "Range": "45.112.244.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 158.44233333333324
+    },
+    {
+        "AS Number": "63956",
+        "IP": "45.112.244.197",
+        "Range": "45.112.244.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 1.1206666666666933
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.116.157",
+        "Range": "103.52.116.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -1.0176666666666279
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.116.150",
+        "Range": "103.52.116.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 10.728999999999985
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.68",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -8.456333333333362
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.67",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 0.3199999999999932
+    },
+    {
+        "AS Number": "9667",
+        "IP": "202.58.60.194",
+        "Range": "202.58.56.0/21",
+        "Organization": "HOSTWORKS-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 27.700333333333333
+    }
+]

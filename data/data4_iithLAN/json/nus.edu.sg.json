@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 6.186
+    },
+    {
+        "AS Number": "55836",
+        "IP": "115.247.100.29",
+        "Range": "115.240.0.0/13",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 10.045333333333335
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.142.223",
+        "Range": "103.198.142.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 153.37233333333333
+    },
+    {
+        "AS Number": "8966",
+        "IP": "195.229.1.160",
+        "Range": "195.229.0.0/19",
+        "Organization": "ETISALAT-AS P.O. Box 1150, Dubai, U, AE",
+        "Latency": 1.9926666666666506
+    },
+    {
+        "AS Number": "8966",
+        "IP": "195.229.0.139",
+        "Range": "195.229.0.0/24",
+        "Organization": "ETISALAT-AS P.O. Box 1150, Dubai, U, AE",
+        "Latency": -15.83899999999997
+    },
+    {
+        "AS Number": "8966",
+        "IP": "195.229.27.98",
+        "Range": "195.229.0.0/19",
+        "Organization": "ETISALAT-AS P.O. Box 1150, Dubai, U, AE",
+        "Latency": 10.632333333333321
+    },
+    {
+        "AS Number": "200612",
+        "IP": "185.100.209.28",
+        "Range": "185.100.209.0/24",
+        "Organization": "GULFBRIDGEINTERNATIONAL, VG",
+        "Latency": 27.82833333333332
+    },
+    {
+        "AS Number": "200612",
+        "IP": "185.100.209.30",
+        "Range": "185.100.209.0/24",
+        "Organization": "GULFBRIDGEINTERNATIONAL, VG",
+        "Latency": -9.978999999999985
+    },
+    {
+        "AS Number": "200612",
+        "IP": "185.100.211.162",
+        "Range": "185.100.211.0/24",
+        "Organization": "GULFBRIDGEINTERNATIONAL, VG",
+        "Latency": 10.398666666666657
+    },
+    {
+        "AS Number": "19551",
+        "IP": "45.60.33.225",
+        "Range": "45.60.33.0/24",
+        "Organization": "INCAPSULA, US",
+        "Latency": -6.694999999999993
+    }
+]

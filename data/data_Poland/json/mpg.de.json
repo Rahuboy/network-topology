@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 191.39200000000002
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.38.62",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 20.164999999999992
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.132.109",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -15.120333333333377
+    },
+    {
+        "AS Number": "1299",
+        "IP": "213.248.100.167",
+        "Range": "213.248.64.0/18",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 7.566333333333375
+    },
+    {
+        "AS Number": "680",
+        "IP": "188.1.144.137",
+        "Range": "188.1.0.0/16",
+        "Organization": "DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE",
+        "Latency": 8.605333333333334
+    },
+    {
+        "AS Number": "680",
+        "IP": "188.1.245.238",
+        "Range": "188.1.0.0/16",
+        "Organization": "DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE",
+        "Latency": -7.934666666666686
+    },
+    {
+        "AS Number": "207592",
+        "IP": "195.12.38.69",
+        "Range": "195.12.38.0/24",
+        "Organization": "GOENET, DE",
+        "Latency": -2.20799999999997
+    },
+    {
+        "AS Number": "207592",
+        "IP": "134.76.147.181",
+        "Range": "134.76.0.0/16",
+        "Organization": "GOENET, DE",
+        "Latency": 10.003999999999962
+    },
+    {
+        "AS Number": "207592",
+        "IP": "134.76.31.198",
+        "Range": "134.76.0.0/16",
+        "Organization": "GOENET, DE",
+        "Latency": -8.566666666666634
+    }
+]

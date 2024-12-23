@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 24.682333333333332
+    },
+    {
+        "AS Number": "9498",
+        "IP": "202.56.234.85",
+        "Range": "202.56.234.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -2.4883333333333333
+    },
+    {
+        "AS Number": "9498",
+        "IP": "116.119.68.220",
+        "Range": "116.119.64.0/18",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 43.55800000000001
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.97.54.4",
+        "Range": "103.97.54.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 68.08466666666666
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.70",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 0.9969999999999857
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.65",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -0.6956666666666536
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.9",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 3.11966666666666
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.68",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -3.247000000000014
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.67",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -1.5723333333333471
+    },
+    {
+        "AS Number": "9667",
+        "IP": "202.58.60.194",
+        "Range": "202.58.56.0/21",
+        "Organization": "HOSTWORKS-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -2.2243333333333055
+    }
+]

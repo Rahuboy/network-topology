@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 14.837000000000002
+    },
+    {
+        "AS Number": "9498",
+        "IP": "59.144.94.157",
+        "Range": "59.144.94.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -0.38066666666666826
+    },
+    {
+        "AS Number": "9498",
+        "IP": "116.119.68.186",
+        "Range": "116.119.64.0/18",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 16.066999999999997
+    },
+    {
+        "AS Number": "9498",
+        "IP": "182.79.161.173",
+        "Range": "182.79.161.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 3.407
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.69.82.3",
+        "Range": "172.69.82.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": 3.13600000000001
+    },
+    {
+        "AS Number": "209242",
+        "IP": "141.193.213.20",
+        "Range": "141.193.213.0/24",
+        "Organization": "CLOUDFLARESPECTRUM Cloudflare, Inc., US",
+        "Latency": -1.3920000000000101
+    }
+]

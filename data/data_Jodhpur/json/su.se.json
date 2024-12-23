@@ -1,0 +1,135 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 8.410666666666666
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 7.951000000000002
+    },
+    {
+        "AS Number": "4755",
+        "IP": "14.143.159.181",
+        "Range": "14.143.158.0/23",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 0.639999999999997
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 17.868333333333332
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.87.195",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 123.917
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.136.195",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 5.515666666666675
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.11.42",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -10.798000000000002
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.97.74",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 7.185333333333347
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.97.2",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 21.063333333333304
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.102.3",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 7.555333333333351
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.63",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": -17.01933333333338
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.54",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": -0.61099999999999
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.53",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 15.462000000000046
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.79",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": -17.28000000000003
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.59",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 13.816666666666663
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.6.143",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": -6.7053333333333285
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.237.154.175",
+        "Range": "130.237.0.0/16",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": -2.4686666666666497
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.237.243.1",
+        "Range": "130.237.0.0/16",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": -3.612000000000023
+    },
+    {
+        "AS Number": "1653",
+        "IP": "193.11.30.171",
+        "Range": "193.11.0.0/16",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 1.3043333333333464
+    }
+]

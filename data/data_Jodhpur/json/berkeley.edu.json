@@ -1,0 +1,30 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 8.977333333333332
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 15.122333333333335
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.71.196.2",
+        "Range": "172.71.196.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": 15.932999999999996
+    },
+    {
+        "AS Number": "209242",
+        "IP": "141.193.213.20",
+        "Range": "141.193.213.0/24",
+        "Organization": "CLOUDFLARESPECTRUM Cloudflare, Inc., US",
+        "Latency": 9.110333333333337
+    }
+]

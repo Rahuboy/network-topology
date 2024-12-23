@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 16.089000000000002
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 13.62233333333333
+    },
+    {
+        "AS Number": "2200",
+        "IP": "193.51.184.177",
+        "Range": "193.48.0.0/14",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": 135.44666666666666
+    },
+    {
+        "AS Number": "775",
+        "IP": "192.93.122.19",
+        "Range": "192.93.122.0/24",
+        "Organization": "FR-INRIA-ROCQ Institut National de Recherche en Informatique, EU",
+        "Latency": -14.723666666666645
+    },
+    {
+        "AS Number": "2200",
+        "IP": "128.93.162.83",
+        "Range": "128.93.0.0/16",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": 6.847666666666669
+    }
+]

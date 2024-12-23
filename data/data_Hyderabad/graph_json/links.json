@@ -1,0 +1,440 @@
+[
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 40.36166666666667,
+        "Path": "uio.no"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 192.21533333333332,
+        "Path": "uio.no"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 2603,
+        "Latency": 46.40966666666668,
+        "Path": "uio.no"
+    },
+    {
+        "AS_Src": 2603,
+        "AS_Dst": 224,
+        "Latency": -20.792666666666662,
+        "Path": "uio.no"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 38.95933333333334,
+        "Path": "canterbury.ac.nz"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 201.29966666666667,
+        "Path": "canterbury.ac.nz"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 6939,
+        "Latency": 20.085500000000025,
+        "Path": "canterbury.ac.nz"
+    },
+    {
+        "AS_Src": 6939,
+        "AS_Dst": 4826,
+        "Latency": 90.17049999999995,
+        "Path": "canterbury.ac.nz"
+    },
+    {
+        "AS_Src": 4826,
+        "AS_Dst": 9790,
+        "Latency": -73.55433333333332,
+        "Path": "canterbury.ac.nz"
+    },
+    {
+        "AS_Src": 9790,
+        "AS_Dst": 23655,
+        "Latency": 29.186000000000035,
+        "Path": "canterbury.ac.nz"
+    },
+    {
+        "AS_Src": 23655,
+        "AS_Dst": 9432,
+        "Latency": -34.70833333333337,
+        "Path": "canterbury.ac.nz"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 24.399333333333335,
+        "Path": "cloudflare.com"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": -6.6803333333333335,
+        "Path": "cloudflare.com"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 13335,
+        "Latency": 2.846,
+        "Path": "cloudflare.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 25.61233333333333,
+        "Path": "google.com"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 4.658000000000001,
+        "Path": "google.com"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 15169,
+        "Latency": -0.9823333333333295,
+        "Path": "google.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 14.837000000000002,
+        "Path": "berkeley.edu"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 19.093333333333327,
+        "Path": "berkeley.edu"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 13335,
+        "Latency": 3.13600000000001,
+        "Path": "berkeley.edu"
+    },
+    {
+        "AS_Src": 13335,
+        "AS_Dst": 209242,
+        "Latency": -1.3920000000000101,
+        "Path": "berkeley.edu"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 18.458333333333332,
+        "Path": "harvard.edu"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": -6.474833333333333,
+        "Path": "harvard.edu"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 54113,
+        "Latency": 10.389,
+        "Path": "harvard.edu"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 28.846666666666668,
+        "Path": "cambridgeinternational.org"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": -4.797333333333334,
+        "Path": "cambridgeinternational.org"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 13335,
+        "Latency": -14.933333333333334,
+        "Path": "cambridgeinternational.org"
+    },
+    {
+        "AS_Src": 13335,
+        "AS_Dst": 198032,
+        "Latency": 173.1253333333333,
+        "Path": "cambridgeinternational.org"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 26.87166666666667,
+        "Path": "ntt.com"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 38.799833333333325,
+        "Path": "ntt.com"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 2914,
+        "Latency": 201.3125,
+        "Path": "ntt.com"
+    },
+    {
+        "AS_Src": 2914,
+        "AS_Dst": 4713,
+        "Latency": -44.174499999999966,
+        "Path": "ntt.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 27.551666666666666,
+        "Path": "ibibo.com"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 37.899333333333345,
+        "Path": "ibibo.com"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 16509,
+        "Latency": -3.461333333333343,
+        "Path": "ibibo.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 39.34966666666667,
+        "Path": "su.se"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 193.16233333333335,
+        "Path": "su.se"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 2603,
+        "Latency": 32.69466666666665,
+        "Path": "su.se"
+    },
+    {
+        "AS_Src": 2603,
+        "AS_Dst": 1653,
+        "Latency": 16.370666666666693,
+        "Path": "su.se"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 39.504,
+        "Path": "uonbi.ac.ke"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 104.22066666666666,
+        "Path": "uonbi.ac.ke"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 36944,
+        "Latency": 41.762333333333345,
+        "Path": "uonbi.ac.ke"
+    },
+    {
+        "AS_Src": 36944,
+        "AS_Dst": 36914,
+        "Latency": 169.13449999999997,
+        "Path": "uonbi.ac.ke"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 17.97666666666667,
+        "Path": "primevideo.com"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 43.218333333333334,
+        "Path": "primevideo.com"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 16509,
+        "Latency": -4.9793333333333365,
+        "Path": "primevideo.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 18.345,
+        "Path": "iitd.ac.in"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 0.003666666666671148,
+        "Path": "iitd.ac.in"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 55836,
+        "Latency": 44.284000000000006,
+        "Path": "iitd.ac.in"
+    },
+    {
+        "AS_Src": 55836,
+        "AS_Dst": 132780,
+        "Latency": 1.9239999999999995,
+        "Path": "iitd.ac.in"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 16.005333333333336,
+        "Path": "cmu.edu"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 215.57666666666665,
+        "Path": "cmu.edu"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 6939,
+        "Latency": 125.99400000000003,
+        "Path": "cmu.edu"
+    },
+    {
+        "AS_Src": 6939,
+        "AS_Dst": 2381,
+        "Latency": -48.909333333333336,
+        "Path": "cmu.edu"
+    },
+    {
+        "AS_Src": 2381,
+        "AS_Dst": 9,
+        "Latency": -6.163999999999987,
+        "Path": "cmu.edu"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 38.425000000000004,
+        "Path": "msu.ru"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": -20.503500000000003,
+        "Path": "msu.ru"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 200350,
+        "Latency": 212.57949999999997,
+        "Path": "msu.ru"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 21.177333333333333,
+        "Path": "facebook.com"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 16.88716666666667,
+        "Path": "facebook.com"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 32934,
+        "Latency": -7.481833333333338,
+        "Path": "facebook.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 19.677666666666667,
+        "Path": "stanford.edu"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 218.52400000000003,
+        "Path": "stanford.edu"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 6939,
+        "Latency": 0.7066666666666492,
+        "Path": "stanford.edu"
+    },
+    {
+        "AS_Src": 6939,
+        "AS_Dst": 32,
+        "Latency": 1.8896666666666704,
+        "Path": "stanford.edu"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 35.58433333333333,
+        "Path": "up.ac.za"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": 103.55466666666668,
+        "Path": "up.ac.za"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 2018,
+        "Latency": 203.4686666666666,
+        "Path": "up.ac.za"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 24560,
+        "Latency": 34.93333333333333,
+        "Path": "mpg.de"
+    },
+    {
+        "AS_Src": 24560,
+        "AS_Dst": 9498,
+        "Latency": -17.63833333333333,
+        "Path": "mpg.de"
+    },
+    {
+        "AS_Src": 9498,
+        "AS_Dst": 6461,
+        "Latency": 252.35633333333328,
+        "Path": "mpg.de"
+    },
+    {
+        "AS_Src": 6461,
+        "AS_Dst": 680,
+        "Latency": 22.65033333333338,
+        "Path": "mpg.de"
+    },
+    {
+        "AS_Src": 680,
+        "AS_Dst": 207592,
+        "Latency": -2.6493333333332885,
+        "Path": "mpg.de"
+    }
+]

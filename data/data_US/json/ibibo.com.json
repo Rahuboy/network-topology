@@ -1,0 +1,16 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 295.80766666666665
+    },
+    {
+        "AS Number": "16509",
+        "IP": "108.156.184.124",
+        "Range": "108.156.184.0/22",
+        "Organization": "AMAZON-02, US",
+        "Latency": -12.038999999999987
+    }
+]

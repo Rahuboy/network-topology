@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 434.03333333333336
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -20.9498333333334
+    },
+    {
+        "AS Number": "61317",
+        "IP": "191.101.62.200",
+        "Range": "191.101.62.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -19.551499999999976
+    },
+    {
+        "AS Number": "6762",
+        "IP": "185.100.112.48",
+        "Range": "185.100.112.0/22",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -23.522999999999968
+    },
+    {
+        "AS Number": "6762",
+        "IP": "149.3.183.83",
+        "Range": "149.3.176.0/21",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 176.95866666666655
+    },
+    {
+        "AS Number": "6762",
+        "IP": "149.3.183.105",
+        "Range": "149.3.176.0/21",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 0.9016666666666424
+    },
+    {
+        "AS Number": "16509",
+        "IP": "52.95.120.67",
+        "Range": "52.95.112.0/20",
+        "Organization": "AMAZON-02, US",
+        "Latency": 31.134666666666817
+    }
+]

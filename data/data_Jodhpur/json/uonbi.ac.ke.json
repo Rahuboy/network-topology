@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 7.0120000000000005
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 9.872333333333334
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.150.41",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": -0.18033333333333346
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.176",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 27.73566666666666
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.29",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 120.99699999999999
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.45",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 4.960333333333381
+    },
+    {
+        "AS Number": "36944",
+        "IP": "196.32.210.88",
+        "Range": "196.32.208.0/21",
+        "Organization": "UBUNTU-UNICAST-AS, MW",
+        "Latency": -7.187666666666701
+    },
+    {
+        "AS Number": "36944",
+        "IP": "196.32.210.57",
+        "Range": "196.32.208.0/21",
+        "Organization": "UBUNTU-UNICAST-AS, MW",
+        "Latency": 19.923000000000002
+    },
+    {
+        "AS Number": "36914",
+        "IP": "197.136.176.58",
+        "Range": "197.136.0.0/14",
+        "Organization": "KENET-AS, KE",
+        "Latency": 126.58900000000003
+    },
+    {
+        "AS Number": "36914",
+        "IP": "197.136.172.81",
+        "Range": "197.136.0.0/14",
+        "Organization": "KENET-AS, KE",
+        "Latency": 21.975333333333367
+    },
+    {
+        "AS Number": "36914",
+        "IP": "41.204.161.206",
+        "Range": "41.204.161.0/24",
+        "Organization": "KENET-AS, KE",
+        "Latency": -19.67766666666671
+    }
+]

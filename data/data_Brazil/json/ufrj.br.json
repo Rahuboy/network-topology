@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 410.87066666666664
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -8.074666666666644
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.152.21",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -22.623666666666622
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.68.37.222",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 115.17599999999993
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.200.158",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -27.564333333333366
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.53",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 162.29366666666675
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.65",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 19.95399999999995
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.200.254",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": 37.974666666666735
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.84.216",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": -95.35466666666673
+    }
+]

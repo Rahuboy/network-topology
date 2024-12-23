@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 34.93333333333333
+    },
+    {
+        "AS Number": "9498",
+        "IP": "202.56.234.85",
+        "Range": "202.56.234.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -17.63833333333333
+    },
+    {
+        "AS Number": "6461",
+        "IP": "64.124.194.82",
+        "Range": "64.124.0.0/15",
+        "Organization": "ZAYO-6461, US",
+        "Latency": 262.16366666666664
+    },
+    {
+        "AS Number": "6461",
+        "IP": "64.125.28.36",
+        "Range": "64.124.0.0/15",
+        "Organization": "ZAYO-6461, US",
+        "Latency": 23.77266666666668
+    },
+    {
+        "AS Number": "6461",
+        "IP": "64.125.29.58",
+        "Range": "64.124.0.0/15",
+        "Organization": "ZAYO-6461, US",
+        "Latency": 17.11966666666666
+    },
+    {
+        "AS Number": "6461",
+        "IP": "64.125.30.255",
+        "Range": "64.124.0.0/15",
+        "Organization": "ZAYO-6461, US",
+        "Latency": -50.6996666666667
+    },
+    {
+        "AS Number": "680",
+        "IP": "188.1.238.182",
+        "Range": "188.1.0.0/16",
+        "Organization": "DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE",
+        "Latency": 22.65033333333338
+    },
+    {
+        "AS Number": "207592",
+        "IP": "195.12.38.73",
+        "Range": "195.12.38.0/24",
+        "Organization": "GOENET, DE",
+        "Latency": 96.56633333333326
+    },
+    {
+        "AS Number": "207592",
+        "IP": "134.76.147.181",
+        "Range": "134.76.0.0/16",
+        "Organization": "GOENET, DE",
+        "Latency": -59.846333333333234
+    },
+    {
+        "AS Number": "207592",
+        "IP": "134.76.31.198",
+        "Range": "134.76.0.0/16",
+        "Organization": "GOENET, DE",
+        "Latency": -39.369333333333316
+    }
+]

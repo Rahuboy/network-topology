@@ -1,0 +1,58 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 426.29033333333336
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -25.347000000000037
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.152.21",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -17.877333333333297
+    },
+    {
+        "AS Number": "3549",
+        "IP": "189.125.184.30",
+        "Range": "189.125.0.0/16",
+        "Organization": "LVLT-3549, US",
+        "Latency": -0.8179999999999836
+    },
+    {
+        "AS Number": "6762",
+        "IP": "195.22.219.3",
+        "Range": "195.22.192.0/19",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -4.1650000000000205
+    },
+    {
+        "AS Number": "6762",
+        "IP": "195.22.219.39",
+        "Range": "195.22.192.0/19",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -4.373333333333392
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.71.232.5",
+        "Range": "172.71.232.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": 6.512666666666689
+    },
+    {
+        "AS Number": "13335",
+        "IP": "104.16.132.229",
+        "Range": "104.16.128.0/20",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": -20.7496666666666
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 26.513
+    },
+    {
+        "AS Number": "9498",
+        "IP": "59.144.94.157",
+        "Range": "59.144.94.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -0.13600000000000279
+    },
+    {
+        "AS Number": "9498",
+        "IP": "116.119.57.152",
+        "Range": "116.119.32.0/19",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 30.082500000000007
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.68.70.113",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 7.367499999999993
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.69.208.229",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 196.6326666666667
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.59.34.66",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": -11.058000000000021
+    },
+    {
+        "AS Number": "109",
+        "IP": "128.107.2.5",
+        "Range": "128.107.2.0/23",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 11.982333333333344
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.0.98",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -5.340666666666664
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.0.178",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -4.660333333333341
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.2.206",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 6.4176666666666335
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.4.129",
+        "Range": "72.163.4.0/24",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -6.599999999999994
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.4.185",
+        "Range": "72.163.4.0/24",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 9.98333333333332
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 17.894000000000002
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 5.654
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.16",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 119.82999999999998
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.154.61",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 16.481000000000023
+    },
+    {
+        "AS Number": "109",
+        "IP": "128.107.2.5",
+        "Range": "128.107.2.0/23",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 98.6043333333333
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.0.102",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -7.756
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.0.190",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 35.47
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.2.206",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -39.344666666666626
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.4.129",
+        "Range": "72.163.4.0/24",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -2.390666666666675
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.4.185",
+        "Range": "72.163.4.0/24",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 3.7383333333333155
+    }
+]

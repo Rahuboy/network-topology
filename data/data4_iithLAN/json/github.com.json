@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 7.692
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.12.6",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": 29.539
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.235.254",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": -1.8343333333333334
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.30.142",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": 0.7683333333333309
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.11.224",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": -2.317
+    },
+    {
+        "AS Number": "8075",
+        "IP": "20.207.73.82",
+        "Range": "20.192.0.0/10",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": 0.3096666666666721
+    }
+]

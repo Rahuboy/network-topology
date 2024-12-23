@@ -1,0 +1,3 @@
+traceroute to harvard.edu (151.101.194.133), 50 hops max, 60 byte packets
+abts-ap-static-1.16.230.223.airtelbroadband.in (223.230.16.1)
+* * 151.101.194.133 (151.101.194.133)

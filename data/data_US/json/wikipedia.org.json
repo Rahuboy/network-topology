@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 296.2096666666667
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.45.9",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 39.15733333333333
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.112.68",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -47.684000000000026
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.141.244",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -3.9540000000000077
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.123.123",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -6.754333333333307
+    },
+    {
+        "AS Number": "1299",
+        "IP": "80.239.132.226",
+        "Range": "80.239.128.0/19",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -0.49166666666667425
+    },
+    {
+        "AS Number": "14907",
+        "IP": "208.80.154.224",
+        "Range": "208.80.154.0/23",
+        "Organization": "WIKIMEDIA, US",
+        "Latency": 0.2373333333333676
+    }
+]

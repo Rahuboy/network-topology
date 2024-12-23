@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 4.053333333333334
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 29.098
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.2",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 138.555
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.29",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 21.156999999999982
+    },
+    {
+        "AS Number": "20965",
+        "IP": "62.40.125.214",
+        "Range": "62.40.96.0/19",
+        "Organization": "GEANT The GEANT IP Service, NL",
+        "Latency": -0.7343333333333248
+    },
+    {
+        "AS Number": "20965",
+        "IP": "62.40.98.239",
+        "Range": "62.40.96.0/19",
+        "Organization": "GEANT The GEANT IP Service, NL",
+        "Latency": 7.709666666666664
+    },
+    {
+        "AS Number": "20965",
+        "IP": "62.40.124.70",
+        "Range": "62.40.96.0/19",
+        "Organization": "GEANT The GEANT IP Service, NL",
+        "Latency": 2.4450000000000216
+    },
+    {
+        "AS Number": "2200",
+        "IP": "193.51.177.107",
+        "Range": "193.48.0.0/14",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": 1.3736666666666508
+    },
+    {
+        "AS Number": "2200",
+        "IP": "193.51.184.177",
+        "Range": "193.48.0.0/14",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": -0.6276666666666699
+    },
+    {
+        "AS Number": "775",
+        "IP": "192.93.122.19",
+        "Range": "192.93.122.0/24",
+        "Organization": "FR-INRIA-ROCQ Institut National de Recherche en Informatique, EU",
+        "Latency": 2.504000000000019
+    },
+    {
+        "AS Number": "2200",
+        "IP": "128.93.162.83",
+        "Range": "128.93.0.0/16",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": 2.7596666666666465
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "3269",
+        "IP": "88.48.0.0",
+        "Range": "88.48.0.0/15",
+        "Organization": "ASN-IBSNAZ, IT",
+        "Latency": 216.172
+    },
+    {
+        "AS Number": "3257",
+        "IP": "212.221.1.133",
+        "Range": "212.221.0.0/17",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 2.1446666666666943
+    },
+    {
+        "AS Number": "3257",
+        "IP": "213.200.117.58",
+        "Range": "213.200.64.0/18",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 20.653666666666652
+    },
+    {
+        "AS Number": "3257",
+        "IP": "154.14.69.154",
+        "Range": "154.14.0.0/16",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 22.722333333333296
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.210.55.185",
+        "Range": "23.210.55.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -38.148333333333284
+    },
+    {
+        "AS Number": "20940",
+        "IP": "104.109.143.151",
+        "Range": "104.109.143.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -13.759000000000015
+    }
+]

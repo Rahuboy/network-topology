@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 281.40599999999995
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.45.9",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 21.69900000000007
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.112.68",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -16.340666666666664
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.141.244",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -2.4950000000000045
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.123.123",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -7.282666666666671
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.188.29",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -4.632666666666694
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.203.152.38",
+        "Range": "23.203.152.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 9.098333333333358
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.203.153.47",
+        "Range": "23.203.153.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -6.748666666666736
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.203.152.134",
+        "Range": "23.203.152.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 125.01700000000005
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.34.240.154",
+        "Range": "23.34.240.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -127.58733333333328
+    }
+]

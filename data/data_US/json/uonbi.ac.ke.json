@@ -1,0 +1,86 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 319.53866666666664
+    },
+    {
+        "AS Number": "2914",
+        "IP": "157.238.179.69",
+        "Range": "157.238.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -7.924333333333379
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.16",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -30.54099999999994
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.128",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 4.542333333333318
+    },
+    {
+        "AS Number": "174",
+        "IP": "66.28.4.181",
+        "Range": "66.28.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": 1.6266666666666652
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.30.186",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 65.94900000000007
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.61.158",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 22.495333333333292
+    },
+    {
+        "AS Number": "174",
+        "IP": "149.14.80.210",
+        "Range": "149.14.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": -11.173999999999978
+    },
+    {
+        "AS Number": "36944",
+        "IP": "196.32.210.57",
+        "Range": "196.32.208.0/21",
+        "Organization": "UBUNTU-UNICAST-AS, MW",
+        "Latency": -6.952333333333343
+    },
+    {
+        "AS Number": "36914",
+        "IP": "197.136.176.58",
+        "Range": "197.136.0.0/14",
+        "Organization": "KENET-AS, KE",
+        "Latency": 138.43599999999998
+    },
+    {
+        "AS Number": "36914",
+        "IP": "197.136.172.81",
+        "Range": "197.136.0.0/14",
+        "Organization": "KENET-AS, KE",
+        "Latency": -4.153333333333308
+    },
+    {
+        "AS Number": "36914",
+        "IP": "41.204.161.206",
+        "Range": "41.204.161.0/24",
+        "Organization": "KENET-AS, KE",
+        "Latency": 9.607333333333372
+    }
+]

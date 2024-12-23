@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 179.865
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.38.62",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 10.003666666666646
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.117.224",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 23.334333333333348
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.124.59",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 11.186333333333323
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.155.139",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -9.058666666666682
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.28",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 107.52233333333336
+    },
+    {
+        "AS Number": "64049",
+        "IP": "49.45.4.252",
+        "Range": "49.45.4.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 23.899999999999977
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.148.178",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 22.877333333333354
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": -14.085666666666668
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": 0.9146666666666192
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": 92.32633333333337
+    }
+]

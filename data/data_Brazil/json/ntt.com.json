@@ -1,0 +1,128 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 386.7375
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -20.14650000000006
+    },
+    {
+        "AS Number": "61317",
+        "IP": "191.101.62.200",
+        "Range": "191.101.62.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": 12.805333333333351
+    },
+    {
+        "AS Number": "6762",
+        "IP": "185.100.112.48",
+        "Range": "185.100.112.0/22",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -20.222333333333324
+    },
+    {
+        "AS Number": "6762",
+        "IP": "195.22.199.82",
+        "Range": "195.22.192.0/19",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 133.43700000000007
+    },
+    {
+        "AS Number": "6762",
+        "IP": "195.22.199.33",
+        "Range": "195.22.192.0/19",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -13.951000000000022
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.5",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 4.486333333333334
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.7.69",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 28.847166666666624
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.177",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 148.8585
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.128",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -21.435666666666748
+    },
+    {
+        "AS Number": "2914",
+        "IP": "61.200.80.74",
+        "Range": "61.200.80.0/20",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -8.129999999999882
+    },
+    {
+        "AS Number": "4713",
+        "IP": "125.170.96.33",
+        "Range": "125.170.0.0/16",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": 21.66966666666667
+    },
+    {
+        "AS Number": "4713",
+        "IP": "122.1.245.189",
+        "Range": "122.1.0.0/16",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -6.750333333333401
+    },
+    {
+        "AS Number": "4713",
+        "IP": "122.1.245.206",
+        "Range": "122.1.0.0/16",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -3.6803333333332375
+    },
+    {
+        "AS Number": "4713",
+        "IP": "122.1.245.70",
+        "Range": "122.1.0.0/16",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": 24.580333333333215
+    },
+    {
+        "AS Number": "4713",
+        "IP": "211.0.210.114",
+        "Range": "211.0.0.0/16",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": 23.59833333333347
+    },
+    {
+        "AS Number": "4713",
+        "IP": "61.113.104.254",
+        "Range": "61.112.0.0/15",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -61.98900000000003
+    },
+    {
+        "AS Number": "4713",
+        "IP": "61.113.104.9",
+        "Range": "61.112.0.0/15",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": 1.1769999999999072
+    }
+]

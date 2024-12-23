@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 450.4
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -82.38499999999993
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.152.21",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": 23.833999999999946
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.145.198",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -26.655333333333374
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.237.57",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": 15.340000000000089
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.34.14",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": -31.53166666666675
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.16.200",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": 28.60066666666671
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.22.72",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": -7.060333333333347
+    },
+    {
+        "AS Number": "8075",
+        "IP": "20.201.28.151",
+        "Range": "20.192.0.0/10",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": 59.86100000000005
+    }
+]

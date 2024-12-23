@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 192.88566666666668
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.38.62",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 3.3556666666666786
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.138.47",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 9.441666666666634
+    },
+    {
+        "AS Number": "1299",
+        "IP": "213.248.79.190",
+        "Range": "213.248.64.0/18",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -13.555666666666667
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.36.177",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -1.7390000000000043
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.36.126",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 2.742666666666679
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.92.1",
+        "Range": "192.33.92.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 4.61099999999999
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.92.169",
+        "Range": "192.33.92.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 19.964666666666687
+    },
+    {
+        "AS Number": "559",
+        "IP": "129.132.19.216",
+        "Range": "129.132.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -17.514999999999986
+    }
+]

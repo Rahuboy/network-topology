@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 24.87033333333333
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 13.23233333333334
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.2",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 134.62400000000002
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.29",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 18.190333333333314
+    },
+    {
+        "AS Number": "20965",
+        "IP": "62.40.125.214",
+        "Range": "62.40.96.0/19",
+        "Organization": "GEANT The GEANT IP Service, NL",
+        "Latency": 13.054333333333318
+    },
+    {
+        "AS Number": "20965",
+        "IP": "62.40.124.22",
+        "Range": "62.40.96.0/19",
+        "Organization": "GEANT The GEANT IP Service, NL",
+        "Latency": -4.510666666666623
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.38.194",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -7.591666666666697
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.36.81",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 3.2409999999999854
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.209.18",
+        "Range": "192.33.208.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -0.7106666666666683
+    },
+    {
+        "AS Number": "559",
+        "IP": "128.178.222.83",
+        "Range": "128.178.0.0/15",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -2.5823333333333096
+    }
+]

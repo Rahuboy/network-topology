@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "3269",
+        "IP": "88.48.0.0",
+        "Range": "88.48.0.0/15",
+        "Organization": "ASN-IBSNAZ, IT",
+        "Latency": 218.59133333333332
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.38.62",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -10.542333333333346
+    },
+    {
+        "AS Number": "1299",
+        "IP": "213.248.87.21",
+        "Range": "213.248.64.0/18",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -12.459999999999951
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.69.208.229",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 142.93699999999998
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.59.34.66",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": -1.6836666666666815
+    },
+    {
+        "AS Number": "109",
+        "IP": "128.107.2.5",
+        "Range": "128.107.2.0/23",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 10.339000000000055
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.0.98",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -5.757333333333406
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.0.178",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -10.173999999999978
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.2.206",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 30.37349999999998
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.4.129",
+        "Range": "72.163.4.0/24",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -30.557166666666603
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.4.185",
+        "Range": "72.163.4.0/24",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -3.9353333333333467
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "AS Number": "14061",
+        "IP": "192.241.164.73",
+        "Range": "192.241.160.0/19",
+        "Organization": "DIGITALOCEAN-ASN, US",
+        "Latency": 274.5516666666667
+    },
+    {
+        "AS Number": "13335",
+        "IP": "162.158.152.5",
+        "Range": "162.158.152.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": -0.7760000000000105
+    },
+    {
+        "AS Number": "209242",
+        "IP": "141.193.213.21",
+        "Range": "141.193.213.0/24",
+        "Organization": "CLOUDFLARESPECTRUM Cloudflare, Inc., US",
+        "Latency": -2.860333333333301
+    }
+]

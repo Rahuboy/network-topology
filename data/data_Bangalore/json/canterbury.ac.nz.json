@@ -1,0 +1,128 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 22.528666666666666
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.36.9",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 1.174666666666667
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.36.41",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 21.001166666666663
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.107.0",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 2.1015000000000086
+    },
+    {
+        "AS Number": "6453",
+        "IP": "120.29.214.10",
+        "Range": "120.29.192.0/19",
+        "Organization": "AS6453, US",
+        "Latency": 1.1979999999999933
+    },
+    {
+        "AS Number": "15412",
+        "IP": "62.216.157.161",
+        "Range": "62.216.128.0/19",
+        "Organization": "FLAG-AS Flag Telecom Global Internet AS, GB",
+        "Latency": 7.807333333333347
+    },
+    {
+        "AS Number": "15412",
+        "IP": "62.216.137.166",
+        "Range": "62.216.128.0/19",
+        "Organization": "FLAG-AS Flag Telecom Global Internet AS, GB",
+        "Latency": -1.7106666666666825
+    },
+    {
+        "AS Number": "15412",
+        "IP": "80.81.65.218",
+        "Range": "80.81.64.0/19",
+        "Organization": "FLAG-AS Flag Telecom Global Internet AS, GB",
+        "Latency": -1.5223333333333215
+    },
+    {
+        "AS Number": "4826",
+        "IP": "114.31.206.50",
+        "Range": "114.31.192.0/20",
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Latency": 93.81033333333335
+    },
+    {
+        "AS Number": "4826",
+        "IP": "114.31.192.65",
+        "Range": "114.31.192.0/20",
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Latency": -10.114666666666693
+    },
+    {
+        "AS Number": "4826",
+        "IP": "175.45.103.15",
+        "Range": "175.45.64.0/18",
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Latency": 8.828333333333347
+    },
+    {
+        "AS Number": "9790",
+        "IP": "101.98.5.230",
+        "Range": "101.98.0.0/16",
+        "Organization": "TWO-DEGREES-AS-AP Two Degrees Networks Limited, NZ",
+        "Latency": 18.1993333333333
+    },
+    {
+        "AS Number": "9790",
+        "IP": "101.98.5.231",
+        "Range": "101.98.0.0/16",
+        "Organization": "TWO-DEGREES-AS-AP Two Degrees Networks Limited, NZ",
+        "Latency": 1.51400000000001
+    },
+    {
+        "AS Number": "23655",
+        "IP": "111.69.30.153",
+        "Range": "111.69.16.0/20",
+        "Organization": "TWODEGREES-NZ-AS 2degrees Networks Limited, NZ",
+        "Latency": 16.45533333333333
+    },
+    {
+        "AS Number": "23655",
+        "IP": "111.69.30.155",
+        "Range": "111.69.16.0/20",
+        "Organization": "TWODEGREES-NZ-AS 2degrees Networks Limited, NZ",
+        "Latency": 21.324000000000012
+    },
+    {
+        "AS Number": "9432",
+        "IP": "202.36.179.65",
+        "Range": "202.36.178.0/23",
+        "Organization": "CANTERBURY-AS University of Canterbury, NZ",
+        "Latency": -23.536
+    },
+    {
+        "AS Number": "9432",
+        "IP": "132.181.3.236",
+        "Range": "132.181.0.0/16",
+        "Organization": "CANTERBURY-AS University of Canterbury, NZ",
+        "Latency": -1.1616666666666617
+    },
+    {
+        "AS Number": "9432",
+        "IP": "132.181.106.9",
+        "Range": "132.181.0.0/16",
+        "Organization": "CANTERBURY-AS University of Canterbury, NZ",
+        "Latency": -0.04399999999998272
+    }
+]

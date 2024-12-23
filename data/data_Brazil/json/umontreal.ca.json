@@ -1,0 +1,114 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 464.88566666666674
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -42.58666666666676
+    },
+    {
+        "AS Number": "61317",
+        "IP": "191.101.62.200",
+        "Range": "191.101.62.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -28.398333333333312
+    },
+    {
+        "AS Number": "6762",
+        "IP": "185.100.112.48",
+        "Range": "185.100.112.0/22",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -11.833000000000027
+    },
+    {
+        "AS Number": "6762",
+        "IP": "89.221.41.1",
+        "Range": "89.221.32.0/20",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 96.1808333333334
+    },
+    {
+        "AS Number": "6762",
+        "IP": "89.221.41.75",
+        "Range": "89.221.32.0/20",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 11.511499999999955
+    },
+    {
+        "AS Number": "6453",
+        "IP": "63.243.152.34",
+        "Range": "63.243.128.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 92.202
+    },
+    {
+        "AS Number": "6453",
+        "IP": "216.6.87.26",
+        "Range": "216.6.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -79.30199999999996
+    },
+    {
+        "AS Number": "6453",
+        "IP": "216.6.87.83",
+        "Range": "216.6.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -24.998500000000035
+    },
+    {
+        "AS Number": "6453",
+        "IP": "63.243.128.142",
+        "Range": "63.243.128.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 68.01483333333334
+    },
+    {
+        "AS Number": "6453",
+        "IP": "216.6.90.22",
+        "Range": "216.6.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -15.210333333333324
+    },
+    {
+        "AS Number": "6453",
+        "IP": "64.86.226.57",
+        "Range": "64.86.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 6.23266666666666
+    },
+    {
+        "AS Number": "6453",
+        "IP": "216.6.115.89",
+        "Range": "216.6.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -39.0
+    },
+    {
+        "AS Number": "6453",
+        "IP": "206.82.135.34",
+        "Range": "206.82.128.0/20",
+        "Organization": "AS6453, US",
+        "Latency": -17.076999999999998
+    },
+    {
+        "AS Number": "376",
+        "IP": "192.77.63.26",
+        "Range": "192.77.63.0/24",
+        "Organization": "RISQ-AS, CA",
+        "Latency": 31.33533333333338
+    },
+    {
+        "AS Number": "376",
+        "IP": "206.167.128.74",
+        "Range": "206.167.128.0/17",
+        "Organization": "RISQ-AS, CA",
+        "Latency": -23.06200000000007
+    }
+]

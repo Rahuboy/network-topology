@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 8.604
+    },
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.233",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 63.96466666666666
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": -31.856666666666662
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": -1.2949999999999946
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": -1.0110000000000028
+    }
+]

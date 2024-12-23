@@ -1,0 +1,93 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 322.53
+    },
+    {
+        "AS Number": "2914",
+        "IP": "157.238.179.69",
+        "Range": "157.238.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -8.982333333333315
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.16",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -29.280333333333374
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.6.116",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 0.8826666666666938
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.37",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -0.132000000000005
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.87",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 33.15733333333338
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.108",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -5.231999999999971
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.200.114",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -3.9243333333333794
+    },
+    {
+        "AS Number": "20080",
+        "IP": "170.39.8.30",
+        "Range": "170.39.8.0/23",
+        "Organization": "AMPATH, US",
+        "Latency": -4.5400000000000205
+    },
+    {
+        "AS Number": "20080",
+        "IP": "190.103.185.187",
+        "Range": "190.103.184.0/22",
+        "Organization": "AMPATH, US",
+        "Latency": 167.65733333333338
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.1.68",
+        "Range": "155.232.0.0/17",
+        "Organization": "TENET-1, ZA",
+        "Latency": 23.713666666666597
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.1.97",
+        "Range": "155.232.0.0/17",
+        "Organization": "TENET-1, ZA",
+        "Latency": -6.375
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.128.89",
+        "Range": "155.232.0.0/16",
+        "Organization": "TENET-1, ZA",
+        "Latency": 2.659333333333393
+    }
+]

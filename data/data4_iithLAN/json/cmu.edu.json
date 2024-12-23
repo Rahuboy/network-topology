@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 5.111
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 28.438
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.2",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 155.84699999999998
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.13",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 68.29833333333332
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.41",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 8.681333333333328
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.241",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -6.69066666666663
+    },
+    {
+        "AS Number": "14877",
+        "IP": "162.223.17.79",
+        "Range": "162.223.17.0/24",
+        "Organization": "FL-14877, US",
+        "Latency": 9.141333333333364
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.255.181",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": -0.7403333333333535
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.255.202",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": 34.27966666666663
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.42.10",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": -34.22733333333332
+    }
+]

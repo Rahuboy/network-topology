@@ -1,0 +1,107 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 2.9966666666666666
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 30.287000000000003
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.2",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 138.05166666666665
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.98.104",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 2.215666666666692
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.97.74",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 3.8023333333333085
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.97.14",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 5.166666666666657
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.98.121",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 3.232666666666688
+    },
+    {
+        "AS Number": "224",
+        "IP": "128.39.254.204",
+        "Range": "128.39.0.0/16",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": 1.235666666666674
+    },
+    {
+        "AS Number": "224",
+        "IP": "128.39.255.64",
+        "Range": "128.39.0.0/16",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": 11.856666666666655
+    },
+    {
+        "AS Number": "224",
+        "IP": "128.39.254.82",
+        "Range": "128.39.0.0/16",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": -10.061000000000007
+    },
+    {
+        "AS Number": "224",
+        "IP": "128.39.65.18",
+        "Range": "128.39.0.0/16",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": 0.21166666666670153
+    },
+    {
+        "AS Number": "224",
+        "IP": "129.240.100.69",
+        "Range": "129.240.0.0/15",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": 0.022999999999996135
+    },
+    {
+        "AS Number": "224",
+        "IP": "129.240.100.66",
+        "Range": "129.240.0.0/15",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": 1.4313333333333276
+    },
+    {
+        "AS Number": "224",
+        "IP": "129.240.25.162",
+        "Range": "129.240.0.0/15",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": -3.5196666666666943
+    },
+    {
+        "AS Number": "224",
+        "IP": "129.240.118.130",
+        "Range": "129.240.0.0/15",
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Latency": 0.9196666666666715
+    }
+]

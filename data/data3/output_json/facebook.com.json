@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 4.387333333333333
+    },
+    {
+        "AS Number": "55836",
+        "IP": "115.247.69.85",
+        "Range": "115.240.0.0/13",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 25.50633333333333
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.66.228",
+        "Range": "157.240.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": 9.373999999999999
+    },
+    {
+        "AS Number": "32934",
+        "IP": "129.134.51.9",
+        "Range": "129.134.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": -10.825999999999997
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.38.83",
+        "Range": "157.240.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": 2.4243333333333332
+    },
+    {
+        "AS Number": "32934",
+        "IP": "163.70.138.35",
+        "Range": "163.70.128.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": -2.293999999999997
+    }
+]

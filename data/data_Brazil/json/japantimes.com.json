@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 461.2386666666667
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -35.1731666666667
+    },
+    {
+        "AS Number": "61317",
+        "IP": "191.101.62.200",
+        "Range": "191.101.62.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -31.9495
+    },
+    {
+        "AS Number": "6762",
+        "IP": "185.100.112.48",
+        "Range": "185.100.112.0/22",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -15.942999999999984
+    },
+    {
+        "AS Number": "6762",
+        "IP": "89.221.41.115",
+        "Range": "89.221.32.0/20",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 104.531
+    },
+    {
+        "AS Number": "6453",
+        "IP": "66.110.72.46",
+        "Range": "66.110.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 255.02333333333326
+    },
+    {
+        "AS Number": "6453",
+        "IP": "66.110.57.145",
+        "Range": "66.110.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -11.904333333333284
+    },
+    {
+        "AS Number": "6453",
+        "IP": "64.86.252.33",
+        "Range": "64.86.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 37.66466666666656
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.3.130",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -33.840166666666505
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.3.129",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 23.455499999999915
+    },
+    {
+        "AS Number": "16509",
+        "IP": "52.219.4.110",
+        "Range": "52.219.4.0/24",
+        "Organization": "AMAZON-02, US",
+        "Latency": 103.90833333333342
+    }
+]

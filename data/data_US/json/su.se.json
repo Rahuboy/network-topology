@@ -1,0 +1,93 @@
+[
+    {
+        "AS Number": "2603",
+        "IP": "109.105.97.65",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 355.0036666666667
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.97.74",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 11.170333333333303
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.97.2",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": -3.775666666666609
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.102.3",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": -5.421000000000049
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.63",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 8.908666666666647
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.54",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": -4.1510000000000105
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.53",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 6.656666666666695
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.79",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 7.744000000000085
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.59",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 2.8870000000000005
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.6.143",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 36.266666666666595
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.237.154.175",
+        "Range": "130.237.0.0/16",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": -38.61433333333338
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.237.243.1",
+        "Range": "130.237.0.0/16",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": -1.8793333333332498
+    },
+    {
+        "AS Number": "1653",
+        "IP": "193.11.30.171",
+        "Range": "193.11.0.0/16",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": -7.798333333333403
+    }
+]

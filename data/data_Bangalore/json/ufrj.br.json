@@ -1,0 +1,121 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 15.735666666666667
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.36.9",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 8.504666666666669
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.36.41",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 61.323666666666654
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.108.163",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -18.946333333333328
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.67",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 51.715666666666664
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.176",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 102.75666666666667
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.7.68",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 34.369333333333316
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.218",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 11.270666666666699
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.4",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 3.50866666666667
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.200.158",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -21.361666666666707
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.255.90",
+        "Range": "200.143.192.0/18",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 111.02600000000004
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.252.234",
+        "Range": "200.143.192.0/18",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 2.4593333333332907
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.253.22",
+        "Range": "200.143.192.0/18",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 18.249333333333368
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.53",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": -2.823666666666668
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.65",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": -9.759999999999991
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.200.254",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": -14.907333333333327
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.84.216",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": 15.18866666666662
+    }
+]

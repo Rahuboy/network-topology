@@ -1,0 +1,121 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 6.691333333333333
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 11.357
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.150.41",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": -0.8823333333333316
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.176",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 29.014666666666667
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.215",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 189.507
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.45",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": -1.685666666666691
+    },
+    {
+        "AS Number": "2914",
+        "IP": "128.241.7.158",
+        "Range": "128.241.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 32.07833333333335
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.16",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 30.323333333333323
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.6.116",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -57.62966666666665
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.37",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 30.285666666666657
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.87",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 27.561666666666667
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.108",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -29.73133333333334
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.200.158",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -7.577333333333343
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.53",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 117.03366666666676
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.65",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 13.502999999999929
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.200.254",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": 8.301333333333332
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.84.216",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": 21.57099999999997
+    }
+]

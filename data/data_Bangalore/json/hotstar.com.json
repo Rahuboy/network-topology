@@ -1,0 +1,23 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.1",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 7.933
+    },
+    {
+        "AS Number": "174",
+        "IP": "38.10.0.7",
+        "Range": "38.0.0.0/8",
+        "Organization": "COGENT-174, US",
+        "Latency": 30.921666666666667
+    },
+    {
+        "AS Number": "16509",
+        "IP": "99.86.20.65",
+        "Range": "99.86.16.0/21",
+        "Organization": "AMAZON-02, US",
+        "Latency": -30.96
+    }
+]

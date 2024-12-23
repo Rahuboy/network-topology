@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 25.61233333333333
+    },
+    {
+        "AS Number": "9498",
+        "IP": "182.71.238.101",
+        "Range": "182.71.238.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 4.658000000000001
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.250.169.206",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": 7.416999999999998
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.250.209.73",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": -3.069999999999993
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.251.55.91",
+        "Range": "142.251.55.0/24",
+        "Organization": "GOOGLE, US",
+        "Latency": -5.9588333333333345
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.250.195.174",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": 0.6295000000000002
+    }
+]

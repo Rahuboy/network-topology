@@ -1,0 +1,58 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 198.202
+    },
+    {
+        "AS Number": "6939",
+        "IP": "184.104.188.54",
+        "Range": "184.104.0.0/15",
+        "Organization": "HURRICANE, US",
+        "Latency": 7.417000000000002
+    },
+    {
+        "AS Number": "6939",
+        "IP": "184.104.188.100",
+        "Range": "184.104.0.0/15",
+        "Organization": "HURRICANE, US",
+        "Latency": 57.510999999999996
+    },
+    {
+        "AS Number": "6939",
+        "IP": "184.104.199.21",
+        "Range": "184.104.0.0/15",
+        "Organization": "HURRICANE, US",
+        "Latency": 81.86200000000002
+    },
+    {
+        "AS Number": "6939",
+        "IP": "184.105.81.82",
+        "Range": "184.104.0.0/15",
+        "Organization": "HURRICANE, US",
+        "Latency": -13.653999999999996
+    },
+    {
+        "AS Number": "6939",
+        "IP": "184.105.177.238",
+        "Range": "184.104.0.0/15",
+        "Organization": "HURRICANE, US",
+        "Latency": 4.701999999999998
+    },
+    {
+        "AS Number": "32",
+        "IP": "171.64.255.132",
+        "Range": "171.64.0.0/14",
+        "Organization": "STANFORD, US",
+        "Latency": -3.8286666666666633
+    },
+    {
+        "AS Number": "32",
+        "IP": "171.67.215.200",
+        "Range": "171.64.0.0/14",
+        "Organization": "STANFORD, US",
+        "Latency": 4.546666666666681
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 188.60066666666668
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.38.62",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 22.841333333333324
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.117.224",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -1.9099999999999966
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.136.213",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -7.569000000000045
+    },
+    {
+        "AS Number": "200350",
+        "IP": "130.193.63.245",
+        "Range": "130.193.32.0/19",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": 50.01366666666672
+    },
+    {
+        "AS Number": "200350",
+        "IP": "130.193.63.246",
+        "Range": "130.193.32.0/19",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": 70.34066666666666
+    },
+    {
+        "AS Number": "200350",
+        "IP": "178.154.243.30",
+        "Range": "178.154.243.0/24",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": -71.613
+    }
+]

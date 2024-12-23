@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 52.55433333333334
+    },
+    {
+        "AS Number": "9829",
+        "IP": "117.236.235.254",
+        "Range": "117.236.224.0/20",
+        "Organization": "BSNL-NIB National Internet Backbone, IN",
+        "Latency": -44.31100000000001
+    },
+    {
+        "AS Number": "9829",
+        "IP": "117.216.207.122",
+        "Range": "117.216.192.0/20",
+        "Organization": "BSNL-NIB National Internet Backbone, IN",
+        "Latency": 9.988666666666669
+    },
+    {
+        "AS Number": "9829",
+        "IP": "210.212.70.190",
+        "Range": "210.212.70.0/24",
+        "Organization": "BSNL-NIB National Internet Backbone, IN",
+        "Latency": 5.61633333333333
+    },
+    {
+        "AS Number": "9829",
+        "IP": "23.65.108.199",
+        "Range": "23.65.96.0/20",
+        "Organization": "BSNL-NIB National Internet Backbone, IN",
+        "Latency": -7.009666666666668
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 34.88133333333333
+    },
+    {
+        "AS Number": "9498",
+        "IP": "59.144.94.165",
+        "Range": "59.144.94.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -11.24733333333333
+    },
+    {
+        "AS Number": "9498",
+        "IP": "182.79.134.109",
+        "Range": "182.79.134.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 124.764
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.42.118",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -11.098666666666645
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.124.56",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 27.745666666666665
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.122.159",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 113.23133333333328
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.119.231",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 1.6486666666667134
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.41.58",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 112.55733333333336
+    },
+    {
+        "AS Number": "19037",
+        "IP": "170.51.254.171",
+        "Range": "170.51.254.0/24",
+        "Organization": "AMX Argentina S.A., AR",
+        "Latency": -7.148666666666713
+    }
+]

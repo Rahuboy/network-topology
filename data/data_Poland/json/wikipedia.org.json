@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 204.02266666666665
+    },
+    {
+        "AS Number": "6830",
+        "IP": "213.46.178.93",
+        "Range": "213.46.160.0/19",
+        "Organization": "LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL",
+        "Latency": -11.078666666666663
+    },
+    {
+        "AS Number": "6830",
+        "IP": "84.116.138.66",
+        "Range": "84.116.0.0/16",
+        "Organization": "LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL",
+        "Latency": 46.10933333333338
+    },
+    {
+        "AS Number": "6830",
+        "IP": "84.116.252.42",
+        "Range": "84.116.0.0/16",
+        "Organization": "LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL",
+        "Latency": -36.11033333333339
+    },
+    {
+        "AS Number": "6830",
+        "IP": "84.116.136.149",
+        "Range": "84.116.0.0/16",
+        "Organization": "LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL",
+        "Latency": 24.192666666666696
+    },
+    {
+        "AS Number": "6830",
+        "IP": "213.46.186.10",
+        "Range": "213.46.160.0/19",
+        "Organization": "LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL",
+        "Latency": -20.23866666666666
+    },
+    {
+        "AS Number": "14907",
+        "IP": "185.15.59.224",
+        "Range": "185.15.59.0/24",
+        "Organization": "WIKIMEDIA, US",
+        "Latency": 8.877333333333297
+    }
+]

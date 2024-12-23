@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 8.372
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 9.011333333333337
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.69.74.3",
+        "Range": "172.69.74.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": 26.485666666666663
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.69.75.65",
+        "Range": "172.69.75.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": -1.1509999999999962
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.69.75.98",
+        "Range": "172.69.75.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": 12.523999999999994
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.69.75.65",
+        "Range": "172.69.75.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": -11.924
+    },
+    {
+        "AS Number": "198032",
+        "IP": "192.149.119.103",
+        "Range": "192.149.119.0/24",
+        "Organization": "UCLES-AS, GB",
+        "Latency": 120.61533333333331
+    }
+]

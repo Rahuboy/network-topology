@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 293.6016666666667
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.45.9",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 79.82400000000001
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.112.68",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -79.50400000000002
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.135.131",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -21.879333333333363
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.50.171",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 3.342333333333329
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.203.156.131",
+        "Range": "23.203.156.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 4.639999999999986
+    },
+    {
+        "AS Number": "16625",
+        "IP": "173.223.56.128",
+        "Range": "173.223.56.0/22",
+        "Organization": "AKAMAI-AS, US",
+        "Latency": -14.126666666666665
+    }
+]

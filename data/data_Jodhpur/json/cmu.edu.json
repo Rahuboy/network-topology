@@ -1,0 +1,86 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 13.767333333333333
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 7.235666666666667
+    },
+    {
+        "AS Number": "4755",
+        "IP": "14.143.159.181",
+        "Range": "14.143.158.0/23",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": -4.381
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.37.1",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 38.02066666666666
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.181.207",
+        "Range": "180.87.128.0/18",
+        "Organization": "AS6453, US",
+        "Latency": 228.38633333333334
+    },
+    {
+        "AS Number": "6453",
+        "IP": "64.86.252.32",
+        "Range": "64.86.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": -18.096000000000004
+    },
+    {
+        "AS Number": "6453",
+        "IP": "64.86.252.66",
+        "Range": "64.86.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 1.8879999999999768
+    },
+    {
+        "AS Number": "2828",
+        "IP": "206.111.11.68",
+        "Range": "206.111.0.0/16",
+        "Organization": "XO-AS15, US",
+        "Latency": 1.4956666666666933
+    },
+    {
+        "AS Number": "2828",
+        "IP": "66.3.25.94",
+        "Range": "66.2.0.0/15",
+        "Organization": "XO-AS15, US",
+        "Latency": 33.158000000000015
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.0.181",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": -9.2263333333334
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.0.202",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": -8.317999999999927
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.42.10",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": 5.578333333333319
+    }
+]

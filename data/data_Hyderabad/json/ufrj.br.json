@@ -1,0 +1,107 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 32.68
+    },
+    {
+        "AS Number": "9498",
+        "IP": "202.56.234.85",
+        "Range": "202.56.234.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -11.656500000000001
+    },
+    {
+        "AS Number": "2914",
+        "IP": "116.51.31.53",
+        "Range": "116.51.16.0/20",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 49.21650000000001
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.176",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 158.86399999999998
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.7.68",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 43.785000000000025
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.218",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 48.90066666666661
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.4",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -35.70666666666659
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.200.158",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 6.689999999999941
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.255.90",
+        "Range": "200.143.192.0/18",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 100.96500000000003
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.252.234",
+        "Range": "200.143.192.0/18",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 12.818333333333271
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.253.22",
+        "Range": "200.143.192.0/18",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 4.610333333333415
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.53",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": -4.029333333333341
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.65",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 1.2870000000000346
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.200.254",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": -2.72833333333341
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.84.216",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": 53.484333333333325
+    }
+]

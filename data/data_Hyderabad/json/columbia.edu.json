@@ -1,0 +1,100 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 16.042333333333332
+    },
+    {
+        "AS Number": "9498",
+        "IP": "59.144.94.157",
+        "Range": "59.144.94.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -2.4593333333333334
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.25.149",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 219.99366666666668
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.45.161",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 14.808999999999969
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.26.54",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 1.0793333333333521
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.2.5",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 14.376333333333292
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.28.129",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 22.494333333333316
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.24.221",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 31.105666666666707
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.40.109",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 0.7276666666667211
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.84.214",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -11.130666666666684
+    },
+    {
+        "AS Number": "174",
+        "IP": "38.122.8.210",
+        "Range": "38.0.0.0/8",
+        "Organization": "COGENT-174, US",
+        "Latency": 4.610666666666589
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.255.5",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": 1.7940000000000396
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.255.21",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": 85.17800000000005
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.105.24",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": -87.93566666666675
+    }
+]

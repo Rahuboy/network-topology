@@ -1,0 +1,16 @@
+[
+    {
+        "AS Number": "3269",
+        "IP": "88.48.0.0",
+        "Range": "88.48.0.0/15",
+        "Organization": "ASN-IBSNAZ, IT",
+        "Latency": 213.88833333333332
+    },
+    {
+        "AS Number": "209242",
+        "IP": "141.193.213.21",
+        "Range": "141.193.213.0/24",
+        "Organization": "CLOUDFLARESPECTRUM Cloudflare, Inc., US",
+        "Latency": -25.74933333333334
+    }
+]

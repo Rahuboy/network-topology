@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 6.8183333333333325
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 9.692333333333334
+    },
+    {
+        "AS Number": "4755",
+        "IP": "14.143.159.181",
+        "Range": "14.143.158.0/23",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 2.90666666666667
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 17.732666666666663
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.87.214",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 118.72899999999998
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.87.195",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 5.150000000000006
+    },
+    {
+        "AS Number": "2200",
+        "IP": "193.51.177.107",
+        "Range": "193.48.0.0/14",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": 0.33899999999999864
+    },
+    {
+        "AS Number": "2200",
+        "IP": "193.51.184.177",
+        "Range": "193.48.0.0/14",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": -4.477666666666693
+    },
+    {
+        "AS Number": "775",
+        "IP": "192.93.122.19",
+        "Range": "192.93.122.0/24",
+        "Organization": "FR-INRIA-ROCQ Institut National de Recherche en Informatique, EU",
+        "Latency": 5.601000000000056
+    },
+    {
+        "AS Number": "2200",
+        "IP": "128.93.162.83",
+        "Range": "128.93.0.0/16",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": -0.9786666666666974
+    }
+]

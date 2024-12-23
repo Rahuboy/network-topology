@@ -1,0 +1,58 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 416.3183333333333
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": 7.44816666666668
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.152.21",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -17.05783333333335
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.145.182",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -24.594333333333395
+    },
+    {
+        "AS Number": "32934",
+        "IP": "129.134.41.16",
+        "Range": "129.134.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": -10.118999999999971
+    },
+    {
+        "AS Number": "32934",
+        "IP": "173.252.66.47",
+        "Range": "173.252.64.0/19",
+        "Organization": "FACEBOOK, US",
+        "Latency": 5.007999999999981
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.38.125",
+        "Range": "157.240.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": -7.572000000000003
+    },
+    {
+        "AS Number": "32934",
+        "IP": "31.13.85.36",
+        "Range": "31.13.85.0/24",
+        "Organization": "FACEBOOK, US",
+        "Latency": -2.7503333333332876
+    }
+]

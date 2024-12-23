@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 416.9243333333333
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": 38.90766666666667
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.152.21",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -79.10199999999998
+    },
+    {
+        "AS Number": "3549",
+        "IP": "189.125.184.30",
+        "Range": "189.125.0.0/16",
+        "Organization": "LVLT-3549, US",
+        "Latency": -5.233000000000004
+    },
+    {
+        "AS Number": "6762",
+        "IP": "195.22.219.17",
+        "Range": "195.22.192.0/19",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 5.202333333333286
+    },
+    {
+        "AS Number": "6762",
+        "IP": "195.22.219.39",
+        "Range": "195.22.192.0/19",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -18.466999999999928
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.71.232.5",
+        "Range": "172.71.232.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": 152.57066666666668
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.71.233.36",
+        "Range": "172.71.233.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": -139.32400000000007
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.71.233.81",
+        "Range": "172.71.233.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": 57.661
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.71.233.28",
+        "Range": "172.71.233.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": -48.54399999999998
+    },
+    {
+        "AS Number": "198032",
+        "IP": "192.149.119.103",
+        "Range": "192.149.119.0/24",
+        "Organization": "UCLES-AS, GB",
+        "Latency": 173.52266666666674
+    }
+]

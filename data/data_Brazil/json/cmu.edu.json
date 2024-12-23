@@ -1,0 +1,58 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 388.16533333333336
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": 21.97266666666667
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.152.21",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -23.392333333333397
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.68.111.110",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 95.15533333333337
+    },
+    {
+        "AS Number": "2828",
+        "IP": "66.3.25.94",
+        "Range": "66.2.0.0/15",
+        "Organization": "XO-AS15, US",
+        "Latency": 10.46466666666663
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.0.181",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": 17.265000000000043
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.0.202",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": 12.335000000000036
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.42.10",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": 23.00299999999993
+    }
+]

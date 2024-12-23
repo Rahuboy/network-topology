@@ -1,0 +1,100 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 463.99499999999995
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -45.11749999999995
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.152.21",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -10.071166666666727
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.88.225",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 69.45866666666677
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.24.145",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 10.63166666666666
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.7.157",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 14.060333333333347
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.40.105",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 7.063666666666563
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.30.186",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 61.69400000000002
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.61.158",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -25.662000000000035
+    },
+    {
+        "AS Number": "174",
+        "IP": "149.14.80.210",
+        "Range": "149.14.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": 63.00300000000004
+    },
+    {
+        "AS Number": "36944",
+        "IP": "196.32.210.57",
+        "Range": "196.32.208.0/21",
+        "Organization": "UBUNTU-UNICAST-AS, MW",
+        "Latency": 9.254666666666708
+    },
+    {
+        "AS Number": "36914",
+        "IP": "197.136.176.58",
+        "Range": "197.136.0.0/14",
+        "Organization": "KENET-AS, KE",
+        "Latency": 129.58133333333342
+    },
+    {
+        "AS Number": "36914",
+        "IP": "197.136.172.81",
+        "Range": "197.136.0.0/14",
+        "Organization": "KENET-AS, KE",
+        "Latency": -32.573666666666895
+    },
+    {
+        "AS Number": "36914",
+        "IP": "41.204.161.206",
+        "Range": "41.204.161.0/24",
+        "Organization": "KENET-AS, KE",
+        "Latency": -10.71366666666654
+    }
+]

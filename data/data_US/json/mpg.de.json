@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 300.915
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.45.5",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -19.478333333333353
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.112.68",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 5.467999999999961
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.122.160",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 68.05533333333335
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.132.109",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -0.13133333333325936
+    },
+    {
+        "AS Number": "1299",
+        "IP": "213.248.100.167",
+        "Range": "213.248.64.0/18",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 12.936999999999955
+    },
+    {
+        "AS Number": "680",
+        "IP": "188.1.144.137",
+        "Range": "188.1.0.0/16",
+        "Organization": "DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE",
+        "Latency": -4.447333333333347
+    },
+    {
+        "AS Number": "680",
+        "IP": "188.1.245.238",
+        "Range": "188.1.0.0/16",
+        "Organization": "DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE",
+        "Latency": -4.67666666666662
+    },
+    {
+        "AS Number": "207592",
+        "IP": "195.12.38.69",
+        "Range": "195.12.38.0/24",
+        "Organization": "GOENET, DE",
+        "Latency": 1.5649999999999409
+    },
+    {
+        "AS Number": "207592",
+        "IP": "134.76.147.181",
+        "Range": "134.76.0.0/16",
+        "Organization": "GOENET, DE",
+        "Latency": 6.286000000000058
+    },
+    {
+        "AS Number": "207592",
+        "IP": "134.76.31.198",
+        "Range": "134.76.0.0/16",
+        "Organization": "GOENET, DE",
+        "Latency": -3.4913333333333867
+    }
+]

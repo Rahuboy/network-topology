@@ -1,0 +1,23 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 56.347
+    },
+    {
+        "AS Number": "16509",
+        "IP": "52.95.65.215",
+        "Range": "52.95.64.0/20",
+        "Organization": "AMAZON-02, US",
+        "Latency": -8.37833333333333
+    },
+    {
+        "AS Number": "16509",
+        "IP": "3.33.167.235",
+        "Range": "3.33.160.0/20",
+        "Organization": "AMAZON-02, US",
+        "Latency": -3.06633333333334
+    }
+]

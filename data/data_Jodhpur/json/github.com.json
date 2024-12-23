@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 13.863666666666667
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 5.898333333333333
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.13.140",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": -4.6526666666666685
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.34.40",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": 23.65166666666667
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.21.22",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": -0.7123333333333335
+    },
+    {
+        "AS Number": "8075",
+        "IP": "20.207.73.82",
+        "Range": "20.192.0.0/10",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": -0.3436666666666639
+    }
+]

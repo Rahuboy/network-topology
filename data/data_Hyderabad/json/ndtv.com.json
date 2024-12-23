@@ -1,0 +1,30 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 11.468333333333334
+    },
+    {
+        "AS Number": "9498",
+        "IP": "202.56.234.81",
+        "Range": "202.56.234.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -1.545
+    },
+    {
+        "AS Number": "4755",
+        "IP": "121.244.3.222",
+        "Range": "121.244.0.0/17",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 6.444666666666665
+    },
+    {
+        "AS Number": "16625",
+        "IP": "104.80.56.14",
+        "Range": "104.80.48.0/20",
+        "Organization": "AKAMAI-AS, US",
+        "Latency": -5.666333333333332
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 5.096333333333333
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 100.66
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.2",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 67.99899999999998
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.220.18",
+        "Range": "155.232.0.0/16",
+        "Organization": "TENET-1, ZA",
+        "Latency": -0.88900000000001
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.1.21",
+        "Range": "155.232.0.0/17",
+        "Organization": "TENET-1, ZA",
+        "Latency": 171.26933333333332
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.1.120",
+        "Range": "155.232.0.0/17",
+        "Organization": "TENET-1, ZA",
+        "Latency": 7.640666666666675
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.128.84",
+        "Range": "155.232.0.0/16",
+        "Organization": "TENET-1, ZA",
+        "Latency": 4.59800000000007
+    }
+]

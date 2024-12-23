@@ -1,0 +1,90 @@
+% LaTeX Template for short student reports.
+% Citations should be in bibtex format and go in references.bib
+\documentclass[a4paper, 11pt]{article}
+\usepackage[top=3cm, bottom=3cm, left = 2cm, right = 2cm]{geometry} 
+\geometry{a4paper} 
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp}
+\usepackage{graphicx} 
+\usepackage{amsmath,amssymb}  
+\usepackage{bm}  
+\usepackage[pdftex,bookmarks,colorlinks,breaklinks]{hyperref}  
+%\hypersetup{linkcolor=black,citecolor=black,filecolor=black,urlcolor=black} % black links, for printed output
+\usepackage{memhfixc} 
+\usepackage{pdfsync}  
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\pagestyle{fancy}
+
+\title{Network-Topology Project}
+\author{
+  Rahul Ramachandran\\
+  \texttt{cs21btech11049}
+  \and
+  Rishit D\\
+  \texttt{cs21btech11053}
+  \and
+  Suryaansh Jain\\
+  \texttt{cs21btech11057}
+}
+%\date{}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\section{Deliverables}
+
+\subsection{Introduction}
+The project aims to visualise the topology of the internet. For this purpose, 4 python scripts were used: \texttt{gen\_data.py}, \texttt{parse\_data.py}, \texttt{graph\_data.py} and \texttt{graph\_gen.py}. 
+The first script, \texttt{gen\_data.py}, runs the traceroute command on a list of websites to obtain information about the path taken by the packets. This information is parsed by \texttt{parse\_data.py}, which 
+uses \texttt{whois} to perform an ASN Lookup and obtain ASNs, organization names and IP ranges. Finally, \texttt{graph\_data.py} and \texttt{graph\_gen.py} use this data to generate interactive graphs of the Network
+Topology.
+
+\subsection{Data}
+The raw data was obtained by running the traceroute command on 50 websites. The websites chosen include popular websites like \texttt{google.com}, and several university websites from diverse locations. The 
+data from the traceroutes is present in \texttt{data/<foldername>/output}. This contains the latency values (in ms), the domain names and the IP addresses in the path. This data was parsed by \texttt{parse\_data.py} to obtain
+json objects containing the ASN, organization name and IP ranges. The latencies were converted to latencies between hops, and the jsons were stored in \texttt{data/<foldername>/json}. The data was then converted to graph nodes and edges using 
+\texttt{graph\_data.py}, and stored in \texttt{<foldername>/graph\_json}. Finally, a select number of destinations was chosen, and the jsons from 7 different sources were combined to form interactive graphs and a 
+histogram.
+
+
+\subsection{Visualization}
+The results are present in the folder \texttt{visualization}. Using \texttt{pyvis}, we generated interactive graphs of the network topology. In \texttt{graph\_normal.html}, the edges are colored according to the
+packet destination. In \texttt{graph\_latency.html}, the edges are assigned a color based on the latency of the route: warmer colors indicate higher latency. The third graph is a histogram of the degrees of the nodes: nodes with 
+a higher degree correspond to exchange points and large ISPs. 3 icons are used to represent the nodes: a globe for websites, a server for the intermediate nodes and a laptop for the sources. The graphs have 7 sources 
+and 19 destinations. 
+
+
+\section{Findings}
+\subsection{General}
+\begin{itemize}
+  \item In the first visualization, we observe that some servers are dedicated to hosting information exclusively, whereas other servers seem to host data that is not always associated with them. Such an example can seen
+while tracing the paths of \texttt{primevideo.com} and \texttt{ibibo.com} which both end up at the node \texttt{AMAZON-02, US} (AS Number: $16509$). This is common among big-tech companies like Amazon, Microsoft, Google 
+who host servers for websites not associated with their products.
+  \item Over the raw-data parsed for the various visualizations, we have observed cases where the same AS Number can have multiple ranges of IP prefixes. For instance, one traceroute to \texttt{bbc.com} had two jumps 
+  both corresponding to the AS Number $55836$ (\texttt{RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN}) but two distinct IP addresses : $115.247.100.29$ (in the range  $115.240.0.0/13$) and $49.44.220.181$ (in 
+  the range $49.44.128.0/17$).
+  \item We observe that most hops are geographically sound. For instance, requests to \texttt{uio.no} (based in Norway) and \texttt{su.se} (based in Sweden) first reach the node \texttt{NORDUNET, DK} 
+  (Denmark, AS Number: $2603$) before diverging to each of their dedicated servers, which can accounted for due to close proximity between the Nordic nations.
+\end{itemize}
+\subsection{Latency}
+\begin{enumerate}
+    \item Many interesting observations can be made from the latency graph. For instance, IIT Hyderabad's traffic is routed to the NKN or Reliance JIO. The NKN is highly congested, while the latency values are lower for JIO.
+    \item The hops between two ASNs which are geographically distant usually have a higher latency. For instance, the hops from TATA to AS6453 in the US, from Airtel to an ASN in South Africa, from US to Australia etc. all have have high
+    latency values. 
+    \item A VPN was used to obtain the traceroute information for \texttt{data\_Poland} and \texttt{data\_US}. The initial hops have a high latency, as they likely correspond to the time taken to tunnel to the VPN servers.
+\end{enumerate}
+\subsection{Degrees}
+    \begin{enumerate}
+        \item Nodes with a high degree are usually exchange points or large ISPs, as the degree is indicative of incoming traffic.
+        \item Cloudflare's autonomous system (ASN13335) has the highest degree. This is because Cloudflare is a CDN, and it receives a high amount of traffic. Other high indegrees in the US include large ISPs and backbones like Cellco Partnership (AS6167),
+        NTT, Cogent Communications, etc.
+        \item In India, large regional ISPs like Reliance Jio (ASN55836), Tata Communications (ASN4775) and Airtel (ASN24560) have the highest degrees. Another thing to note is that the ASs associated with
+        these organisations might cover a wider range of IP Addresses, and might therefore swallow up a lot of the incoming traffic. 
+    \end{enumerate}
+
+
+\bibliographystyle{abbrv}
+% \bibliography{references}  % need to put bibtex references in references.bib 
+\end{document}

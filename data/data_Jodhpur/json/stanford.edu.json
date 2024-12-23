@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 5.560666666666667
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 11.678999999999998
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.150.41",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": -0.12099999999999866
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.174",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 30.57533333333333
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.56",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 119.75
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.79",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 12.644000000000005
+    },
+    {
+        "AS Number": "6939",
+        "IP": "184.104.198.153",
+        "Range": "184.104.0.0/15",
+        "Organization": "HURRICANE, US",
+        "Latency": 55.309000000000026
+    },
+    {
+        "AS Number": "6939",
+        "IP": "184.104.195.50",
+        "Range": "184.104.0.0/15",
+        "Organization": "HURRICANE, US",
+        "Latency": 41.388000000000005
+    },
+    {
+        "AS Number": "6939",
+        "IP": "184.105.177.238",
+        "Range": "184.104.0.0/15",
+        "Organization": "HURRICANE, US",
+        "Latency": 10.586999999999989
+    },
+    {
+        "AS Number": "32",
+        "IP": "171.64.255.132",
+        "Range": "171.64.0.0/14",
+        "Organization": "STANFORD, US",
+        "Latency": 0.3823333333333494
+    },
+    {
+        "AS Number": "32",
+        "IP": "171.67.215.200",
+        "Range": "171.64.0.0/14",
+        "Organization": "STANFORD, US",
+        "Latency": 31.81966666666665
+    }
+]

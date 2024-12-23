@@ -1,0 +1,86 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 21.371333333333336
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 32.787333333333336
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.37.34",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 188.376
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.37.190",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 2.2369999999999663
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.37.58",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 5.543666666666667
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.36.170",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -13.2053333333333
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.37.65",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 7.271333333333331
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.38.109",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 10.38166666666666
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.36.126",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -8.289666666666676
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.92.1",
+        "Range": "192.33.92.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -14.025333333333322
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.92.169",
+        "Range": "192.33.92.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 12.77866666666668
+    },
+    {
+        "AS Number": "559",
+        "IP": "129.132.19.216",
+        "Range": "129.132.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -2.9590000000000316
+    }
+]

@@ -1,0 +1,6 @@
+traceroute to stanford.edu (171.67.215.200), 50 hops max, 60 byte packets
+abts-ap-static-1.16.230.223.airtelbroadband.in (223.230.16.1)
+202.56.234.85 (202.56.234.85)
+stanford-university.100gigabitethernet5-1.core1.pao1.he.net (184.105.177.238)
+woa-west-rtr-vl2.SUNet (171.64.255.132)
+web.stanford.edu (171.67.215.200)

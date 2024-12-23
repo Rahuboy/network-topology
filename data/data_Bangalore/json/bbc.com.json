@@ -1,0 +1,16 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.50",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 28.3305
+    },
+    {
+        "AS Number": "54113",
+        "IP": "151.101.192.81",
+        "Range": "151.101.192.0/22",
+        "Organization": "FASTLY, US",
+        "Latency": 31.743166666666667
+    }
+]

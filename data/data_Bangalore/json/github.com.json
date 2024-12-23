@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.50",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 36.618
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.230.6",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": -3.312666666666672
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.34.37",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": -3.1858333333333313
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.30.142",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": 0.11450000000000315
+    },
+    {
+        "AS Number": "8075",
+        "IP": "104.44.20.68",
+        "Range": "104.40.0.0/13",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": 17.411999999999992
+    },
+    {
+        "AS Number": "8075",
+        "IP": "20.207.73.82",
+        "Range": "20.192.0.0/10",
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Latency": -13.575333333333319
+    }
+]

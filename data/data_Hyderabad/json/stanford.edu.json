@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 19.677666666666667
+    },
+    {
+        "AS Number": "9498",
+        "IP": "202.56.234.85",
+        "Range": "202.56.234.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -1.0373333333333328
+    },
+    {
+        "AS Number": "9498",
+        "IP": "116.119.44.136",
+        "Range": "116.119.32.0/19",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 219.56133333333335
+    },
+    {
+        "AS Number": "6939",
+        "IP": "184.104.197.109",
+        "Range": "184.104.0.0/15",
+        "Organization": "HURRICANE, US",
+        "Latency": -10.24666666666667
+    },
+    {
+        "AS Number": "6939",
+        "IP": "184.105.177.238",
+        "Range": "184.104.0.0/15",
+        "Organization": "HURRICANE, US",
+        "Latency": 10.953333333333319
+    },
+    {
+        "AS Number": "32",
+        "IP": "171.64.255.132",
+        "Range": "171.64.0.0/14",
+        "Organization": "STANFORD, US",
+        "Latency": -1.981000000000023
+    },
+    {
+        "AS Number": "32",
+        "IP": "171.67.215.200",
+        "Range": "171.64.0.0/14",
+        "Organization": "STANFORD, US",
+        "Latency": 3.8706666666666933
+    }
+]

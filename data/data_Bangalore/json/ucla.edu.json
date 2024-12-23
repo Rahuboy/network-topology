@@ -1,0 +1,16 @@
+[
+    {
+        "AS Number": "174",
+        "IP": "38.10.0.7",
+        "Range": "38.0.0.0/8",
+        "Organization": "COGENT-174, US",
+        "Latency": 12.427333333333335
+    },
+    {
+        "AS Number": "16509",
+        "IP": "3.33.167.235",
+        "Range": "3.33.160.0/20",
+        "Organization": "AMAZON-02, US",
+        "Latency": 3.5886666666666667
+    }
+]

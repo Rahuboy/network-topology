@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 463.685
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -46.2595
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.152.21",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -27.01750000000004
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.69.206.65",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 155.64100000000002
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.53.158.194",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": -17.45166666666671
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.33.244",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": 57.766000000000076
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.33.246",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": 96.34966666666674
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.33.242",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": -7.369666666666717
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.39.177",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": 5.581999999999994
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.39.178",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": -26.54233333333343
+    }
+]

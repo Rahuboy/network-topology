@@ -1,0 +1,100 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 465.81666666666666
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -43.59766666666667
+    },
+    {
+        "AS Number": "61317",
+        "IP": "191.101.62.200",
+        "Range": "191.101.62.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -27.975666666666655
+    },
+    {
+        "AS Number": "6762",
+        "IP": "185.100.112.48",
+        "Range": "185.100.112.0/22",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -12.653333333333364
+    },
+    {
+        "AS Number": "6762",
+        "IP": "195.22.199.82",
+        "Range": "195.22.192.0/19",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 105.9376666666667
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.88.233",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -22.56633333333332
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.28.49",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 15.088333333333253
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.24.221",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 21.81666666666672
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.40.109",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -1.8743333333333112
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.84.214",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -14.835333333333324
+    },
+    {
+        "AS Number": "174",
+        "IP": "38.122.8.210",
+        "Range": "38.0.0.0/8",
+        "Organization": "COGENT-174, US",
+        "Latency": 14.671666666666681
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.255.5",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": 6.454999999999927
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.255.21",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": 13.432999999999993
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.105.24",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": -33.285333333333256
+    }
+]

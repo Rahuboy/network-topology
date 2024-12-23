@@ -1,0 +1,30 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 13.6475
+    },
+    {
+        "AS Number": "9498",
+        "IP": "59.144.94.157",
+        "Range": "59.144.94.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 5.0781666666666645
+    },
+    {
+        "AS Number": "9498",
+        "IP": "116.119.49.105",
+        "Range": "116.119.32.0/19",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 10.006333333333334
+    },
+    {
+        "AS Number": "9498",
+        "IP": "23.206.207.162",
+        "Range": "23.206.204.0/22",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 0.8850000000000016
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 5.1113333333333335
+    },
+    {
+        "AS Number": "55836",
+        "IP": "115.247.100.29",
+        "Range": "115.240.0.0/13",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 0.5636666666666663
+    },
+    {
+        "AS Number": "3356",
+        "IP": "195.50.117.33",
+        "Range": "195.50.64.0/18",
+        "Organization": "LEVEL3, US",
+        "Latency": 143.34066666666666
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.69.208.229",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 95.88933333333333
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.59.34.66",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 10.004999999999995
+    },
+    {
+        "AS Number": "109",
+        "IP": "128.107.2.5",
+        "Range": "128.107.2.0/23",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -0.9699999999999704
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.0.98",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -10.440666666666687
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.0.182",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 1.9413333333333185
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.2.206",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 4.251333333333349
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.4.129",
+        "Range": "72.163.4.0/24",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 3.782999999999987
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.4.185",
+        "Range": "72.163.4.0/24",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -4.872666666666646
+    }
+]

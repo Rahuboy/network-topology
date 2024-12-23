@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 323.4026666666667
+    },
+    {
+        "AS Number": "6453",
+        "IP": "66.110.96.25",
+        "Range": "66.110.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -36.989666666666665
+    },
+    {
+        "AS Number": "6453",
+        "IP": "66.110.96.59",
+        "Range": "66.110.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 19.969666666666683
+    },
+    {
+        "AS Number": "6453",
+        "IP": "63.243.128.26",
+        "Range": "63.243.128.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -16.339333333333343
+    },
+    {
+        "AS Number": "6453",
+        "IP": "216.6.90.22",
+        "Range": "216.6.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 1.3033333333332848
+    },
+    {
+        "AS Number": "6453",
+        "IP": "64.86.226.57",
+        "Range": "64.86.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 2.6326666666667506
+    },
+    {
+        "AS Number": "6453",
+        "IP": "216.6.115.89",
+        "Range": "216.6.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 33.13399999999996
+    },
+    {
+        "AS Number": "6453",
+        "IP": "206.82.135.34",
+        "Range": "206.82.128.0/20",
+        "Organization": "AS6453, US",
+        "Latency": 6.271666666666647
+    },
+    {
+        "AS Number": "376",
+        "IP": "192.77.63.26",
+        "Range": "192.77.63.0/24",
+        "Organization": "RISQ-AS, CA",
+        "Latency": -41.477666666666664
+    },
+    {
+        "AS Number": "376",
+        "IP": "206.167.128.74",
+        "Range": "206.167.128.0/17",
+        "Organization": "RISQ-AS, CA",
+        "Latency": 1.8756666666666888
+    }
+]

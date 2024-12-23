@@ -1,0 +1,86 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 300.7943333333333
+    },
+    {
+        "AS Number": "2914",
+        "IP": "157.238.179.153",
+        "Range": "157.238.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -8.064666666666653
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.129",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 4.293666666666695
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.6.116",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -20.032333333333384
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.37",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 4.24133333333333
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.87",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 72.11500000000001
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.108",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -4.317666666666696
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.200.158",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -51.525999999999954
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.53",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 143.20033333333333
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.65",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": -11.735666666666702
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.200.254",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": 15.099333333333334
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.84.216",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": 2.8496666666666783
+    }
+]

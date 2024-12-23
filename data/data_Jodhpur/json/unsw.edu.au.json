@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 7.900666666666666
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 11.080333333333332
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.150.41",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": -0.03433333333332911
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.64",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 40.851
+    },
+    {
+        "AS Number": "64049",
+        "IP": "49.45.4.86",
+        "Range": "49.45.4.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 32.25166666666667
+    },
+    {
+        "AS Number": "64049",
+        "IP": "49.45.4.86",
+        "Range": "49.45.4.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": -1.427333333333337
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.9",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 74.04100000000001
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.68",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -0.3503333333333387
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.69",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 11.025333333333322
+    },
+    {
+        "AS Number": "9667",
+        "IP": "202.58.60.194",
+        "Range": "202.58.56.0/21",
+        "Organization": "HOSTWORKS-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -11.298000000000002
+    }
+]

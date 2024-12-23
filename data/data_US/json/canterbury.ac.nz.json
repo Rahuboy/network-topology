@@ -1,0 +1,93 @@
+[
+    {
+        "AS Number": "6939",
+        "IP": "184.105.222.174",
+        "Range": "184.104.0.0/15",
+        "Organization": "HURRICANE, US",
+        "Latency": 298.941
+    },
+    {
+        "AS Number": "6939",
+        "IP": "216.66.14.185",
+        "Range": "216.66.0.0/19",
+        "Organization": "HURRICANE, US",
+        "Latency": -10.175999999999988
+    },
+    {
+        "AS Number": "6939",
+        "IP": "64.62.151.126",
+        "Range": "64.62.128.0/18",
+        "Organization": "HURRICANE, US",
+        "Latency": 56.238999999999976
+    },
+    {
+        "AS Number": "4826",
+        "IP": "114.31.199.36",
+        "Range": "114.31.192.0/20",
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Latency": 294.50000000000006
+    },
+    {
+        "AS Number": "4826",
+        "IP": "114.31.199.75",
+        "Range": "114.31.192.0/20",
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Latency": -84.4805
+    },
+    {
+        "AS Number": "4826",
+        "IP": "114.31.202.39",
+        "Range": "114.31.192.0/20",
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Latency": 101.84583333333342
+    },
+    {
+        "AS Number": "4826",
+        "IP": "175.45.102.238",
+        "Range": "175.45.64.0/18",
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Latency": -24.93100000000004
+    },
+    {
+        "AS Number": "9790",
+        "IP": "101.98.5.221",
+        "Range": "101.98.0.0/16",
+        "Organization": "TWO-DEGREES-AS-AP Two Degrees Networks Limited, NZ",
+        "Latency": -56.54899999999998
+    },
+    {
+        "AS Number": "23655",
+        "IP": "111.69.30.153",
+        "Range": "111.69.16.0/20",
+        "Organization": "TWODEGREES-NZ-AS 2degrees Networks Limited, NZ",
+        "Latency": 7.764666666666585
+    },
+    {
+        "AS Number": "23655",
+        "IP": "111.69.30.155",
+        "Range": "111.69.16.0/20",
+        "Organization": "TWODEGREES-NZ-AS 2degrees Networks Limited, NZ",
+        "Latency": 2.690333333333342
+    },
+    {
+        "AS Number": "9432",
+        "IP": "202.36.179.65",
+        "Range": "202.36.178.0/23",
+        "Organization": "CANTERBURY-AS University of Canterbury, NZ",
+        "Latency": -20.39133333333325
+    },
+    {
+        "AS Number": "9432",
+        "IP": "132.181.3.236",
+        "Range": "132.181.0.0/16",
+        "Organization": "CANTERBURY-AS University of Canterbury, NZ",
+        "Latency": -2.858000000000061
+    },
+    {
+        "AS Number": "9432",
+        "IP": "132.181.106.9",
+        "Range": "132.181.0.0/16",
+        "Organization": "CANTERBURY-AS University of Canterbury, NZ",
+        "Latency": 8.95799999999997
+    }
+]

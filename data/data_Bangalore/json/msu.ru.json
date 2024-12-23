@@ -1,0 +1,93 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 13.440666666666667
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 18.832
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.16",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 122.48033333333332
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.153.49",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 4.521666666666675
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.15.69",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": -9.36099999999999
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.61.33",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 1.0056666666666558
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.61.17",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 8.126000000000005
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.2.141",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": -4.782333333333327
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.2.241",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": -9.160333333333341
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.175.61",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 80.72799999999998
+    },
+    {
+        "AS Number": "200350",
+        "IP": "130.193.63.245",
+        "Range": "130.193.32.0/19",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": 31.61433333333335
+    },
+    {
+        "AS Number": "200350",
+        "IP": "130.193.63.246",
+        "Range": "130.193.32.0/19",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": -4.59633333333332
+    },
+    {
+        "AS Number": "200350",
+        "IP": "178.154.243.30",
+        "Range": "178.154.243.0/24",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": -67.69999999999999
+    }
+]

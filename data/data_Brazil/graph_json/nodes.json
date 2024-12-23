@@ -1,0 +1,232 @@
+[
+    {
+        "AS Number": 64049,
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Group": "router"
+    },
+    {
+        "AS Number": 2914,
+        "Organization": "NTT-LTD-2914, US",
+        "Group": "router"
+    },
+    {
+        "AS Number": 1653,
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 16509,
+        "Organization": "AMAZON-02, US",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 36914,
+        "Organization": "KENET-AS, KE",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 3257,
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Group": "router"
+    },
+    {
+        "AS Number": 3356,
+        "Organization": "LEVEL3, US",
+        "Group": "router"
+    },
+    {
+        "AS Number": 23655,
+        "Organization": "TWODEGREES-NZ-AS 2degrees Networks Limited, NZ",
+        "Group": "router"
+    },
+    {
+        "AS Number": 61317,
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Group": "router"
+    },
+    {
+        "AS Number": 2828,
+        "Organization": "XO-AS15, US",
+        "Group": "router"
+    },
+    {
+        "AS Number": 2152,
+        "Organization": "CSUNET-NW, US",
+        "Group": "router"
+    },
+    {
+        "AS Number": 32934,
+        "Organization": "FACEBOOK, US",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 55836,
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Group": "router"
+    },
+    {
+        "AS Number": 3549,
+        "Organization": "LVLT-3549, US",
+        "Group": "router"
+    },
+    {
+        "AS Number": 15169,
+        "Organization": "GOOGLE, US",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 13335,
+        "Organization": "CLOUDFLARENET, US",
+        "Group": "router"
+    },
+    {
+        "AS Number": 207592,
+        "Organization": "GOENET, DE",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 209242,
+        "Organization": "CLOUDFLARESPECTRUM Cloudflare, Inc., US",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 132780,
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 0,
+        "Organization": "Host",
+        "Group": "source"
+    },
+    {
+        "AS Number": 6762,
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Group": "router"
+    },
+    {
+        "AS Number": 198032,
+        "Organization": "UCLES-AS, GB",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 2200,
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 2603,
+        "Organization": "NORDUNET, DK",
+        "Group": "router"
+    },
+    {
+        "AS Number": 101,
+        "Organization": "WASH-NSF-AS, US",
+        "Group": "router"
+    },
+    {
+        "AS Number": 16625,
+        "Organization": "AKAMAI-AS, US",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 73,
+        "Organization": "WASHINGTON-AS, US",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 3462,
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Group": "router"
+    },
+    {
+        "AS Number": 224,
+        "Organization": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 32,
+        "Organization": "STANFORD, US",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 20080,
+        "Organization": "AMPATH, US",
+        "Group": "router"
+    },
+    {
+        "AS Number": 2018,
+        "Organization": "TENET-1, ZA",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 174,
+        "Organization": "COGENT-174, US",
+        "Group": "router"
+    },
+    {
+        "AS Number": 9790,
+        "Organization": "TWO-DEGREES-AS-AP Two Degrees Networks Limited, NZ",
+        "Group": "router"
+    },
+    {
+        "AS Number": 9,
+        "Organization": "CMU-ROUTER, US",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 8075,
+        "Organization": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 200350,
+        "Organization": "YANDEXCLOUD, RU",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 9432,
+        "Organization": "CANTERBURY-AS University of Canterbury, NZ",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 680,
+        "Organization": "DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE",
+        "Group": "router"
+    },
+    {
+        "AS Number": 1299,
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Group": "router"
+    },
+    {
+        "AS Number": 13335,
+        "Organization": "CLOUDFLARENET, US",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 775,
+        "Organization": "FR-INRIA-ROCQ Institut National de Recherche en Informatique, EU",
+        "Group": "router"
+    },
+    {
+        "AS Number": 54113,
+        "Organization": "FASTLY, US",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 4713,
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Group": "destination"
+    },
+    {
+        "AS Number": 36944,
+        "Organization": "UBUNTU-UNICAST-AS, MW",
+        "Group": "router"
+    },
+    {
+        "AS Number": 4826,
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Group": "router"
+    }
+]

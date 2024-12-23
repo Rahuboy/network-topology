@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.1",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 13.535
+    },
+    {
+        "AS Number": "174",
+        "IP": "38.10.0.47",
+        "Range": "38.0.0.0/8",
+        "Organization": "COGENT-174, US",
+        "Latency": -0.016000000000000014
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.68.79.86",
+        "Range": "172.68.79.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": -3.253333333333334
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.68.79.86",
+        "Range": "172.68.79.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": -1.5619999999999994
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.68.79.87",
+        "Range": "172.68.79.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": 3.9956666666666667
+    },
+    {
+        "AS Number": "198032",
+        "IP": "192.149.119.103",
+        "Range": "192.149.119.0/24",
+        "Organization": "UCLES-AS, GB",
+        "Latency": 146.794
+    }
+]

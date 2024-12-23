@@ -1,0 +1,114 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 39.34966666666667
+    },
+    {
+        "AS Number": "9498",
+        "IP": "59.144.94.165",
+        "Range": "59.144.94.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -23.11366666666667
+    },
+    {
+        "AS Number": "9498",
+        "IP": "182.79.245.6",
+        "Range": "182.79.245.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 216.276
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.97.65",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 20.31133333333335
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.97.74",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": 22.60566666666668
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.97.2",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": -9.973333333333358
+    },
+    {
+        "AS Number": "2603",
+        "IP": "109.105.102.3",
+        "Range": "109.105.96.0/20",
+        "Organization": "NORDUNET, DK",
+        "Latency": -0.24900000000002365
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.63",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 2.6526666666666756
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.54",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 4.082333333333338
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.53",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 2.513333333333321
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.79",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 33.25366666666673
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.4.59",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 16.994333333333316
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.242.6.143",
+        "Range": "130.242.0.0/15",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": -21.823666666666725
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.237.154.175",
+        "Range": "130.237.0.0/16",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": -32.01899999999995
+    },
+    {
+        "AS Number": "1653",
+        "IP": "130.237.243.1",
+        "Range": "130.237.0.0/16",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": 19.93266666666665
+    },
+    {
+        "AS Number": "1653",
+        "IP": "193.11.30.171",
+        "Range": "193.11.0.0/16",
+        "Organization": "SUNET SUNET Swedish University Network, EU",
+        "Latency": -9.215666666666664
+    }
+]

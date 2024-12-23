@@ -1,0 +1,86 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 192.15966666666668
+    },
+    {
+        "AS Number": "3257",
+        "IP": "212.221.1.133",
+        "Range": "212.221.0.0/17",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 443.95533333333333
+    },
+    {
+        "AS Number": "3257",
+        "IP": "89.149.180.82",
+        "Range": "89.149.128.0/18",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": -454.774
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.15.253",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": 1.396333333333331
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.51.106",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": 28.731666666666683
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.38.209",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -3.789666666666676
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.51.41",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": 45.608000000000004
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.42.69",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 17.351666666666603
+    },
+    {
+        "AS Number": "174",
+        "IP": "38.122.8.210",
+        "Range": "38.0.0.0/8",
+        "Organization": "COGENT-174, US",
+        "Latency": 1.6743333333333794
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.255.5",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": 0.8763333333333208
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.255.21",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": 8.706333333333305
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.105.24",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": -5.345666666666659
+    }
+]

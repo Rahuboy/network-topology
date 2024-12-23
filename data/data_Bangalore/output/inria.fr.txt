@@ -1,0 +1,7 @@
+0.783 _gateway (10.0.2.2)
+16.089000000000002 59.160.132.61.ill-bgl.static.vsnl.net.in (59.160.132.61)
+30.448333333333334 172.28.176.253 (172.28.176.253)
+29.711333333333332 ix-ae-0-100.tcore1.mlv-mumbai.as6453.net (180.87.38.5)
+165.158 inria-rocquencourt-gi3-2-inria-rtr-021.noc.renater.fr (193.51.184.177)
+150.43433333333334 unit240-reth1-vfw-ext-dc1.inria.fr (192.93.122.19)
+157.282 prod-inriafr-cms.inria.fr (128.93.162.83)

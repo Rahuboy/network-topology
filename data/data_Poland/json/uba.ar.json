@@ -1,0 +1,58 @@
+[
+    {
+        "AS Number": "3269",
+        "IP": "88.48.0.0",
+        "Range": "88.48.0.0/15",
+        "Organization": "ASN-IBSNAZ, IT",
+        "Latency": 214.215
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.38.62",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -11.748333333333306
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.117.224",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 21.82166666666663
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.123.13",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 3.6306666666666843
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.112.242",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 90.9123333333333
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.120.177",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 10.639666666666699
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.41.58",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 137.79333333333335
+    },
+    {
+        "AS Number": "19037",
+        "IP": "170.51.254.171",
+        "Range": "170.51.254.0/24",
+        "Organization": "AMX Argentina S.A., AR",
+        "Latency": 152.1319999999999
+    }
+]

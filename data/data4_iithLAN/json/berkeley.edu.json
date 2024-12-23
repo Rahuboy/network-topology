@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 9.212333333333333
+    },
+    {
+        "AS Number": "55836",
+        "IP": "115.247.100.29",
+        "Range": "115.240.0.0/13",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": -1.6513333333333335
+    },
+    {
+        "AS Number": "13335",
+        "IP": "162.158.226.122",
+        "Range": "162.158.226.0/23",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": 36.794
+    },
+    {
+        "AS Number": "13335",
+        "IP": "172.71.200.4",
+        "Range": "172.71.200.0/24",
+        "Organization": "CLOUDFLARENET, US",
+        "Latency": -5.382999999999996
+    },
+    {
+        "AS Number": "209242",
+        "IP": "141.193.213.20",
+        "Range": "141.193.213.0/24",
+        "Organization": "CLOUDFLARESPECTRUM Cloudflare, Inc., US",
+        "Latency": -2.1709999999999994
+    }
+]

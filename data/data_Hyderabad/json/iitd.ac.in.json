@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 18.345
+    },
+    {
+        "AS Number": "9498",
+        "IP": "59.144.94.157",
+        "Range": "59.144.94.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 0.003666666666671148
+    },
+    {
+        "AS Number": "55836",
+        "IP": "49.44.220.188",
+        "Range": "49.44.128.0/17",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 14.463333333333328
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.148.178",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 29.820666666666675
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": -0.6510000000000105
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": -0.13299999999999557
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": 2.7080000000000055
+    }
+]

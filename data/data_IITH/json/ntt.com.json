@@ -1,0 +1,93 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 61.727
+    },
+    {
+        "AS Number": "55836",
+        "IP": "115.247.100.29",
+        "Range": "115.240.0.0/13",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": -17.047333333333334
+    },
+    {
+        "AS Number": "64049",
+        "IP": "49.45.4.103",
+        "Range": "49.45.4.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 180.79566666666665
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.7.26.61",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 1.5050000000000239
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.9.93",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 36.7706666666667
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.143",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -7.539666666666676
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.192",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 88.55833333333328
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.5.45",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 5.277000000000044
+    },
+    {
+        "AS Number": "2914",
+        "IP": "120.88.53.30",
+        "Range": "120.88.48.0/21",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -0.10500000000007503
+    },
+    {
+        "AS Number": "4713",
+        "IP": "122.1.245.70",
+        "Range": "122.1.0.0/16",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": 10.76533333333333
+    },
+    {
+        "AS Number": "4713",
+        "IP": "211.0.210.114",
+        "Range": "211.0.0.0/16",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": 11.023333333333426
+    },
+    {
+        "AS Number": "4713",
+        "IP": "61.113.104.254",
+        "Range": "61.112.0.0/15",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -0.17300000000000182
+    },
+    {
+        "AS Number": "4713",
+        "IP": "61.113.104.9",
+        "Range": "61.112.0.0/15",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -10.766666666666652
+    }
+]

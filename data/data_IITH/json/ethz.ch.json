@@ -1,0 +1,86 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 7.234333333333333
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 148.3276666666667
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.6",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 29.43999999999997
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.31",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 11.871333333333354
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.32",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": -6.6696666666666715
+    },
+    {
+        "AS Number": "20965",
+        "IP": "62.40.125.214",
+        "Range": "62.40.96.0/19",
+        "Organization": "GEANT The GEANT IP Service, NL",
+        "Latency": 3.855000000000018
+    },
+    {
+        "AS Number": "20965",
+        "IP": "62.40.124.22",
+        "Range": "62.40.96.0/19",
+        "Organization": "GEANT The GEANT IP Service, NL",
+        "Latency": 5.032000000000011
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.38.82",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 1.2639999999999532
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.36.126",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -4.216000000000008
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.92.1",
+        "Range": "192.33.92.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 0.4250000000000398
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.92.169",
+        "Range": "192.33.92.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -0.22066666666668766
+    },
+    {
+        "AS Number": "559",
+        "IP": "129.132.19.216",
+        "Range": "129.132.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -1.8059999999999832
+    }
+]

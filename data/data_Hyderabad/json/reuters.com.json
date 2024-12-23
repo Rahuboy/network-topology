@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 28.204333333333334
+    },
+    {
+        "AS Number": "9498",
+        "IP": "59.144.94.157",
+        "Range": "59.144.94.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -6.760999999999996
+    },
+    {
+        "AS Number": "9498",
+        "IP": "182.79.134.109",
+        "Range": "182.79.134.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 125.58466666666665
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.42.118",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -10.735666666666674
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.124.53",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 4.2450000000000045
+    },
+    {
+        "AS Number": "1299",
+        "IP": "80.239.134.85",
+        "Range": "80.239.128.0/19",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 2.01400000000001
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.69.202.110",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 144.81533333333334
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.53.161.38",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 5.288666666666643
+    },
+    {
+        "AS Number": "4583",
+        "IP": "167.68.44.27",
+        "Range": "167.68.0.0/16",
+        "Organization": "THOMSON-REUTERS, US",
+        "Latency": -0.5696666666666488
+    }
+]

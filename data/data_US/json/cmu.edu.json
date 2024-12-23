@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 302.611
+    },
+    {
+        "AS Number": "11164",
+        "IP": "198.71.47.209",
+        "Range": "198.71.47.0/24",
+        "Organization": "INTERNET2-I2PX, US",
+        "Latency": -17.440666666666687
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.0.181",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": 28.299666666666667
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.0.210",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": -18.730666666666593
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.42.10",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": 5.2409999999999854
+    }
+]

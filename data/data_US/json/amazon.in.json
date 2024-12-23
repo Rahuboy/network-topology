@@ -1,0 +1,58 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 268.4483333333333
+    },
+    {
+        "AS Number": "2914",
+        "IP": "157.238.179.69",
+        "Range": "157.238.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 31.19100000000003
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.8",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -26.603333333333353
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.6.146",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 68.75400000000002
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.183",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -6.665999999999997
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.191",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 7.483000000000004
+    },
+    {
+        "AS Number": "2914",
+        "IP": "131.103.117.103",
+        "Range": "131.103.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 139.32899999999995
+    },
+    {
+        "AS Number": "16509",
+        "IP": "54.239.33.92",
+        "Range": "54.239.33.0/24",
+        "Organization": "AMAZON-02, US",
+        "Latency": -29.752999999999986
+    }
+]

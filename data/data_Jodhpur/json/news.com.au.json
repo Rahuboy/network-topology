@@ -1,0 +1,30 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 7.757333333333334
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 11.093
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.148.178",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 0.2743333333333311
+    },
+    {
+        "AS Number": "9885",
+        "IP": "23.32.176.132",
+        "Range": "23.32.176.0/22",
+        "Organization": "NKN-INTERNET-GW NKN INTERNET GATEWAY NETWORK, IN",
+        "Latency": 2.0316666666666663
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 38.885333333333335
+    },
+    {
+        "AS Number": "9498",
+        "IP": "59.144.94.157",
+        "Range": "59.144.94.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -21.058333333333337
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.200.0",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 122.34199999999998
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.175.6",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 109.57400000000001
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.130.129",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": -5.921999999999997
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.131.158",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 4.069999999999993
+    },
+    {
+        "AS Number": "6453",
+        "IP": "64.86.226.57",
+        "Range": "64.86.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": -7.771333333333303
+    },
+    {
+        "AS Number": "6453",
+        "IP": "216.6.115.89",
+        "Range": "216.6.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 13.502333333333297
+    },
+    {
+        "AS Number": "6453",
+        "IP": "206.82.135.34",
+        "Range": "206.82.128.0/20",
+        "Organization": "AS6453, US",
+        "Latency": 45.54800000000003
+    },
+    {
+        "AS Number": "376",
+        "IP": "192.77.63.26",
+        "Range": "192.77.63.0/24",
+        "Organization": "RISQ-AS, CA",
+        "Latency": -33.86200000000002
+    },
+    {
+        "AS Number": "376",
+        "IP": "206.167.128.74",
+        "Range": "206.167.128.0/17",
+        "Organization": "RISQ-AS, CA",
+        "Latency": 3.6990000000000123
+    }
+]

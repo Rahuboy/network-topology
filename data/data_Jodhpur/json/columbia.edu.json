@@ -1,0 +1,121 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 9.205
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 6.567333333333334
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.150.41",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 2.625333333333332
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.170",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 34.092666666666666
+    },
+    {
+        "AS Number": "64049",
+        "IP": "49.45.4.85",
+        "Range": "49.45.4.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 208.8616666666667
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.3.69",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 16.78099999999995
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.45.161",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -0.7759999999999536
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.26.54",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 52.539333333333275
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.2.5",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 17.9016666666667
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.28.129",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -66.12999999999994
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.24.221",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -0.26366666666672245
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.40.109",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 8.35566666666665
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.84.214",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -9.23733333333331
+    },
+    {
+        "AS Number": "174",
+        "IP": "38.122.8.210",
+        "Range": "38.0.0.0/8",
+        "Organization": "COGENT-174, US",
+        "Latency": 10.258333333333326
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.255.5",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": -5.478000000000009
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.255.21",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": 21.829000000000008
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.105.24",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": -26.2353333333333
+    }
+]

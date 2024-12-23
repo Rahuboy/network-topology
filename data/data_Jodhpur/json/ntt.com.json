@@ -1,0 +1,86 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 6.996666666666667
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 8.768666666666668
+    },
+    {
+        "AS Number": "4755",
+        "IP": "14.143.159.181",
+        "Range": "14.143.158.0/23",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 0.8779999999999948
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.36.9",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 36.252
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.108.163",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 224.16000000000003
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.5.65",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -3.743666666666684
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.5.45",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 28.649999999999977
+    },
+    {
+        "AS Number": "2914",
+        "IP": "120.88.53.30",
+        "Range": "120.88.48.0/21",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -17.73233333333326
+    },
+    {
+        "AS Number": "4713",
+        "IP": "122.1.245.66",
+        "Range": "122.1.0.0/16",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": 0.18566666666663423
+    },
+    {
+        "AS Number": "4713",
+        "IP": "211.0.210.18",
+        "Range": "211.0.0.0/16",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -7.507000000000062
+    },
+    {
+        "AS Number": "4713",
+        "IP": "61.113.104.254",
+        "Range": "61.112.0.0/15",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": 31.254333333333363
+    },
+    {
+        "AS Number": "4713",
+        "IP": "61.113.104.9",
+        "Range": "61.112.0.0/15",
+        "Organization": "OCN NTT Communications Corporation, JP",
+        "Latency": -10.034666666666624
+    }
+]

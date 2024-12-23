@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 6.106333333333333
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 10.166333333333334
+    },
+    {
+        "AS Number": "32934",
+        "IP": "74.119.78.33",
+        "Range": "74.119.76.0/22",
+        "Organization": "FACEBOOK, US",
+        "Latency": 0.5010000000000012
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.39.73",
+        "Range": "157.240.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": -1.346333333333332
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.239.35",
+        "Range": "157.240.192.0/18",
+        "Organization": "FACEBOOK, US",
+        "Latency": 3.0526666666666653
+    }
+]

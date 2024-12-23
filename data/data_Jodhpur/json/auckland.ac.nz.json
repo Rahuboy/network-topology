@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 7.921666666666667
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 11.240666666666666
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.150.41",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": -1.267666666666667
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.64",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 35.39666666666667
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.249",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 31.46333333333333
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.249",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": -0.6813333333333418
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.68.70.157",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 11.348000000000013
+    },
+    {
+        "AS Number": "3549",
+        "IP": "113.29.115.254",
+        "Range": "113.29.112.0/20",
+        "Organization": "LVLT-3549, US",
+        "Latency": 86.39466666666667
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.33.236",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": 26.353333333333353
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.39.177",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": 2.373333333333278
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.39.178",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": 0.09900000000001796
+    }
+]

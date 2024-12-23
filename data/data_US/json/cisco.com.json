@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "3356",
+        "IP": "4.14.218.29",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 280.854
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.69.208.229",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 47.14999999999998
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.59.34.66",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": -37.89799999999991
+    },
+    {
+        "AS Number": "109",
+        "IP": "128.107.2.5",
+        "Range": "128.107.2.0/23",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 5.751666666666608
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.0.98",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 9.090666666666664
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.0.178",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -3.701000000000022
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.2.202",
+        "Range": "72.163.0.0/18",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": 19.31316666666669
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.4.129",
+        "Range": "72.163.4.0/24",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -16.717833333333317
+    },
+    {
+        "AS Number": "109",
+        "IP": "72.163.4.185",
+        "Range": "72.163.4.0/24",
+        "Organization": "CISCOSYSTEMS, US",
+        "Latency": -2.2046666666666965
+    }
+]

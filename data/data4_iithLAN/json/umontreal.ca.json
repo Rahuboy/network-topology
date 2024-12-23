@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 10.215666666666667
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 22.62633333333334
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.2",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 138.95299999999997
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.13",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 85.41900000000001
+    },
+    {
+        "AS Number": "6509",
+        "IP": "205.189.32.63",
+        "Range": "205.189.32.0/24",
+        "Organization": "CANARIE-NTN, CA",
+        "Latency": 16.12900000000002
+    },
+    {
+        "AS Number": "6509",
+        "IP": "205.189.32.32",
+        "Range": "205.189.32.0/24",
+        "Organization": "CANARIE-NTN, CA",
+        "Latency": 3.031000000000006
+    },
+    {
+        "AS Number": "6509",
+        "IP": "205.189.32.57",
+        "Range": "205.189.32.0/24",
+        "Organization": "CANARIE-NTN, CA",
+        "Latency": 2.604666666666617
+    }
+]

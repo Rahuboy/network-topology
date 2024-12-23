@@ -1,0 +1,128 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 385.76800000000003
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -23.520333333333383
+    },
+    {
+        "AS Number": "61317",
+        "IP": "191.101.62.200",
+        "Range": "191.101.62.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": 28.329000000000008
+    },
+    {
+        "AS Number": "6762",
+        "IP": "185.100.112.48",
+        "Range": "185.100.112.0/22",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -29.673000000000002
+    },
+    {
+        "AS Number": "6762",
+        "IP": "195.22.219.3",
+        "Range": "195.22.192.0/19",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 8.606333333333339
+    },
+    {
+        "AS Number": "6762",
+        "IP": "149.3.181.65",
+        "Range": "149.3.176.0/21",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": 9.653666666666652
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.5.24",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -12.597333333333268
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.12",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 129.81066666666658
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.9",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -19.097666666666555
+    },
+    {
+        "AS Number": "2914",
+        "IP": "128.241.7.159",
+        "Range": "128.241.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 83.9996666666666
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.214",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 117.66133333333335
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.196",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 16.92766666666671
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.44",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": -30.825333333333447
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.214",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 10.164333333333389
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.148.178",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 58.3900000000001
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": 54.51333333333332
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": 19.600333333333083
+    },
+    {
+        "AS Number": "132780",
+        "IP": "103.27.9.24",
+        "Range": "103.27.9.0/24",
+        "Organization": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN",
+        "Latency": -39.075999999999794
+    }
+]

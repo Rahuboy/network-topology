@@ -1,0 +1,30 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 6.391666666666667
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 9.866333333333333
+    },
+    {
+        "AS Number": "4755",
+        "IP": "115.117.105.10",
+        "Range": "115.117.105.0/24",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 2.3873333333333306
+    },
+    {
+        "AS Number": "19551",
+        "IP": "45.60.35.225",
+        "Range": "45.60.35.0/24",
+        "Organization": "INCAPSULA, US",
+        "Latency": 0.3543333333333365
+    }
+]

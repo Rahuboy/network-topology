@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 458.962
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -32.14300000000003
+    },
+    {
+        "AS Number": "61317",
+        "IP": "191.101.62.200",
+        "Range": "191.101.62.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -32.59599999999995
+    },
+    {
+        "AS Number": "6762",
+        "IP": "185.100.112.48",
+        "Range": "185.100.112.0/22",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -12.281999999999982
+    },
+    {
+        "AS Number": "6762",
+        "IP": "195.22.219.223",
+        "Range": "195.22.192.0/19",
+        "Organization": "SEABONE-NET TELECOM ITALIA SPARKLE S.p.A., IT",
+        "Latency": -22.972666666666726
+    },
+    {
+        "AS Number": "3549",
+        "IP": "189.125.184.29",
+        "Range": "189.125.0.0/16",
+        "Organization": "LVLT-3549, US",
+        "Latency": -5.40199999999993
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.47.214",
+        "Range": "8.243.32.0/19",
+        "Organization": "LEVEL3, US",
+        "Latency": 5.3243333333333
+    },
+    {
+        "AS Number": "200350",
+        "IP": "130.193.63.246",
+        "Range": "130.193.32.0/19",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": 310.451
+    },
+    {
+        "AS Number": "200350",
+        "IP": "178.154.243.30",
+        "Range": "178.154.243.0/24",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": 28.927333333333195
+    }
+]

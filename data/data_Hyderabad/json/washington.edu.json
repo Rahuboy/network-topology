@@ -1,0 +1,86 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 11.812666666666667
+    },
+    {
+        "AS Number": "9498",
+        "IP": "182.71.238.101",
+        "Range": "182.71.238.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -0.9349999999999987
+    },
+    {
+        "AS Number": "9498",
+        "IP": "116.119.42.23",
+        "Range": "116.119.42.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 49.27533333333333
+    },
+    {
+        "AS Number": "2914",
+        "IP": "116.51.31.53",
+        "Range": "116.51.16.0/20",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 0.34833333333332916
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.243",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 392.52566666666667
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.5.55",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 127.19800000000004
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.4.142",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 1.4554999999999154
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.99",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -55.400166666666564
+    },
+    {
+        "AS Number": "2914",
+        "IP": "198.104.202.6",
+        "Range": "198.104.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 39.0863333333333
+    },
+    {
+        "AS Number": "101",
+        "IP": "209.124.188.135",
+        "Range": "209.124.184.0/21",
+        "Organization": "WASH-NSF-AS, US",
+        "Latency": -13.42366666666669
+    },
+    {
+        "AS Number": "73",
+        "IP": "128.95.155.195",
+        "Range": "128.95.0.0/16",
+        "Organization": "WASHINGTON-AS, US",
+        "Latency": 34.585666666666725
+    },
+    {
+        "AS Number": "73",
+        "IP": "128.95.155.197",
+        "Range": "128.95.0.0/16",
+        "Organization": "WASHINGTON-AS, US",
+        "Latency": -80.63500000000005
+    }
+]

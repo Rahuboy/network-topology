@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.1",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 8.893
+    },
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 0.8186666666666671
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.37.1",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 10.806999999999997
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.3.131",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 205.43283333333335
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.116.157",
+        "Range": "103.52.116.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 25.319499999999977
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.116.150",
+        "Range": "103.52.116.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -7.957666666666682
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.68",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 2.140666666666675
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.69",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -3.0226666666666517
+    },
+    {
+        "AS Number": "9667",
+        "IP": "202.58.60.194",
+        "Range": "202.58.56.0/21",
+        "Organization": "HOSTWORKS-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 3.4769999999999754
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 229.40966666666665
+    },
+    {
+        "AS Number": "6939",
+        "IP": "184.104.188.54",
+        "Range": "184.104.0.0/15",
+        "Organization": "HURRICANE, US",
+        "Latency": -1.3546666666666454
+    },
+    {
+        "AS Number": "6939",
+        "IP": "72.52.92.166",
+        "Range": "72.52.92.0/24",
+        "Organization": "HURRICANE, US",
+        "Latency": 115.12399999999997
+    },
+    {
+        "AS Number": "2381",
+        "IP": "216.56.50.86",
+        "Range": "216.56.0.0/16",
+        "Organization": "WISCNET1-AS, US",
+        "Latency": -12.451999999999941
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.255.181",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": -12.670000000000016
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.255.210",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": 51.519000000000005
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.42.10",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": -54.322
+    }
+]

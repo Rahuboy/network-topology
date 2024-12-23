@@ -1,0 +1,58 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 6.724666666666667
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 25.246333333333336
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.6",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 139.96633333333332
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.20",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 1.6773333333333653
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.13",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 82.85066666666663
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.255.5",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": -2.996333333333297
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.255.21",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": -0.7183333333333621
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.105.24",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": 2.3573333333333153
+    }
+]

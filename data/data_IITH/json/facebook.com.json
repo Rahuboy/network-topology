@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 60.521
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.68.238",
+        "Range": "157.240.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": -17.93566666666667
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.44.31",
+        "Range": "157.240.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": -11.879666666666662
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.38.227",
+        "Range": "157.240.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": 1.1486666666666636
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.16.35",
+        "Range": "157.240.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": -0.5536666666666648
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 458.59666666666664
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -45.048166666666646
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.152.21",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -28.741499999999974
+    },
+    {
+        "AS Number": "3549",
+        "IP": "200.189.212.154",
+        "Range": "200.189.192.0/18",
+        "Organization": "LVLT-3549, US",
+        "Latency": -30.089666666666687
+    },
+    {
+        "AS Number": "16509",
+        "IP": "3.33.167.235",
+        "Range": "3.33.160.0/20",
+        "Organization": "AMAZON-02, US",
+        "Latency": 22.575333333333333
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.1",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 11.76
+    },
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.50",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 19.326999999999998
+    },
+    {
+        "AS Number": "9498",
+        "IP": "103.156.182.37",
+        "Range": "103.156.182.0/23",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 36.85366666666667
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.55.245.218",
+        "Range": "23.55.244.0/22",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -15.129666666666672
+    }
+]

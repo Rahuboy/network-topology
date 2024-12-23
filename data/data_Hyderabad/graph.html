@@ -1,0 +1,193 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 1200px;
+                 background-color: #222222;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"/>
+</head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"font": {"color": "white"}, "group": "router", "id": 55836, "label": "55836", "shape": "icon", "size": 10, "title": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN"}, {"font": {"color": "white"}, "group": "destination", "id": 32, "label": "32", "shape": "icon", "size": 10, "title": "STANFORD, US"}, {"font": {"color": "white"}, "group": "router", "id": 6939, "label": "6939", "shape": "icon", "size": 10, "title": "HURRICANE, US"}, {"font": {"color": "white"}, "group": "router", "id": 6453, "label": "6453", "shape": "icon", "size": 10, "title": "AS6453, US"}, {"font": {"color": "white"}, "group": "destination", "id": 19551, "label": "19551", "shape": "icon", "size": 10, "title": "INCAPSULA, US"}, {"font": {"color": "white"}, "group": "destination", "id": 8075, "label": "8075", "shape": "icon", "size": 10, "title": "MICROSOFT-CORP-MSN-AS-BLOCK, US"}, {"font": {"color": "white"}, "group": "destination", "id": 9, "label": "9", "shape": "icon", "size": 10, "title": "CMU-ROUTER, US"}, {"font": {"color": "white"}, "group": "destination", "id": 20940, "label": "20940", "shape": "icon", "size": 10, "title": "AKAMAI-ASN1, NL"}, {"font": {"color": "white"}, "group": "router", "id": 7473, "label": "7473", "shape": "icon", "size": 10, "title": "SINGTEL-AS-AP Singapore Telecommunications Ltd, SG"}, {"font": {"color": "white"}, "group": "destination", "id": 376, "label": "376", "shape": "icon", "size": 10, "title": "RISQ-AS, CA"}, {"font": {"color": "white"}, "group": "destination", "id": 559, "label": "559", "shape": "icon", "size": 10, "title": "SWITCH Peering requests: peering@switch.ch, CH"}, {"font": {"color": "white"}, "group": "router", "id": 9790, "label": "9790", "shape": "icon", "size": 10, "title": "TWO-DEGREES-AS-AP Two Degrees Networks Limited, NZ"}, {"font": {"color": "white"}, "group": "destination", "id": 224, "label": "224", "shape": "icon", "size": 10, "title": "UNINETT UNINETT, The Norwegian University \u0026 Research Network, NO"}, {"font": {"color": "white"}, "group": "router", "id": 1299, "label": "1299", "shape": "icon", "size": 10, "title": "TWELVE99 Arelion, fka Telia Carrier, SE"}, {"font": {"color": "white"}, "group": "router", "id": 6461, "label": "6461", "shape": "icon", "size": 10, "title": "ZAYO-6461, US"}, {"font": {"color": "white"}, "group": "destination", "id": 200350, "label": "200350", "shape": "icon", "size": 10, "title": "YANDEXCLOUD, RU"}, {"font": {"color": "white"}, "group": "destination", "id": 16509, "label": "16509", "shape": "icon", "size": 10, "title": "AMAZON-02, US"}, {"font": {"color": "white"}, "group": "router", "id": 2381, "label": "2381", "shape": "icon", "size": 10, "title": "WISCNET1-AS, US"}, {"font": {"color": "white"}, "group": "router", "id": 24560, "label": "24560", "shape": "icon", "size": 10, "title": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN"}, {"font": {"color": "white"}, "group": "router", "id": 2914, "label": "2914", "shape": "icon", "size": 10, "title": "NTT-LTD-2914, US"}, {"font": {"color": "white"}, "group": "destination", "id": 14907, "label": "14907", "shape": "icon", "size": 10, "title": "WIKIMEDIA, US"}, {"font": {"color": "white"}, "group": "router", "id": 775, "label": "775", "shape": "icon", "size": 10, "title": "FR-INRIA-ROCQ Institut National de Recherche en Informatique, EU"}, {"font": {"color": "white"}, "group": "router", "id": 2603, "label": "2603", "shape": "icon", "size": 10, "title": "NORDUNET, DK"}, {"font": {"color": "white"}, "group": "router", "id": 3549, "label": "3549", "shape": "icon", "size": 10, "title": "LVLT-3549, US"}, {"font": {"color": "white"}, "group": "router", "id": 3356, "label": "3356", "shape": "icon", "size": 10, "title": "LEVEL3, US"}, {"font": {"color": "white"}, "group": "destination", "id": 2200, "label": "2200", "shape": "icon", "size": 10, "title": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR"}, {"font": {"color": "white"}, "group": "destination", "id": 109, "label": "109", "shape": "icon", "size": 10, "title": "CISCOSYSTEMS, US"}, {"font": {"color": "white"}, "group": "destination", "id": 9667, "label": "9667", "shape": "icon", "size": 10, "title": "HOSTWORKS-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU"}, {"font": {"color": "white"}, "group": "destination", "id": 198032, "label": "198032", "shape": "icon", "size": 10, "title": "UCLES-AS, GB"}, {"font": {"color": "white"}, "group": "destination", "id": 19037, "label": "19037", "shape": "icon", "size": 10, "title": "AMX Argentina S.A., AR"}, {"font": {"color": "white"}, "group": "destination", "id": 174, "label": "174", "shape": "icon", "size": 10, "title": "COGENT-174, US"}, {"font": {"color": "white"}, "group": "router", "id": 101, "label": "101", "shape": "icon", "size": 10, "title": "WASH-NSF-AS, US"}, {"font": {"color": "white"}, "group": "destination", "id": 32934, "label": "32934", "shape": "icon", "size": 10, "title": "FACEBOOK, US"}, {"font": {"color": "white"}, "group": "source", "id": -1, "label": "-1", "shape": "icon", "size": 10, "title": "Host"}, {"font": {"color": "white"}, "group": "destination", "id": 9498, "label": "9498", "shape": "icon", "size": 10, "title": "BBIL-AP BHARTI Airtel Ltd., IN"}, {"font": {"color": "white"}, "group": "destination", "id": 4713, "label": "4713", "shape": "icon", "size": 10, "title": "OCN NTT Communications Corporation, JP"}, {"font": {"color": "white"}, "group": "destination", "id": 15169, "label": "15169", "shape": "icon", "size": 10, "title": "GOOGLE, US"}, {"font": {"color": "white"}, "group": "destination", "id": 1653, "label": "1653", "shape": "icon", "size": 10, "title": "SUNET SUNET Swedish University Network, EU"}, {"font": {"color": "white"}, "group": "destination", "id": 209242, "label": "209242", "shape": "icon", "size": 10, "title": "CLOUDFLARESPECTRUM Cloudflare, Inc., US"}, {"font": {"color": "white"}, "group": "router", "id": 13335, "label": "13335", "shape": "icon", "size": 10, "title": "CLOUDFLARENET, US"}, {"font": {"color": "white"}, "group": "destination", "id": 36914, "label": "36914", "shape": "icon", "size": 10, "title": "KENET-AS, KE"}, {"font": {"color": "white"}, "group": "destination", "id": 73, "label": "73", "shape": "icon", "size": 10, "title": "WASHINGTON-AS, US"}, {"font": {"color": "white"}, "group": "router", "id": 63956, "label": "63956", "shape": "icon", "size": 10, "title": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU"}, {"font": {"color": "white"}, "group": "destination", "id": 207592, "label": "207592", "shape": "icon", "size": 10, "title": "GOENET, DE"}, {"font": {"color": "white"}, "group": "destination", "id": 54113, "label": "54113", "shape": "icon", "size": 10, "title": "FASTLY, US"}, {"font": {"color": "white"}, "group": "router", "id": 4826, "label": "4826", "shape": "icon", "size": 10, "title": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU"}, {"font": {"color": "white"}, "group": "router", "id": 1916, "label": "1916", "shape": "icon", "size": 10, "title": "Rede Nacional de Ensino e Pesquisa, BR"}, {"font": {"color": "white"}, "group": "router", "id": 4755, "label": "4755", "shape": "icon", "size": 10, "title": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN"}, {"font": {"color": "white"}, "group": "destination", "id": 2715, "label": "2715", "shape": "icon", "size": 10, "title": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR"}, {"font": {"color": "white"}, "group": "destination", "id": 16625, "label": "16625", "shape": "icon", "size": 10, "title": "AKAMAI-AS, US"}, {"font": {"color": "white"}, "group": "destination", "id": 2018, "label": "2018", "shape": "icon", "size": 10, "title": "TENET-1, ZA"}, {"font": {"color": "white"}, "group": "router", "id": 23655, "label": "23655", "shape": "icon", "size": 10, "title": "TWODEGREES-NZ-AS 2degrees Networks Limited, NZ"}, {"font": {"color": "white"}, "group": "destination", "id": 14, "label": "14", "shape": "icon", "size": 10, "title": "COLUMBIA-GW, US"}, {"font": {"color": "white"}, "group": "destination", "id": 9432, "label": "9432", "shape": "icon", "size": 10, "title": "CANTERBURY-AS University of Canterbury, NZ"}, {"font": {"color": "white"}, "group": "router", "id": 680, "label": "680", "shape": "icon", "size": 10, "title": "DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE"}, {"font": {"color": "white"}, "group": "destination", "id": 4583, "label": "4583", "shape": "icon", "size": 10, "title": "THOMSON-REUTERS, US"}, {"font": {"color": "white"}, "group": "destination", "id": 38022, "label": "38022", "shape": "icon", "size": 10, "title": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ"}, {"font": {"color": "white"}, "group": "router", "id": 36944, "label": "36944", "shape": "icon", "size": 10, "title": "UBUNTU-UNICAST-AS, MW"}, {"font": {"color": "white"}, "group": "destination", "id": 132780, "label": "132780", "shape": "icon", "size": 10, "title": "IITDEL-AS-IN Indian Institute of Technology Delhi, IN"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "color": "#8e4448", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#8e4448", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#8e4448", "from": 9498, "to": 2603, "width": 5}, {"arrows": "to", "color": "#8e4448", "from": 2603, "to": 224, "width": 5}, {"arrows": "to", "color": "#4de441", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#4de441", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#4de441", "from": 9498, "to": 20940, "width": 5}, {"arrows": "to", "color": "#406c87", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#406c87", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#406c87", "from": 9498, "to": 6939, "width": 5}, {"arrows": "to", "color": "#406c87", "from": 6939, "to": 4826, "width": 5}, {"arrows": "to", "color": "#406c87", "from": 4826, "to": 9790, "width": 5}, {"arrows": "to", "color": "#406c87", "from": 9790, "to": 23655, "width": 5}, {"arrows": "to", "color": "#406c87", "from": 23655, "to": 9432, "width": 5}, {"arrows": "to", "color": "#a949f8", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#a949f8", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#a949f8", "from": 9498, "to": 13335, "width": 5}, {"arrows": "to", "color": "#d64dc5", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#d64dc5", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#d64dc5", "from": 9498, "to": 3356, "width": 5}, {"arrows": "to", "color": "#d64dc5", "from": 3356, "to": 109, "width": 5}, {"arrows": "to", "color": "#ab9af2", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#ab9af2", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#ab9af2", "from": 9498, "to": 6453, "width": 5}, {"arrows": "to", "color": "#ab9af2", "from": 6453, "to": 376, "width": 5}, {"arrows": "to", "color": "#c9b5a1", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#c9b5a1", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#c9b5a1", "from": 9498, "to": 19551, "width": 5}, {"arrows": "to", "color": "#9e6ca4", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#9e6ca4", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#9e6ca4", "from": 9498, "to": 3356, "width": 5}, {"arrows": "to", "color": "#9e6ca4", "from": 3356, "to": 3549, "width": 5}, {"arrows": "to", "color": "#9e6ca4", "from": 3549, "to": 38022, "width": 5}, {"arrows": "to", "color": "#aa814e", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#aa814e", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#80b586", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#80b586", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#c36081", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#c36081", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#c36081", "from": 9498, "to": 16509, "width": 5}, {"arrows": "to", "color": "#cf93a6", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#cf93a6", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#cf93a6", "from": 9498, "to": 2914, "width": 5}, {"arrows": "to", "color": "#cf93a6", "from": 2914, "to": 1916, "width": 5}, {"arrows": "to", "color": "#cf93a6", "from": 1916, "to": 2715, "width": 5}, {"arrows": "to", "color": "#d6a7a1", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#d6a7a1", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#d6a7a1", "from": 9498, "to": 15169, "width": 5}, {"arrows": "to", "color": "#d0769f", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#d0769f", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#d0769f", "from": 9498, "to": 559, "width": 5}, {"arrows": "to", "color": "#d9ae5a", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#d9ae5a", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#d9ae5a", "from": 9498, "to": 13335, "width": 5}, {"arrows": "to", "color": "#d9ae5a", "from": 13335, "to": 209242, "width": 5}, {"arrows": "to", "color": "#d79cc7", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#d79cc7", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#d79cc7", "from": 9498, "to": 54113, "width": 5}, {"arrows": "to", "color": "#4067e2", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#4067e2", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#4067e2", "from": 9498, "to": 13335, "width": 5}, {"arrows": "to", "color": "#4067e2", "from": 13335, "to": 198032, "width": 5}, {"arrows": "to", "color": "#5d7a84", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#5d7a84", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#5d7a84", "from": 9498, "to": 2914, "width": 5}, {"arrows": "to", "color": "#5d7a84", "from": 2914, "to": 4713, "width": 5}, {"arrows": "to", "color": "#f54cfb", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#f54cfb", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#f54cfb", "from": 9498, "to": 16509, "width": 5}, {"arrows": "to", "color": "#7c73b7", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#7c73b7", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#7c73b7", "from": 9498, "to": 2200, "width": 5}, {"arrows": "to", "color": "#7c73b7", "from": 2200, "to": 775, "width": 5}, {"arrows": "to", "color": "#e3c997", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#e3c997", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#e3c997", "from": 9498, "to": 559, "width": 5}, {"arrows": "to", "color": "#438df5", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#438df5", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#438df5", "from": 9498, "to": 16509, "width": 5}, {"arrows": "to", "color": "#514072", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#514072", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#514072", "from": 9498, "to": 2914, "width": 5}, {"arrows": "to", "color": "#514072", "from": 2914, "to": 101, "width": 5}, {"arrows": "to", "color": "#514072", "from": 101, "to": 73, "width": 5}, {"arrows": "to", "color": "#567e9c", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#567e9c", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#567e9c", "from": 9498, "to": 16509, "width": 5}, {"arrows": "to", "color": "#9d9760", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#9d9760", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#e9aabf", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#e9aabf", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#e9aabf", "from": 9498, "to": 1299, "width": 5}, {"arrows": "to", "color": "#e9aabf", "from": 1299, "to": 3356, "width": 5}, {"arrows": "to", "color": "#e9aabf", "from": 3356, "to": 4583, "width": 5}, {"arrows": "to", "color": "#7eb4f4", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#7eb4f4", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#7eb4f4", "from": 9498, "to": 54113, "width": 5}, {"arrows": "to", "color": "#7ac077", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#7ac077", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#7ac077", "from": 9498, "to": 2603, "width": 5}, {"arrows": "to", "color": "#7ac077", "from": 2603, "to": 1653, "width": 5}, {"arrows": "to", "color": "#e3b96f", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#e3b96f", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#e3b96f", "from": 9498, "to": 8075, "width": 5}, {"arrows": "to", "color": "#dbebf0", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#dbebf0", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#dbebf0", "from": 9498, "to": 36944, "width": 5}, {"arrows": "to", "color": "#dbebf0", "from": 36944, "to": 36914, "width": 5}, {"arrows": "to", "color": "#9652a1", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#9652a1", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#9652a1", "from": 9498, "to": 174, "width": 5}, {"arrows": "to", "color": "#9652a1", "from": 174, "to": 14, "width": 5}, {"arrows": "to", "color": "#8b40eb", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#8b40eb", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#8b40eb", "from": 9498, "to": 6939, "width": 5}, {"arrows": "to", "color": "#8b40eb", "from": 6939, "to": 4826, "width": 5}, {"arrows": "to", "color": "#8b40eb", "from": 4826, "to": 20940, "width": 5}, {"arrows": "to", "color": "#548981", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#548981", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#548981", "from": 9498, "to": 16509, "width": 5}, {"arrows": "to", "color": "#bb7bb2", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#bb7bb2", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#bb7bb2", "from": 9498, "to": 174, "width": 5}, {"arrows": "to", "color": "#77fbb6", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#77fbb6", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#77fbb6", "from": 9498, "to": 54113, "width": 5}, {"arrows": "to", "color": "#71eb5a", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#71eb5a", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#71eb5a", "from": 9498, "to": 6461, "width": 5}, {"arrows": "to", "color": "#71eb5a", "from": 6461, "to": 16509, "width": 5}, {"arrows": "to", "color": "#9795c6", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#9795c6", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#9795c6", "from": 9498, "to": 1299, "width": 5}, {"arrows": "to", "color": "#9795c6", "from": 1299, "to": 19037, "width": 5}, {"arrows": "to", "color": "#8f6b3c", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#8f6b3c", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#8f6b3c", "from": 9498, "to": 4755, "width": 5}, {"arrows": "to", "color": "#8f6b3c", "from": 4755, "to": 16625, "width": 5}, {"arrows": "to", "color": "#faa27a", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#faa27a", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#faa27a", "from": 9498, "to": 55836, "width": 5}, {"arrows": "to", "color": "#faa27a", "from": 55836, "to": 132780, "width": 5}, {"arrows": "to", "color": "#ad65ac", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#ad65ac", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#ad65ac", "from": 9498, "to": 6939, "width": 5}, {"arrows": "to", "color": "#ad65ac", "from": 6939, "to": 2381, "width": 5}, {"arrows": "to", "color": "#ad65ac", "from": 2381, "to": 9, "width": 5}, {"arrows": "to", "color": "#f442c1", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#f442c1", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#f442c1", "from": 9498, "to": 200350, "width": 5}, {"arrows": "to", "color": "#d5d6ea", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#d5d6ea", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#d5d6ea", "from": 9498, "to": 16509, "width": 5}, {"arrows": "to", "color": "#a64176", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#a64176", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#a64176", "from": 9498, "to": 32934, "width": 5}, {"arrows": "to", "color": "#5ed673", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#5ed673", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#5ed673", "from": 9498, "to": 6939, "width": 5}, {"arrows": "to", "color": "#5ed673", "from": 6939, "to": 32, "width": 5}, {"arrows": "to", "color": "#62917f", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#62917f", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#62917f", "from": 9498, "to": 7473, "width": 5}, {"arrows": "to", "color": "#62917f", "from": 7473, "to": 20940, "width": 5}, {"arrows": "to", "color": "#f56a54", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#f56a54", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#f56a54", "from": 9498, "to": 2018, "width": 5}, {"arrows": "to", "color": "#da6d41", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#da6d41", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#da6d41", "from": 9498, "to": 63956, "width": 5}, {"arrows": "to", "color": "#da6d41", "from": 63956, "to": 9667, "width": 5}, {"arrows": "to", "color": "#adc648", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#adc648", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#adc648", "from": 9498, "to": 14907, "width": 5}, {"arrows": "to", "color": "#d1d34f", "from": -1, "to": 24560, "width": 5}, {"arrows": "to", "color": "#d1d34f", "from": 24560, "to": 9498, "width": 5}, {"arrows": "to", "color": "#d1d34f", "from": 9498, "to": 6461, "width": 5}, {"arrows": "to", "color": "#d1d34f", "from": 6461, "to": 680, "width": 5}, {"arrows": "to", "color": "#d1d34f", "from": 680, "to": 207592, "width": 5}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "groups": {
+        "destination": {
+            "icon": {
+                "code": "\uf0ac",
+                "color": "white",
+                "face": "FontAwesome",
+                "size": 50
+            },
+            "shape": "icon"
+        },
+        "router": {
+            "icon": {
+                "code": "\uf233",
+                "color": "white",
+                "face": "FontAwesome",
+                "size": 50
+            },
+            "shape": "icon"
+        },
+        "source": {
+            "icon": {
+                "code": "\uf109",
+                "color": "white",
+                "face": "FontAwesome",
+                "size": 50
+            },
+            "shape": "icon"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "repulsion": {
+            "centralGravity": 0.2,
+            "damping": 0.09,
+            "nodeDistance": 250,
+            "springConstant": 0.05,
+            "springLength": 200
+        },
+        "solver": "repulsion",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

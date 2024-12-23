@@ -1,0 +1,93 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.1",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 9.295
+    },
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": -1.2476666666666656
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 21.163666666666664
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.153.168",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 129.39233333333334
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.15.69",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": -0.14966666666666129
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.61.33",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 0.7133333333333383
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.61.21",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -1.2206666666666592
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.57.69",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 12.778666666666652
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.42.69",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 91.10900000000001
+    },
+    {
+        "AS Number": "174",
+        "IP": "38.122.8.210",
+        "Range": "38.0.0.0/8",
+        "Organization": "COGENT-174, US",
+        "Latency": -11.699999999999989
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.255.5",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": 2.6293333333333067
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.255.21",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": 6.1906666666666865
+    },
+    {
+        "AS Number": "14",
+        "IP": "128.59.105.24",
+        "Range": "128.59.0.0/16",
+        "Organization": "COLUMBIA-GW, US",
+        "Latency": -16.245666666666665
+    }
+]

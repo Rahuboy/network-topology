@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.12",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 19.485666666666667
+    },
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 1.5209999999999972
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 13.123333333333331
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.70",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 191.452
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.175.5",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": -0.09233333333330052
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.62.57",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 9.656999999999982
+    },
+    {
+        "AS Number": "6453",
+        "IP": "66.110.96.62",
+        "Range": "66.110.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": -10.185666666666663
+    },
+    {
+        "AS Number": "6453",
+        "IP": "66.110.96.58",
+        "Range": "66.110.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 11.323999999999984
+    },
+    {
+        "AS Number": "16509",
+        "IP": "54.239.28.85",
+        "Range": "54.239.16.0/20",
+        "Organization": "AMAZON-02, US",
+        "Latency": 44.50133333333329
+    }
+]

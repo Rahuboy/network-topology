@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 6.54
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 9.292000000000002
+    },
+    {
+        "AS Number": "4755",
+        "IP": "14.143.159.181",
+        "Range": "14.143.158.0/23",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 0.461666666666666
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 21.171333333333337
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.129",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 204.138
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.131.158",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 1.3470000000000084
+    },
+    {
+        "AS Number": "6453",
+        "IP": "64.86.226.57",
+        "Range": "64.86.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": -3.4593333333333476
+    },
+    {
+        "AS Number": "6453",
+        "IP": "216.6.115.89",
+        "Range": "216.6.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 30.420333333333332
+    },
+    {
+        "AS Number": "6453",
+        "IP": "206.82.135.34",
+        "Range": "206.82.128.0/20",
+        "Organization": "AS6453, US",
+        "Latency": -27.86499999999998
+    },
+    {
+        "AS Number": "376",
+        "IP": "192.77.63.26",
+        "Range": "192.77.63.0/24",
+        "Organization": "RISQ-AS, CA",
+        "Latency": -0.2846666666666806
+    },
+    {
+        "AS Number": "376",
+        "IP": "206.167.128.74",
+        "Range": "206.167.128.0/17",
+        "Organization": "RISQ-AS, CA",
+        "Latency": -5.11099999999999
+    }
+]

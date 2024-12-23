@@ -1,0 +1,100 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 198.40599999999998
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.38.62",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 0.9366666666666958
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.117.224",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 9.931999999999988
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.123.13",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 9.40433333333334
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.112.242",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 86.68566666666666
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.121.220",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 54.31400000000002
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.145.153",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -4.002999999999986
+    },
+    {
+        "AS Number": "63956",
+        "IP": "45.112.244.198",
+        "Range": "45.112.244.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 121.73866666666663
+    },
+    {
+        "AS Number": "63956",
+        "IP": "45.112.244.197",
+        "Range": "45.112.244.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 14.011666666666656
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.116.157",
+        "Range": "103.52.116.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -6.204666666666583
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.116.150",
+        "Range": "103.52.116.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 1.6423333333332266
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.68",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -14.43133333333327
+    },
+    {
+        "AS Number": "63956",
+        "IP": "103.52.119.69",
+        "Range": "103.52.119.0/24",
+        "Organization": "INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": 10.228999999999928
+    },
+    {
+        "AS Number": "9667",
+        "IP": "202.58.60.194",
+        "Range": "202.58.56.0/21",
+        "Organization": "HOSTWORKS-AS-AP 5G NETWORK OPERATIONS PTY LTD, AU",
+        "Latency": -10.089999999999975
+    }
+]

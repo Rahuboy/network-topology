@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "2914",
+        "IP": "157.238.179.69",
+        "Range": "157.238.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 283.98333333333335
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.8",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -12.068333333333385
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.6.17",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -2.5809999999999604
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.166",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 17.70833333333337
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.27",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 14.263666666666609
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.5.17",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 37.36900000000003
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.147",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 10.97866666666664
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.5.77",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 89.85633333333334
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.7.14",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 12.209666666666635
+    },
+    {
+        "AS Number": "2914",
+        "IP": "61.120.146.70",
+        "Range": "61.120.144.0/20",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -18.7233333333333
+    },
+    {
+        "AS Number": "16509",
+        "IP": "52.219.136.211",
+        "Range": "52.219.136.0/24",
+        "Organization": "AMAZON-02, US",
+        "Latency": 7.154166666666697
+    }
+]

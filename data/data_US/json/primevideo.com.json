@@ -1,0 +1,16 @@
+[
+    {
+        "AS Number": "3356",
+        "IP": "4.14.218.21",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 282.546
+    },
+    {
+        "AS Number": "16509",
+        "IP": "18.238.25.7",
+        "Range": "18.238.24.0/22",
+        "Organization": "AMAZON-02, US",
+        "Latency": 7.595333333333315
+    }
+]

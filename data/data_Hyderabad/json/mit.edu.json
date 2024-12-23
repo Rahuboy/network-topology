@@ -1,0 +1,114 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 36.3425
+    },
+    {
+        "AS Number": "9498",
+        "IP": "202.56.234.85",
+        "Range": "202.56.234.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -14.579833333333337
+    },
+    {
+        "AS Number": "6939",
+        "IP": "64.62.151.126",
+        "Range": "64.62.128.0/18",
+        "Organization": "HURRICANE, US",
+        "Latency": 244.10533333333333
+    },
+    {
+        "AS Number": "4826",
+        "IP": "114.31.199.38",
+        "Range": "114.31.192.0/20",
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Latency": 3.26400000000001
+    },
+    {
+        "AS Number": "4826",
+        "IP": "114.31.199.32",
+        "Range": "114.31.192.0/20",
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Latency": 10.73266666666666
+    },
+    {
+        "AS Number": "4826",
+        "IP": "114.31.199.42",
+        "Range": "114.31.192.0/20",
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Latency": 76.51899999999995
+    },
+    {
+        "AS Number": "4826",
+        "IP": "114.31.192.40",
+        "Range": "114.31.192.0/20",
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Latency": -54.94
+    },
+    {
+        "AS Number": "4826",
+        "IP": "114.31.192.59",
+        "Range": "114.31.192.0/20",
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Latency": -32.818666666666616
+    },
+    {
+        "AS Number": "4826",
+        "IP": "124.254.70.254",
+        "Range": "124.254.64.0/18",
+        "Organization": "VOCUS-BACKBONE-AS Vocus Connect International Backbone, AU",
+        "Latency": 1.9933333333333394
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.56.128.38",
+        "Range": "23.56.128.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 0.5596666666667147
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.214.115.22",
+        "Range": "23.214.115.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 37.4129999999999
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.214.115.16",
+        "Range": "23.214.115.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -1.8783333333332166
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.214.115.20",
+        "Range": "23.214.115.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -38.91300000000007
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.215.54.42",
+        "Range": "23.215.54.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 14.078333333333319
+    },
+    {
+        "AS Number": "20940",
+        "IP": "104.74.129.13",
+        "Range": "104.64.0.0/10",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 6.206999999999994
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.44.20.37",
+        "Range": "23.32.0.0/11",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -5.837666666666678
+    }
+]

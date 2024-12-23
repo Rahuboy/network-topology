@@ -1,0 +1,65 @@
+[
+    {
+        "AS Number": "133982",
+        "IP": "103.57.86.1",
+        "Range": "103.57.86.0/24",
+        "Organization": "EXCITEL-AS-IN Excitel Broadband Private Limited, IN",
+        "Latency": 11.794
+    },
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": -2.5180000000000007
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 15.82566666666667
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.16",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 132.80333333333334
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.9",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 1.5730000000000075
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.38.194",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 10.114333333333349
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.36.81",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -13.650000000000034
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.209.18",
+        "Range": "192.33.208.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 27.03733333333338
+    },
+    {
+        "AS Number": "559",
+        "IP": "128.178.222.83",
+        "Range": "128.178.0.0/15",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -22.860666666666702
+    }
+]

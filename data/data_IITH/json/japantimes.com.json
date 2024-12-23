@@ -1,0 +1,16 @@
+[
+    {
+        "AS Number": "55836",
+        "IP": "115.247.100.29",
+        "Range": "115.240.0.0/13",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 28.34233333333334
+    },
+    {
+        "AS Number": "16509",
+        "IP": "52.219.8.123",
+        "Range": "52.219.8.0/24",
+        "Organization": "AMAZON-02, US",
+        "Latency": 112.79533333333332
+    }
+]

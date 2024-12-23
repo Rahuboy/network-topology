@@ -1,0 +1,4 @@
+traceroute to netflix.com (54.74.73.31), 50 hops max, 60 byte packets
+abts-ap-static-1.16.230.223.airtelbroadband.in (223.230.16.1)
+nsg-static-101.238.71.182.airtel.in (182.71.238.101)
+182.79.154.142 (182.79.154.142)

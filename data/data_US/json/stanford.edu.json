@@ -1,0 +1,37 @@
+[
+    {
+        "AS Number": "6167",
+        "IP": "70.216.0.0",
+        "Range": "70.216.0.0/18",
+        "Organization": "CELLCO-PART, US",
+        "Latency": 306.56066666666663
+    },
+    {
+        "AS Number": "11164",
+        "IP": "198.71.47.75",
+        "Range": "198.71.47.0/24",
+        "Organization": "INTERNET2-I2PX, US",
+        "Latency": 49.17766666666665
+    },
+    {
+        "AS Number": "2152",
+        "IP": "137.164.23.145",
+        "Range": "137.164.23.0/24",
+        "Organization": "CSUNET-NW, US",
+        "Latency": -2.200333333333276
+    },
+    {
+        "AS Number": "32",
+        "IP": "171.66.255.132",
+        "Range": "171.64.0.0/14",
+        "Organization": "STANFORD, US",
+        "Latency": 42.2286666666667
+    },
+    {
+        "AS Number": "32",
+        "IP": "171.67.215.200",
+        "Range": "171.64.0.0/14",
+        "Organization": "STANFORD, US",
+        "Latency": -24.904000000000053
+    }
+]

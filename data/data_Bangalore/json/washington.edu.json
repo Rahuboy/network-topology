@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 10.295
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 20.903
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.9",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 118.29700000000001
+    },
+    {
+        "AS Number": "101",
+        "IP": "209.124.188.134",
+        "Range": "209.124.184.0/21",
+        "Organization": "WASH-NSF-AS, US",
+        "Latency": 131.603
+    },
+    {
+        "AS Number": "101",
+        "IP": "209.124.188.135",
+        "Range": "209.124.184.0/21",
+        "Organization": "WASH-NSF-AS, US",
+        "Latency": -12.296333333333337
+    },
+    {
+        "AS Number": "73",
+        "IP": "128.95.155.195",
+        "Range": "128.95.0.0/16",
+        "Organization": "WASHINGTON-AS, US",
+        "Latency": 0.5276666666666756
+    },
+    {
+        "AS Number": "73",
+        "IP": "128.95.155.198",
+        "Range": "128.95.0.0/16",
+        "Organization": "WASHINGTON-AS, US",
+        "Latency": -7.1983333333333235
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 202.1626666666667
+    },
+    {
+        "AS Number": "3257",
+        "IP": "212.221.1.133",
+        "Range": "212.221.0.0/17",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 430.693
+    },
+    {
+        "AS Number": "3257",
+        "IP": "213.200.119.2",
+        "Range": "213.200.64.0/18",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": -444.71000000000004
+    },
+    {
+        "AS Number": "3257",
+        "IP": "77.67.83.98",
+        "Range": "77.67.0.0/17",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 0.3569999999999993
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.250.37.193",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": 6.340666666666664
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.250.238.1",
+        "Range": "142.250.0.0/15",
+        "Organization": "GOOGLE, US",
+        "Latency": 106.857
+    },
+    {
+        "AS Number": "15169",
+        "IP": "142.250.75.14",
+        "Range": "142.250.75.0/24",
+        "Organization": "GOOGLE, US",
+        "Latency": -103.81266666666667
+    }
+]

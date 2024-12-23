@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 39.626666666666665
+    },
+    {
+        "AS Number": "9498",
+        "IP": "59.144.94.165",
+        "Range": "59.144.94.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -24.046166666666664
+    },
+    {
+        "AS Number": "2200",
+        "IP": "193.55.204.194",
+        "Range": "193.54.0.0/15",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": 163.3965
+    },
+    {
+        "AS Number": "2200",
+        "IP": "193.51.177.107",
+        "Range": "193.48.0.0/14",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": -5.698666666666696
+    },
+    {
+        "AS Number": "2200",
+        "IP": "193.51.184.177",
+        "Range": "193.48.0.0/14",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": 2.007666666666722
+    },
+    {
+        "AS Number": "775",
+        "IP": "192.93.122.19",
+        "Range": "192.93.122.0/24",
+        "Organization": "FR-INRIA-ROCQ Institut National de Recherche en Informatique, EU",
+        "Latency": -1.0530000000000541
+    },
+    {
+        "AS Number": "2200",
+        "IP": "128.93.162.83",
+        "Range": "128.93.0.0/16",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": 2.995333333333349
+    }
+]

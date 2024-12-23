@@ -1,0 +1,16 @@
+[
+    {
+        "AS Number": "3269",
+        "IP": "88.48.0.0",
+        "Range": "88.48.0.0/15",
+        "Organization": "ASN-IBSNAZ, IT",
+        "Latency": 215.13433333333333
+    },
+    {
+        "AS Number": "16625",
+        "IP": "23.200.160.113",
+        "Range": "23.200.160.0/22",
+        "Organization": "AKAMAI-AS, US",
+        "Latency": -15.432333333333332
+    }
+]

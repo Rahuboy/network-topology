@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "3462",
+        "IP": "114.32.0.0",
+        "Range": "114.32.0.0/16",
+        "Organization": "HINET Data Communication Business Group, TW",
+        "Latency": 464.40766666666667
+    },
+    {
+        "AS Number": "61317",
+        "IP": "154.16.57.3",
+        "Range": "154.16.57.0/24",
+        "Organization": "ASDETUK www.heficed.com, US",
+        "Latency": -46.29966666666667
+    },
+    {
+        "AS Number": "3356",
+        "IP": "8.243.152.21",
+        "Range": "8.243.144.0/20",
+        "Organization": "LEVEL3, US",
+        "Latency": -10.086000000000013
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.68.74.22",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 76.279
+    },
+    {
+        "AS Number": "3257",
+        "IP": "213.200.119.214",
+        "Range": "213.200.64.0/18",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 121.4203333333333
+    },
+    {
+        "AS Number": "3257",
+        "IP": "77.67.123.206",
+        "Range": "77.67.0.0/17",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": -35.05266666666671
+    },
+    {
+        "AS Number": "2200",
+        "IP": "193.51.177.107",
+        "Range": "193.48.0.0/14",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": 14.44500000000005
+    },
+    {
+        "AS Number": "2200",
+        "IP": "193.51.184.177",
+        "Range": "193.48.0.0/14",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": -7.341666666666583
+    },
+    {
+        "AS Number": "775",
+        "IP": "192.93.122.19",
+        "Range": "192.93.122.0/24",
+        "Organization": "FR-INRIA-ROCQ Institut National de Recherche en Informatique, EU",
+        "Latency": -17.693333333333385
+    },
+    {
+        "AS Number": "2200",
+        "IP": "128.93.162.83",
+        "Range": "128.93.0.0/16",
+        "Organization": "FR-RENATER Reseau National de telecommunications pour la Technologie, FR",
+        "Latency": -8.224666666666621
+    }
+]

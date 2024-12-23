@@ -1,0 +1,100 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 6.538333333333334
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 9.599
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.150.41",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 1.4546666666666646
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.174",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 28.96999999999999
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.27",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 225.407
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.107",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": -36.90633333333332
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.45",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 5.39233333333334
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.3.16",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 14.486000000000018
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.6.116",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": -9.853500000000025
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.37",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 19.219833333333355
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.87",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 10.688333333333333
+    },
+    {
+        "AS Number": "2914",
+        "IP": "129.250.2.108",
+        "Range": "129.250.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 3.8126666666666438
+    },
+    {
+        "AS Number": "2914",
+        "IP": "168.143.228.101",
+        "Range": "168.143.0.0/16",
+        "Organization": "NTT-LTD-2914, US",
+        "Latency": 144.95166666666665
+    },
+    {
+        "AS Number": "19037",
+        "IP": "170.51.254.175",
+        "Range": "170.51.254.0/24",
+        "Organization": "AMX Argentina S.A., AR",
+        "Latency": -24.895333333333326
+    }
+]

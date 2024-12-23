@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "3356",
+        "IP": "4.14.218.21",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 284.545
+    },
+    {
+        "AS Number": "3356",
+        "IP": "4.69.203.66",
+        "Range": "4.0.0.0/9",
+        "Organization": "LEVEL3, US",
+        "Latency": 85.37066666666658
+    },
+    {
+        "AS Number": "3356",
+        "IP": "213.242.73.74",
+        "Range": "213.242.64.0/18",
+        "Organization": "LEVEL3, US",
+        "Latency": 30.88933333333341
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.38.194",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -36.49466666666666
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.36.81",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 13.652000000000044
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.209.18",
+        "Range": "192.33.208.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 21.262666666666576
+    }
+]

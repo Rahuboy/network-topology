@@ -1,0 +1,121 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 11.740666666666668
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 19.899
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.2",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 139.38966666666664
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.13",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 85.77100000000004
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.116",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 66.0306666666666
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.123",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 6.1100000000000705
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.2.143",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 0.9173333333333176
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.2.17",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -0.3280000000000314
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.2.18",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -4.021333333333303
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.245",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -2.7356666666667024
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.242",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": -0.2243333333332771
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.171",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 2.0763333333333094
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.157",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 64.20533333333339
+    },
+    {
+        "AS Number": "11537",
+        "IP": "64.57.28.54",
+        "Range": "64.57.16.0/20",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 125.32833333333326
+    },
+    {
+        "AS Number": "101",
+        "IP": "209.124.181.135",
+        "Range": "209.124.176.0/21",
+        "Organization": "WASH-NSF-AS, US",
+        "Latency": -120.23433333333338
+    },
+    {
+        "AS Number": "73",
+        "IP": "128.95.155.195",
+        "Range": "128.95.0.0/16",
+        "Organization": "WASHINGTON-AS, US",
+        "Latency": 116.49400000000003
+    },
+    {
+        "AS Number": "73",
+        "IP": "128.95.155.197",
+        "Range": "128.95.0.0/16",
+        "Organization": "WASHINGTON-AS, US",
+        "Latency": -115.47499999999991
+    }
+]

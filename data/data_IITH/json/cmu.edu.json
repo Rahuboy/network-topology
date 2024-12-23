@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 18.132666666666665
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 83.95233333333333
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.2",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 85.83766666666669
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.13",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 68.95233333333331
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.41",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 2.961999999999989
+    },
+    {
+        "AS Number": "11537",
+        "IP": "163.253.1.241",
+        "Range": "163.253.0.0/22",
+        "Organization": "INTERNET2-RESEARCH-EDU, US",
+        "Latency": 0.5206666666667275
+    },
+    {
+        "AS Number": "14877",
+        "IP": "162.223.17.79",
+        "Range": "162.223.17.0/24",
+        "Organization": "FL-14877, US",
+        "Latency": 9.700333333333333
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.255.181",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": 0.6356666666666797
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.255.202",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": -2.9463333333334276
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.42.10",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": 2.266999999999996
+    }
+]

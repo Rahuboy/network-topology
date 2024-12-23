@@ -1,0 +1,206 @@
+[
+    {
+        "AS_Src": 0,
+        "AS_Dst": 59193,
+        "Latency": 5.157,
+        "Path": "cloudflare.com"
+    },
+    {
+        "AS_Src": 59193,
+        "AS_Dst": 55836,
+        "Latency": 1.134333333333334,
+        "Path": "cloudflare.com"
+    },
+    {
+        "AS_Src": 55836,
+        "AS_Dst": 13335,
+        "Latency": 7.5006666666666675,
+        "Path": "cloudflare.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 59193,
+        "Latency": 2.8303333333333334,
+        "Path": "cisco.com"
+    },
+    {
+        "AS_Src": 59193,
+        "AS_Dst": 55836,
+        "Latency": 4.040333333333335,
+        "Path": "cisco.com"
+    },
+    {
+        "AS_Src": 55836,
+        "AS_Dst": 3356,
+        "Latency": 140.09199999999998,
+        "Path": "cisco.com"
+    },
+    {
+        "AS_Src": 3356,
+        "AS_Dst": 109,
+        "Latency": 107.40233333333336,
+        "Path": "cisco.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 59193,
+        "Latency": 3.6573333333333338,
+        "Path": "news.com.au"
+    },
+    {
+        "AS_Src": 59193,
+        "AS_Dst": 55836,
+        "Latency": 3.1083333333333334,
+        "Path": "news.com.au"
+    },
+    {
+        "AS_Src": 55836,
+        "AS_Dst": 16625,
+        "Latency": 13.58400000000006,
+        "Path": "news.com.au"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 59193,
+        "Latency": 4.468666666666667,
+        "Path": "google.com"
+    },
+    {
+        "AS_Src": 59193,
+        "AS_Dst": 15169,
+        "Latency": 27.17133333333333,
+        "Path": "google.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 59193,
+        "Latency": 3.9926666666666666,
+        "Path": "ntt.com"
+    },
+    {
+        "AS_Src": 59193,
+        "AS_Dst": 55836,
+        "Latency": 2.724666666666667,
+        "Path": "ntt.com"
+    },
+    {
+        "AS_Src": 55836,
+        "AS_Dst": 64049,
+        "Latency": 247.18900000000002,
+        "Path": "ntt.com"
+    },
+    {
+        "AS_Src": 64049,
+        "AS_Dst": 3356,
+        "Latency": 31.23733333333331,
+        "Path": "ntt.com"
+    },
+    {
+        "AS_Src": 3356,
+        "AS_Dst": 2914,
+        "Latency": 35.53600000000006,
+        "Path": "ntt.com"
+    },
+    {
+        "AS_Src": 2914,
+        "AS_Dst": 4713,
+        "Latency": 43.622999999999934,
+        "Path": "ntt.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 59193,
+        "Latency": 2.7803333333333335,
+        "Path": "bbc.com"
+    },
+    {
+        "AS_Src": 59193,
+        "AS_Dst": 55836,
+        "Latency": 6.1786666666666665,
+        "Path": "bbc.com"
+    },
+    {
+        "AS_Src": 55836,
+        "AS_Dst": 54113,
+        "Latency": 7.388999999999999,
+        "Path": "bbc.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 59193,
+        "Latency": 3.4136666666666664,
+        "Path": "japantimes.com"
+    },
+    {
+        "AS_Src": 59193,
+        "AS_Dst": 55836,
+        "Latency": 3.1343333333333327,
+        "Path": "japantimes.com"
+    },
+    {
+        "AS_Src": 55836,
+        "AS_Dst": 16509,
+        "Latency": 125.21966666666665,
+        "Path": "japantimes.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 59193,
+        "Latency": 4.387333333333333,
+        "Path": "facebook.com"
+    },
+    {
+        "AS_Src": 59193,
+        "AS_Dst": 55836,
+        "Latency": 25.50633333333333,
+        "Path": "facebook.com"
+    },
+    {
+        "AS_Src": 55836,
+        "AS_Dst": 32934,
+        "Latency": 9.373999999999999,
+        "Path": "facebook.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 59193,
+        "Latency": 4.6946666666666665,
+        "Path": "indiatoday.i"
+    },
+    {
+        "AS_Src": 59193,
+        "AS_Dst": 55836,
+        "Latency": 2.2826666666666675,
+        "Path": "indiatoday.i"
+    },
+    {
+        "AS_Src": 55836,
+        "AS_Dst": 2914,
+        "Latency": 205.49866666666668,
+        "Path": "indiatoday.i"
+    },
+    {
+        "AS_Src": 2914,
+        "AS_Dst": 20940,
+        "Latency": 91.8656666666667,
+        "Path": "indiatoday.i"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 59193,
+        "Latency": 2.9836666666666667,
+        "Path": "wikipedia.org"
+    },
+    {
+        "AS_Src": 59193,
+        "AS_Dst": 55836,
+        "Latency": 3.3363333333333336,
+        "Path": "wikipedia.org"
+    },
+    {
+        "AS_Src": 55836,
+        "AS_Dst": 14907,
+        "Latency": 49.806,
+        "Path": "wikipedia.org"
+    }
+]

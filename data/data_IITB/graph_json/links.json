@@ -1,0 +1,116 @@
+[
+    {
+        "AS_Src": 0,
+        "AS_Dst": 224,
+        "Latency": 32.0665,
+        "Path": "uio.no"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 9432,
+        "Latency": 2.303,
+        "Path": "canterbury.ac.nz"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 13335,
+        "Latency": 27.348,
+        "Path": "cloudflare.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 15169,
+        "Latency": 29.7265,
+        "Path": "google.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 209242,
+        "Latency": 5.986666666666667,
+        "Path": "berkeley.edu"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 54113,
+        "Latency": 38.75266666666667,
+        "Path": "harvard.edu"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 198032,
+        "Latency": 15.884333333333336,
+        "Path": "cambridgeinternational.org"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 4713,
+        "Latency": 9.08,
+        "Path": "ntt.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 16509,
+        "Latency": 17.564999999999998,
+        "Path": "ibibo.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 1653,
+        "Latency": 8.821,
+        "Path": "su.se"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 36914,
+        "Latency": 2.380333333333333,
+        "Path": "uonbi.ac.ke"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 16509,
+        "Latency": 17.328666666666667,
+        "Path": "primevideo.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 132780,
+        "Latency": 27.284666666666666,
+        "Path": "iitd.ac.in"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 9,
+        "Latency": 5.091,
+        "Path": "cmu.edu"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 200350,
+        "Latency": 11.897333333333334,
+        "Path": "msu.ru"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 32934,
+        "Latency": 29.870333333333335,
+        "Path": "facebook.com"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 32,
+        "Latency": 30.513,
+        "Path": "stanford.edu"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 2018,
+        "Latency": 13.186,
+        "Path": "up.ac.za"
+    },
+    {
+        "AS_Src": 0,
+        "AS_Dst": 207592,
+        "Latency": 13.223666666666666,
+        "Path": "mpg.de"
+    }
+]

@@ -1,0 +1,11 @@
+traceroute to washington.edu (128.95.155.135), 50 hops max, 60 byte packets
+abts-ap-static-1.16.230.223.airtelbroadband.in (223.230.16.1)
+59.144.94.165 (59.144.94.165)
+116.119.57.154 (116.119.57.154)
+116.51.31.53 (116.51.31.53)
+ae-2.r32.tokyjp05.jp.bb.gin.ntt.net (129.250.4.204)
+* * ae-0.a03.sttlwa01.us.bb.gin.ntt.net (129.250.2.99)
+ae-0.university-of-washington-pacific-northwest-gigapop.sttlwa01.us.bb.gin.ntt.net (198.104.202.6)
+et-7-0-0--4010.uwcr-atg-1.infra.washington.edu (209.124.188.135)
+ae4--583.uwar-ads-1.infra.washington.edu (128.95.155.131)
+www2.cac.washington.edu (128.95.155.135)

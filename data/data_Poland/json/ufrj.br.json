@@ -1,0 +1,142 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 188.30766666666668
+    },
+    {
+        "AS Number": "3257",
+        "IP": "212.221.1.133",
+        "Range": "212.221.0.0/17",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 451.91999999999996
+    },
+    {
+        "AS Number": "3257",
+        "IP": "89.149.180.82",
+        "Range": "89.149.128.0/18",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": -450.86766666666665
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.15.253",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": 0.957333333333338
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.51.106",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": 16.360333333333358
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.38.209",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 1.3199999999999648
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.56.174",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 118.697
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.61.117",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -24.936999999999955
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.85.245",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -15.872333333333358
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.24.222",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 20.905333333333374
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.28.50",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 22.144999999999982
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.88.234",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -6.745666666666693
+    },
+    {
+        "AS Number": "174",
+        "IP": "38.88.165.74",
+        "Range": "38.0.0.0/8",
+        "Organization": "COGENT-174, US",
+        "Latency": 1.822999999999979
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.252.251",
+        "Range": "200.143.192.0/18",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 58.52133333333336
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.253.30",
+        "Range": "200.143.192.0/18",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 23.804666666666662
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.253.22",
+        "Range": "200.143.192.0/18",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 22.76266666666669
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.53",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": 5.865000000000009
+    },
+    {
+        "AS Number": "1916",
+        "IP": "200.143.240.65",
+        "Range": "200.143.240.0/21",
+        "Organization": "Rede Nacional de Ensino e Pesquisa, BR",
+        "Latency": -0.3146666666666533
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.200.254",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": 5.838999999999942
+    },
+    {
+        "AS Number": "2715",
+        "IP": "146.164.84.216",
+        "Range": "146.164.0.0/16",
+        "Organization": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa, BR",
+        "Latency": -12.423666666666634
+    }
+]

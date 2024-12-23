@@ -1,0 +1,10 @@
+traceroute to github.com (20.207.73.82), 50 hops max, 60 byte packets
+abts-ap-static-1.16.230.223.airtelbroadband.in (223.230.16.1)
+nsg-static-101.238.71.182.airtel.in (182.71.238.101)
+182.79.177.69 (182.79.177.69)
+ae60-0.ier02.maa30.ntwk.msn.net (198.200.130.17)
+ae21-0.ear02.maa30.ntwk.msn.net (104.44.41.235)
+be-24-0.ibr02.maa30.ntwk.msn.net (104.44.22.129)
+be-6-0.ibr02.pnq21.ntwk.msn.net (104.44.28.114)
+ae124-0.rwa03.pnq21.ntwk.msn.net (104.44.21.22)
+20.207.73.82 (20.207.73.82)

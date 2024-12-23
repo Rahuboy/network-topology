@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 9.162
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 13.771333333333336
+    },
+    {
+        "AS Number": "4755",
+        "IP": "14.143.159.181",
+        "Range": "14.143.158.0/23",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": -4.038000000000007
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 17.14433333333334
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.16",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 118.45333333333332
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.153.168",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 0.30700000000001637
+    },
+    {
+        "AS Number": "680",
+        "IP": "188.1.238.182",
+        "Range": "188.1.0.0/16",
+        "Organization": "DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE",
+        "Latency": 10.754666666666651
+    },
+    {
+        "AS Number": "207592",
+        "IP": "195.12.38.75",
+        "Range": "195.12.38.0/24",
+        "Organization": "GOENET, DE",
+        "Latency": 0.7126666666666779
+    },
+    {
+        "AS Number": "207592",
+        "IP": "134.76.147.185",
+        "Range": "134.76.0.0/16",
+        "Organization": "GOENET, DE",
+        "Latency": 6.649000000000001
+    },
+    {
+        "AS Number": "207592",
+        "IP": "134.76.31.198",
+        "Range": "134.76.0.0/16",
+        "Organization": "GOENET, DE",
+        "Latency": -3.163000000000011
+    }
+]

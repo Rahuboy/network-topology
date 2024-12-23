@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 7.590333333333334
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 11.139666666666667
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.150.41",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 2.2666666666666657
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.174",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 24.657666666666668
+    },
+    {
+        "AS Number": "64049",
+        "IP": "49.45.4.65",
+        "Range": "49.45.4.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": -1.4936666666666696
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.142.223",
+        "Range": "103.198.142.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 34.217000000000006
+    },
+    {
+        "AS Number": "8966",
+        "IP": "195.229.1.162",
+        "Range": "195.229.0.0/19",
+        "Organization": "ETISALAT-AS P.O. Box 1150, Dubai, U, AE",
+        "Latency": 0.8263333333333378
+    },
+    {
+        "AS Number": "8966",
+        "IP": "195.229.31.241",
+        "Range": "195.229.31.0/24",
+        "Organization": "ETISALAT-AS P.O. Box 1150, Dubai, U, AE",
+        "Latency": 6.815999999999988
+    },
+    {
+        "AS Number": "8966",
+        "IP": "195.229.27.122",
+        "Range": "195.229.0.0/19",
+        "Organization": "ETISALAT-AS P.O. Box 1150, Dubai, U, AE",
+        "Latency": 15.691666666666663
+    },
+    {
+        "AS Number": "200350",
+        "IP": "130.193.63.246",
+        "Range": "130.193.32.0/19",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": 211.66566666666665
+    },
+    {
+        "AS Number": "200350",
+        "IP": "178.154.243.30",
+        "Range": "178.154.243.0/24",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": -59.818666666666644
+    }
+]

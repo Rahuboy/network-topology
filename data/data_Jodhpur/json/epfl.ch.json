@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 8.585666666666667
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 15.358999999999996
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.150.41",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": -6.422666666666661
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.174",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 41.608333333333334
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.85",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 117.66033333333334
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.191",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 24.800333333333327
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.38.194",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -14.470000000000027
+    },
+    {
+        "AS Number": "559",
+        "IP": "130.59.36.81",
+        "Range": "130.59.0.0/16",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 12.496999999999986
+    },
+    {
+        "AS Number": "559",
+        "IP": "192.33.209.18",
+        "Range": "192.33.208.0/22",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": -10.873333333333278
+    },
+    {
+        "AS Number": "559",
+        "IP": "128.178.222.83",
+        "Range": "128.178.0.0/15",
+        "Organization": "SWITCH Peering requests: peering@switch.ch, CH",
+        "Latency": 11.840999999999951
+    }
+]

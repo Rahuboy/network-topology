@@ -1,0 +1,86 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 23.29733333333333
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.18",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 15.923999999999996
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.6",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 136.73766666666666
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.31",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": 15.579666666666697
+    },
+    {
+        "AS Number": "55824",
+        "IP": "180.149.48.32",
+        "Range": "180.149.48.0/24",
+        "Organization": "NKN-CORE-NW NKN Core Network, IN",
+        "Latency": -0.16633333333334122
+    },
+    {
+        "AS Number": "20965",
+        "IP": "62.40.125.214",
+        "Range": "62.40.96.0/19",
+        "Organization": "GEANT The GEANT IP Service, NL",
+        "Latency": 3.3070000000000164
+    },
+    {
+        "AS Number": "20965",
+        "IP": "62.40.98.182",
+        "Range": "62.40.96.0/19",
+        "Organization": "GEANT The GEANT IP Service, NL",
+        "Latency": -6.167000000000002
+    },
+    {
+        "AS Number": "20965",
+        "IP": "62.40.124.218",
+        "Range": "62.40.96.0/19",
+        "Organization": "GEANT The GEANT IP Service, NL",
+        "Latency": 0.6816666666666436
+    },
+    {
+        "AS Number": "680",
+        "IP": "188.1.238.182",
+        "Range": "188.1.0.0/16",
+        "Organization": "DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE",
+        "Latency": 3.4253333333333273
+    },
+    {
+        "AS Number": "207592",
+        "IP": "195.12.38.73",
+        "Range": "195.12.38.0/24",
+        "Organization": "GOENET, DE",
+        "Latency": 2.6476666666667086
+    },
+    {
+        "AS Number": "680",
+        "IP": "134.76.147.181",
+        "Range": "134.76.0.0/16",
+        "Organization": "DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE",
+        "Latency": -1.4420000000000073
+    },
+    {
+        "AS Number": "680",
+        "IP": "134.76.31.198",
+        "Range": "134.76.0.0/16",
+        "Organization": "DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE",
+        "Latency": 24.45733333333331
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "AS Number": "9498",
+        "IP": "103.156.182.37",
+        "Range": "103.156.182.0/23",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 42.089666666666666
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.206.173.35",
+        "Range": "23.206.173.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 7.980000000000004
+    }
+]

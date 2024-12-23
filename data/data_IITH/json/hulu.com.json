@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 68.023
+    },
+    {
+        "AS Number": "55836",
+        "IP": "115.247.100.29",
+        "Range": "115.240.0.0/13",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": -40.70566666666666
+    },
+    {
+        "AS Number": "64049",
+        "IP": "49.45.4.81",
+        "Range": "49.45.4.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 22.22333333333334
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.142.241",
+        "Range": "103.198.142.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 0.8323333333333238
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.56.138.32",
+        "Range": "23.56.138.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -3.033999999999999
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.56.138.31",
+        "Range": "23.56.138.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 99.20333333333332
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.220.203.59",
+        "Range": "23.220.203.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -64.68199999999997
+    }
+]

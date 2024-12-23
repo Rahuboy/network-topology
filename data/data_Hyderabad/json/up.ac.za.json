@@ -1,0 +1,58 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 35.58433333333333
+    },
+    {
+        "AS Number": "9498",
+        "IP": "182.71.238.93",
+        "Range": "182.71.238.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": -11.694333333333333
+    },
+    {
+        "AS Number": "9498",
+        "IP": "116.119.36.231",
+        "Range": "116.119.32.0/19",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 115.24900000000001
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.216.6",
+        "Range": "155.232.0.0/16",
+        "Organization": "TENET-1, ZA",
+        "Latency": 25.601999999999975
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.1.86",
+        "Range": "155.232.0.0/17",
+        "Organization": "TENET-1, ZA",
+        "Latency": 185.78033333333332
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.1.153",
+        "Range": "155.232.0.0/17",
+        "Organization": "TENET-1, ZA",
+        "Latency": 0.329333333333409
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.1.97",
+        "Range": "155.232.0.0/17",
+        "Organization": "TENET-1, ZA",
+        "Latency": -12.164333333333389
+    },
+    {
+        "AS Number": "2018",
+        "IP": "155.232.128.89",
+        "Range": "155.232.0.0/16",
+        "Organization": "TENET-1, ZA",
+        "Latency": 3.92133333333328
+    }
+]

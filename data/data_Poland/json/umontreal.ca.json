@@ -1,0 +1,44 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 194.101
+    },
+    {
+        "AS Number": "3257",
+        "IP": "212.221.1.133",
+        "Range": "212.221.0.0/17",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 35.653999999999996
+    },
+    {
+        "AS Number": "3257",
+        "IP": "89.149.186.134",
+        "Range": "89.149.128.0/18",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 54.326333333333366
+    },
+    {
+        "AS Number": "3257",
+        "IP": "208.116.159.206",
+        "Range": "208.116.128.0/17",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": -3.352000000000089
+    },
+    {
+        "AS Number": "376",
+        "IP": "192.77.63.70",
+        "Range": "192.77.63.0/24",
+        "Organization": "RISQ-AS, CA",
+        "Latency": 1.6946666666667056
+    },
+    {
+        "AS Number": "376",
+        "IP": "206.167.128.74",
+        "Range": "206.167.128.0/17",
+        "Organization": "RISQ-AS, CA",
+        "Latency": 17.552333333333365
+    }
+]

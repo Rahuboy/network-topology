@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "24560",
+        "IP": "223.230.16.1",
+        "Range": "223.230.16.0/24",
+        "Organization": "AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN",
+        "Latency": 21.177333333333333
+    },
+    {
+        "AS Number": "9498",
+        "IP": "202.56.234.81",
+        "Range": "202.56.234.0/24",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 16.356333333333335
+    },
+    {
+        "AS Number": "9498",
+        "IP": "116.119.94.26",
+        "Range": "116.119.64.0/18",
+        "Organization": "BBIL-AP BHARTI Airtel Ltd., IN",
+        "Latency": 0.5308333333333337
+    },
+    {
+        "AS Number": "32934",
+        "IP": "157.240.68.40",
+        "Range": "157.240.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": 33.848166666666664
+    },
+    {
+        "AS Number": "32934",
+        "IP": "129.134.51.11",
+        "Range": "129.134.0.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": -38.181666666666665
+    },
+    {
+        "AS Number": "32934",
+        "IP": "173.252.67.89",
+        "Range": "173.252.64.0/19",
+        "Organization": "FACEBOOK, US",
+        "Latency": -6.799333333333333
+    },
+    {
+        "AS Number": "32934",
+        "IP": "163.70.138.35",
+        "Range": "163.70.128.0/17",
+        "Organization": "FACEBOOK, US",
+        "Latency": 3.6509999999999962
+    }
+]

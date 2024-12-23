@@ -1,0 +1,58 @@
+[
+    {
+        "AS Number": "59193",
+        "IP": "103.232.241.2",
+        "Range": "103.232.241.0/24",
+        "Organization": "D3079306AFIN-AS IIT Hyderabad, IN",
+        "Latency": 16.629333333333335
+    },
+    {
+        "AS Number": "55836",
+        "IP": "115.247.100.29",
+        "Range": "115.240.0.0/13",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": -8.105000000000002
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.142.223",
+        "Range": "103.198.142.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 61.104666666666674
+    },
+    {
+        "AS Number": "8966",
+        "IP": "195.229.1.162",
+        "Range": "195.229.0.0/19",
+        "Organization": "ETISALAT-AS P.O. Box 1150, Dubai, U, AE",
+        "Latency": 0.6976666666666631
+    },
+    {
+        "AS Number": "8966",
+        "IP": "195.229.31.241",
+        "Range": "195.229.31.0/24",
+        "Organization": "ETISALAT-AS P.O. Box 1150, Dubai, U, AE",
+        "Latency": 4.897333333333336
+    },
+    {
+        "AS Number": "8966",
+        "IP": "195.229.27.122",
+        "Range": "195.229.0.0/19",
+        "Organization": "ETISALAT-AS P.O. Box 1150, Dubai, U, AE",
+        "Latency": -16.58666666666668
+    },
+    {
+        "AS Number": "200350",
+        "IP": "130.193.63.246",
+        "Range": "130.193.32.0/19",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": 138.42000000000002
+    },
+    {
+        "AS Number": "200350",
+        "IP": "178.154.243.30",
+        "Range": "178.154.243.0/24",
+        "Organization": "YANDEXCLOUD, RU",
+        "Latency": -1.2326666666666881
+    }
+]

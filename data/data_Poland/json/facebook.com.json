@@ -1,0 +1,23 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 195.596
+    },
+    {
+        "AS Number": "32934",
+        "IP": "173.252.67.175",
+        "Range": "173.252.64.0/19",
+        "Organization": "FACEBOOK, US",
+        "Latency": -0.5933333333333337
+    },
+    {
+        "AS Number": "32934",
+        "IP": "31.13.81.36",
+        "Range": "31.13.81.0/24",
+        "Organization": "FACEBOOK, US",
+        "Latency": 113.05199999999999
+    }
+]

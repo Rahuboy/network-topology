@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "132215",
+        "IP": "220.158.144.33",
+        "Range": "220.158.144.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 5.943666666666668
+    },
+    {
+        "AS Number": "132215",
+        "IP": "103.120.29.90",
+        "Range": "103.120.29.0/24",
+        "Organization": "POWERGRID-IN Power Grid Corporation of India Limited, IN",
+        "Latency": 13.123666666666665
+    },
+    {
+        "AS Number": "55836",
+        "IP": "136.232.150.41",
+        "Range": "136.232.0.0/15",
+        "Organization": "RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN",
+        "Latency": 4.079333333333331
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.64",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 30.094666666666672
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.140.249",
+        "Range": "103.198.140.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 39.59666666666667
+    },
+    {
+        "AS Number": "64049",
+        "IP": "103.198.142.241",
+        "Range": "103.198.142.0/24",
+        "Organization": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore, SG",
+        "Latency": 1.3336666666666588
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.56.138.36",
+        "Range": "23.56.138.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -7.393333333333317
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.215.54.209",
+        "Range": "23.215.54.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": 4.632999999999996
+    },
+    {
+        "AS Number": "20940",
+        "IP": "23.56.139.35",
+        "Range": "23.56.139.0/24",
+        "Organization": "AKAMAI-ASN1, NL",
+        "Latency": -5.048333333333346
+    },
+    {
+        "AS Number": "16625",
+        "IP": "104.69.40.155",
+        "Range": "104.69.32.0/20",
+        "Organization": "AKAMAI-AS, US",
+        "Latency": 5.658000000000001
+    }
+]

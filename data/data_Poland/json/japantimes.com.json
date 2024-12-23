@@ -1,0 +1,86 @@
+[
+    {
+        "AS Number": "3269",
+        "IP": "88.48.0.0",
+        "Range": "88.48.0.0/15",
+        "Organization": "ASN-IBSNAZ, IT",
+        "Latency": 214.28166666666667
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.38.62",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": -8.205666666666644
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.120.68",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 3.1756666666666433
+    },
+    {
+        "AS Number": "1299",
+        "IP": "62.115.120.71",
+        "Range": "62.115.0.0/16",
+        "Organization": "TWELVE99 Arelion, fka Telia Carrier, SE",
+        "Latency": 20.523000000000025
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.14.245",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": -21.531000000000034
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.72.5",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 13.301000000000016
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.38.209",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 36.98066666666665
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.56.174",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -21.84299999999999
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.72.226",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -1.5246666666666897
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.87.213",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 145.60933333333335
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.18.19.162",
+        "Range": "154.18.0.0/15",
+        "Organization": "COGENT-174, US",
+        "Latency": -9.651999999999987
+    },
+    {
+        "AS Number": "16509",
+        "IP": "52.219.150.115",
+        "Range": "52.219.150.0/24",
+        "Organization": "AMAZON-02, US",
+        "Latency": 70.87666666666661
+    }
+]

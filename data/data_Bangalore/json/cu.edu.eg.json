@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 23.506
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.38.5",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 2.759333333333334
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.16",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 133.31116666666668
+    },
+    {
+        "AS Number": "6453",
+        "IP": "195.219.174.9",
+        "Range": "195.219.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": 4.17349999999999
+    },
+    {
+        "AS Number": "6453",
+        "IP": "80.231.154.61",
+        "Range": "80.231.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": -5.561666666666667
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.15.69",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": 4.607666666666688
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.61.33",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 20.484333333333268
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.61.17",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 13.946000000000026
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.72.110",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -16.63500000000002
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.74.166",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": -0.5399999999999636
+    },
+    {
+        "AS Number": "174",
+        "IP": "149.14.135.106",
+        "Range": "149.14.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": 40.56733333333332
+    }
+]

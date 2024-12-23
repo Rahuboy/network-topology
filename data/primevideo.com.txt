@@ -1,0 +1,6 @@
+traceroute to primevideo.com (18.155.33.104), 50 hops max, 60 byte packets
+abts-ap-static-1.16.230.223.airtelbroadband.in (223.230.16.1)
+* 15.230.44.231 (15.230.44.231)
+* * 15.230.47.141 (15.230.47.141)
+52.93.115.1 (52.93.115.1)
+server-18-155-33-104.hyd57.r.cloudfront.net (18.155.33.104)

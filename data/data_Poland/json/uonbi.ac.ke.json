@@ -1,0 +1,79 @@
+[
+    {
+        "AS Number": "3209",
+        "IP": "88.72.0.0",
+        "Range": "88.64.0.0/12",
+        "Organization": "VODANET International IP-Backbone of Vodafone, DE",
+        "Latency": 203.11766666666668
+    },
+    {
+        "AS Number": "3257",
+        "IP": "212.221.1.133",
+        "Range": "212.221.0.0/17",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": 437.967
+    },
+    {
+        "AS Number": "3257",
+        "IP": "89.149.180.82",
+        "Range": "89.149.128.0/18",
+        "Organization": "GTT-BACKBONE GTT, US",
+        "Latency": -450.02033333333327
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.15.253",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": 12.75133333333332
+    },
+    {
+        "AS Number": "174",
+        "IP": "130.117.51.106",
+        "Range": "130.117.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": -3.353999999999985
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.38.209",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 20.506
+    },
+    {
+        "AS Number": "174",
+        "IP": "154.54.39.186",
+        "Range": "154.48.0.0/12",
+        "Organization": "COGENT-174, US",
+        "Latency": 39.84266666666667
+    },
+    {
+        "AS Number": "174",
+        "IP": "149.11.38.190",
+        "Range": "149.11.0.0/16",
+        "Organization": "COGENT-174, US",
+        "Latency": -51.346000000000004
+    },
+    {
+        "AS Number": "36914",
+        "IP": "197.136.176.58",
+        "Range": "197.136.0.0/14",
+        "Organization": "KENET-AS, KE",
+        "Latency": 137.42933333333332
+    },
+    {
+        "AS Number": "36914",
+        "IP": "197.136.172.81",
+        "Range": "197.136.0.0/14",
+        "Organization": "KENET-AS, KE",
+        "Latency": 11.349000000000046
+    },
+    {
+        "AS Number": "36914",
+        "IP": "41.204.161.206",
+        "Range": "41.204.161.0/24",
+        "Organization": "KENET-AS, KE",
+        "Latency": -1.1513333333334117
+    }
+]

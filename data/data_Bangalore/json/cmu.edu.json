@@ -1,0 +1,72 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 15.245666666666667
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.37.1",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 8.567000000000002
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.37.65",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 188.65733333333333
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.3.131",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 24.40100000000001
+    },
+    {
+        "AS Number": "6453",
+        "IP": "64.86.252.66",
+        "Range": "64.86.0.0/16",
+        "Organization": "AS6453, US",
+        "Latency": -12.75
+    },
+    {
+        "AS Number": "2828",
+        "IP": "206.111.11.68",
+        "Range": "206.111.0.0/16",
+        "Organization": "XO-AS15, US",
+        "Latency": -6.949000000000012
+    },
+    {
+        "AS Number": "2828",
+        "IP": "66.3.25.94",
+        "Range": "66.2.0.0/15",
+        "Organization": "XO-AS15, US",
+        "Latency": 42.186666666666696
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.0.181",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": 5.291666666666629
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.0.202",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": -2.3909999999999627
+    },
+    {
+        "AS Number": "9",
+        "IP": "128.2.42.10",
+        "Range": "128.2.0.0/16",
+        "Organization": "CMU-ROUTER, US",
+        "Latency": 31.742999999999995
+    }
+]

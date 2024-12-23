@@ -1,0 +1,51 @@
+[
+    {
+        "AS Number": "4755",
+        "IP": "59.160.132.61",
+        "Range": "59.160.128.0/20",
+        "Organization": "TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",
+        "Latency": 14.263666666666666
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.36.9",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 4.388000000000002
+    },
+    {
+        "AS Number": "6453",
+        "IP": "180.87.108.145",
+        "Range": "180.87.0.0/17",
+        "Organization": "AS6453, US",
+        "Latency": 60.957666666666654
+    },
+    {
+        "AS Number": "3549",
+        "IP": "113.29.115.254",
+        "Range": "113.29.112.0/20",
+        "Organization": "LVLT-3549, US",
+        "Latency": 215.19566666666668
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.33.236",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": -4.616666666666674
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.39.177",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": 4.522333333333336
+    },
+    {
+        "AS Number": "38022",
+        "IP": "210.7.39.178",
+        "Range": "210.7.32.0/20",
+        "Organization": "REANNZ-NZ-AP REANNZ National Research and Education Network, NZ",
+        "Latency": -15.088333333333367
+    }
+]
